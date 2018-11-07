@@ -3,7 +3,7 @@ layout: post
 title: '开发规范！Git Fork 全流程记录'
 date: 2018-07-06
 author: June
-cover: 'https://june111.github.io/blog/assets/img/post/git-fork.png'
+cover: 'https://june111.github.io/assets/img/post/git-fork.png'
 tags: 技术
 ---
 

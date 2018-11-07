@@ -3,7 +3,7 @@ layout: post
 title: '浏览器兼容性问题的解决参考方案'
 date: 2018-10-25
 author: June
-cover: 'https://june111.github.io/blog/assets/img/post/browser-compatibility.png'
+cover: 'https://june111.github.io/assets/img/post/browser-compatibility.png'
 tags: 前端
 ---
 
@@ -339,7 +339,7 @@ ps：这些在线测试工具大多是付费的，而且体验不好。
 
 觉得文章不错就扫码支持一下呗～
 
-![打赏二维码](https://june111.github.io/blog/assets/img/post/pay-qr.jpg)
+![打赏二维码](https://june111.github.io/assets/img/post/pay-qr.jpg)
 
 参考链接
 1. [浏览器兼容性问题解决方案 · 总结](https://juejin.im/post/59a3f2fe6fb9a0249471cbb4)

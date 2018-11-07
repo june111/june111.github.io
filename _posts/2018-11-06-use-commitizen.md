@@ -4,7 +4,7 @@ title: '使用commitizen'
 subtitle: '规范化 Git Commit message'
 date: 2018-11-06
 author: June
-cover: 'https://june111.github.io/blog/assets/img/post/2018-11-06/use-commitizen.png'
+cover: 'https://june111.github.io/assets/img/post/2018-11-06/use-commitizen.png'
 tags: 前端
 ---
 
@@ -127,7 +127,7 @@ git push
 
 觉得文章不错就扫码支持一下呗～
 
-![打赏二维码](https://june111.github.io/blog/assets/img/post/pay-qr.jpg)
+![打赏二维码](https://june111.github.io/assets/img/post/pay-qr.jpg)
 
 ## 参考链接
 

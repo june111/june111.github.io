@@ -3,7 +3,7 @@ layout: post
 title: 'web性能优化'
 date: 2018-11-03
 author: June
-cover: 'https://june111.github.io/blog/assets/img/post/browser-compatibility.png'
+cover: 'https://june111.github.io/assets/img/post/browser-compatibility.png'
 tags: 前端
 ---
 
@@ -201,7 +201,7 @@ chrome扩展应用。YSlow 基于一组高性能网页规则来给你提供建�
 
 觉得文章不错就扫码支持一下呗～
 
-![打赏二维码](https://june111.github.io/blog/assets/img/post/pay-qr.jpg)
+![打赏二维码](https://june111.github.io/assets/img/post/pay-qr.jpg)
 
 
 

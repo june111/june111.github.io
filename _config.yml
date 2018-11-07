@@ -4,20 +4,19 @@ description: 'June的日常驻留地'
 keyword: '技术;前端;思维导图;读书;健身'
 # A Project Pages site for a personal account is available at 
 # http(s)://<username>.github.io/<projectname> 
-url: 'https://june111.github.io/blog' # your host
+url: 'https://june111.github.io' # your host
 
 # if you don't need baseurl, you should leave this value blank.
-# baseurl: ''
-baseurl: '/'
-# avatar: '/blog/assets/img/profile.png'
+baseurl: ''
+# baseurl: '/'
 avatar: '/assets/img/profile.png'
 
 # Navigation links
 nav:
-  home: '/blog/'
-  # tech: '/blog/tech.html'
-  # read: '/blog/read.html'
-  tags: '/blog/tags.html'
+  home: '/'
+  # tech: '/tech.html'
+  # read: '/read.html'
+  tags: '/tags.html'
 
 # Footer
 footer:

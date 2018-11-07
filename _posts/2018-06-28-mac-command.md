@@ -3,7 +3,7 @@ layout: post
 title: 'Mac 常用的命令'
 date: 2018-06-28
 author: June
-cover: 'https://june111.github.io/blog/assets/img/post/mac-command.png'
+cover: 'https://june111.github.io/assets/img/post/mac-command.png'
 tags: 技术
 ---
 

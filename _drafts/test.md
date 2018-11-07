@@ -80,7 +80,7 @@ Siege是一个开源的压力测试和评测工具，开发者可以用它测试
 
 觉得文章不错就扫码支持一下呗～
 
-![打赏二维码](https://june111.github.io/blog/assets/img/post/pay-qr.jpg)
+![打赏二维码](https://june111.github.io/assets/img/post/pay-qr.jpg)
 
 
 

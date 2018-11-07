@@ -3,7 +3,7 @@ layout: post
 title: '入门DevOps'
 date: 2018-06-20
 author: June
-cover: 'https://june111.github.io/blog/assets/img/post/computer.png'
+cover: 'https://june111.github.io/assets/img/post/computer.png'
 tags: 技术
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Markdown常用语法规则'
 date: 2018-06-20
 author: June
-cover: 'https://june111.github.io/blog/assets/img/post/computer.png'
+cover: 'https://june111.github.io/assets/img/post/computer.png'
 tags: 技术
 ---
 

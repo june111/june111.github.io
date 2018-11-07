@@ -3,7 +3,7 @@ layout: post
 title: '简述JS特性'
 date: 2018-10-25
 author: June
-cover: 'https://june111.github.io/blog/assets/img/post/browser-compatibility.png'
+cover: 'https://june111.github.io/assets/img/post/browser-compatibility.png'
 tags: 前端
 ---
 
@@ -31,7 +31,7 @@ https://juejin.im/entry/5b95e6106fb9a05d082a02de
 
 觉得文章不错就扫码支持一下呗～
 
-![打赏二维码](https://june111.github.io/blog/assets/img/post/pay-qr.jpg)
+![打赏二维码](https://june111.github.io/assets/img/post/pay-qr.jpg)
 
 参考链接
 

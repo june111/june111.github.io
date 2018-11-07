@@ -3,7 +3,7 @@ layout: post
 title: '面向对象编程思想(OOP) && JavaScript'
 date: 2018-11-05
 author: June
-cover: 'https://june111.github.io/blog/assets/img/post/2018-11-05/oop.png'
+cover: 'https://june111.github.io/assets/img/post/2018-11-05/oop.png'
 tags: 前端
 ---
 
@@ -388,7 +388,7 @@ class DistributedEdit extends mix(Loggable, Serializable) {
 
 觉得文章不错就扫码支持一下呗～
 
-![打赏二维码](https://june111.github.io/blog/assets/img/post/pay-qr.jpg)
+![打赏二维码](https://june111.github.io/assets/img/post/pay-qr.jpg)
 
 参考链接
 

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: '前端工程化'
-subtitle:'一切都是为了提高生产率'
+subtitle: '一切都是为了提高生产率'
 date: 2018-11-08
 author: June
-cover: 'https://june111.github.io/blog/assets/img/post/2018-11-08/front-end-engineering.png'
+cover: 'https://june111.github.io/assets/img/post/2018-11-08/front-end-engineering.png'
 tags: 前端
 ---
 
@@ -312,7 +312,7 @@ css
 
 觉得文章不错就扫码支持一下呗～
 
-![打赏二维码](https://june111.github.io/blog/assets/img/post/pay-qr.jpg)
+![打赏二维码](https://june111.github.io/assets/img/post/pay-qr.jpg)
 
 ## 参考链接
 

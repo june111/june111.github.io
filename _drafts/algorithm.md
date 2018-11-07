@@ -3,7 +3,7 @@ layout: post
 title: 'algorithm'
 date: 2018-10-28
 author: June
-cover: 'https://june111.github.io/blog/assets/img/post/computer.png'
+cover: 'https://june111.github.io/assets/img/post/computer.png'
 tags: 计算机科学
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: '入门dAPP，看这篇就够了'
 date: 2018-07-07
 author: June
-cover: 'https://june111.github.io/blog/assets/img/post/started-dapp.png'
+cover: 'https://june111.github.io/assets/img/post/started-dapp.png'
 tags: 技术 区块链
 ---
 
@@ -1116,7 +1116,7 @@ data 加
 
 觉得文章不错就扫码支持一下呗～
 
-![打赏二维码](https://june111.github.io/blog/assets/img/post/pay-qr.jpg)
+![打赏二维码](https://june111.github.io/assets/img/post/pay-qr.jpg)
 
 ## 参考链接
 1. [本教程的完整Demo](https://github.com/june111/vue-dapp-demo)
