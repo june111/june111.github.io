@@ -106,6 +106,9 @@
 [模版](https://themewagon.com/ )
 [模版之家](http://www.cssmoban.com/ )
 
+### 前端小工具
+[snap.svg](http://snapsvg.io/)
+
 ### 以太坊相关
 
 区块链专业术语词汇表
@@ -210,6 +213,7 @@ https://www.cnblogs.com/lichengzhang/p/5086199.html
 http://blog.csdn.net/rongchaoliu/article/details/47830799
 
 
+按照需求找框架和库[javascripting](https://www.javascripting.com/)
 
 
 
@@ -375,6 +379,7 @@ https://stats.ethfans.org/
 
 特别的动效
 http://up.qq.com/act/a20170301pre/index.html#
+https://www.eosasia.one/
 
 PayPal问题的解决
 http://www.itkeyword.com/doc/9290366098869225x361/change-paypal-rest-endpoint

@@ -7,6 +7,13 @@ cover: 'https://june111.github.io/assets/img/post/computer.png'
 tags: 技术
 ---
 
+
+https://www.cnblogs.com/liufei1983/p/7152013.html
+
+https://www.cnblogs.com/jetzhang/p/6068773.html
+
+https://www.sohu.com/a/198439910_100038984
+
 # 入门DevOps
 
 <a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2018-10-25/structure.svg">

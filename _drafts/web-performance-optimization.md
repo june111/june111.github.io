@@ -13,6 +13,15 @@ tags: 前端
 ![文章结构]({{site.baseurl}}/assets/img/post/2018-11-03/structure.svg)
 </a>
 
+
+https://juejin.im/post/5b0b7d74518825158e173a0c
+
+https://tech.meituan.com/performance_tunning.html
+
+https://www.cnblogs.com/xybaby/p/9055734.html
+
+https://www.w3ctech.com/topic/2089
+
 ## 为什么要做性能优化
 
 一切都是为了提升用户体验。在求快的时代，网站的响应速度十分重要，如果打开网站速度太慢，用户会选择关闭，而不是无止境地等待。
@@ -110,7 +119,6 @@ http://www.10tiao.com/html/148/201603/402847065/1.html
 响应时间-页面响应时间分布-DNS、TCP耗时
 吞吐量
 并发数
-性能计数器
 Apdex指数
 
 ### 性能测试
