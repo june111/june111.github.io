@@ -154,7 +154,7 @@ UI框架有很多，下面统计了21个常见的UI框架，其中Semantic Ui，
 
 #### 构建工具
 
-构建工具的主要功能就是实现自动化处理，例如对代码进行检查、预编译、合并、压缩；生成雪碧图、sourceMap、版本管理；运行单元测试、监控等，当然有的工具还提供模块化、组件化的开发流程功能。
+构建就是把源代码转换成发布到线上的可执行 JavaScrip、CSS、HTML 代码。构建工具的主要功能就是实现自动化处理，例如对代码进行检查、预编译、合并、压缩；生成雪碧图、sourceMap、版本管理；运行单元测试、监控等，当然有的工具还提供模块化、组件化的开发流程功能。
 
 网上各类的构建工具非常多，有家喻户晓的 Grunt、Gulp、Webpack，也有各大公司团队开源的构建工具，这里通过 Github 的 Star 数量来简单的对比下各个工具的流行度(数据时间为2018-11-08)：
 
@@ -169,11 +169,11 @@ UI框架有很多，下面统计了21个常见的UI框架，其中Semantic Ui，
 	它们会自动执行指定的任务，就像流水线，把资源放上去然后通过不同插件进行加工，它们包含活跃的社区，丰富的插件，能方便的打造各种工作流。
   
 * 基于模块化打包的工具：  
-	Browserify、Webpack、rollup.js
+	Browserify、Webpack、Rollup、Cooking
 	有过 Node.js 开发经历的应该对模块很熟悉，需要引用组件直接一个 require 就 OK，这类工具就是这个模式，还可以实现按需加载、异步加载模块。
 
 * 整合型工具：  
-	Yeoman、FIS3、jdf、cooking、weflow
+	Yeoman、FIS3、JDF、Weflow
 	使用了多种技术栈实现的脚手架工具，好处是即开即用，缺点就是它们约束了技术选型，并且学习成本相对较高。
 
 #### 测试系统
@@ -277,14 +277,14 @@ End to End Test (端到端测试) - [Protractor](https://www.protractortest.org/
 基于技术选型的原则，我的技术选型如下：
 
 * 编程语言：ES6
-* JS工具库：Echarts
+* JS工具库：Echarts，highlightjs， (Echarts 官方文档详细，支持的图表非常多，highlightjs 样式多，而且支持非常多的语言)
 * 前端 MVC 框架：Vue (上手难度低，社区活跃)
 * UI 框架：Element (组件比较全，适合项目的需求)
 * node中间层：koa2（Express 原班人马基于 ES7 新特性重新开发的框架）
 * 模块化，打包，自动化构建：Webpack ()
 * 包管理工具：npm/yarn ()
 * 后台进程管理 pm2 ()
-* 测试工具：Karma + Mocha + chai (Karma，Mocha 社区成熟，配置灵活；chai )
+* 测试工具：Karma + Mocha + chai (Karma；Mocha 社区成熟，配置灵活；chai )
 * 前端监控：Sentry (有开发者免费模式，异常信息符合需要)
 * 持续集成：Docker + Travis-CI + Codecov ()
 * 接口管理：Swagger (UI界面漂亮，支持在线测试)
@@ -292,37 +292,7 @@ End to End Test (端到端测试) - [Protractor](https://www.protractortest.org/
 
 ### 项目配置
 
-TODO
-
-<!-- 
-
-	https://juejin.im/entry/58febab1b123db6e95a978c6
-* 模块化
-
-	Webpack+Babel
-	css预处理 sass
-	BEM风格
-	CSS Modules Vue的scoped style
-
-* 规范化
-
-流程规范
-目录结构
-编码规范
-
-JavaScript Standard Style Guide，stylelint
-		
-接口规范
-性能优化
-版本控制
-
-* 自动化
-
-前端安全监控
-统计系统
- -->
-
-
+[详细教程]()
 
 
 ---
@@ -346,9 +316,4 @@ JavaScript Standard Style Guide，stylelint
 * [九款优秀的企业项目协作工具推荐](https://zhuanlan.zhihu.com/p/28941055)
 * [效率为王！11款最高效的团队协作工具](http://www.woshipm.com/pmd/190054.html)
 * [技术选型的艺术](https://juejin.im/entry/5ae9ce7751882567113b04ef)
-* [创业公司或新项目如何做技术选型
-](https://segmentfault.com/a/1190000011810796)
-* []()
-* []()
-* []()
-* []()
+* [创业公司或新项目如何做技术选型](https://segmentfault.com/a/1190000011810796)
