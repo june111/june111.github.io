@@ -152,7 +152,7 @@ UI框架有很多，下面统计了21个常见的UI框架，其中Semantic Ui，
 
 自动化可以大大提高我们的开发效率，从重复的工作中解放出来。
 
-#### 构建工具
+#### [构建工具](https://june111.github.io/2018/11/09/front-end-build-tool.html)
 
 构建就是把源代码转换成发布到线上的可执行 JavaScrip、CSS、HTML 代码。构建工具的主要功能就是实现自动化处理，例如对代码进行检查、预编译、合并、压缩；生成雪碧图、sourceMap、版本管理；运行单元测试、监控等，当然有的工具还提供模块化、组件化的开发流程功能。
 
@@ -276,17 +276,17 @@ End to End Test (端到端测试) - [Protractor](https://www.protractortest.org/
 
 基于技术选型的原则，我的技术选型如下：
 
-* 编程语言：ES6
-* JS工具库：Echarts，highlightjs， (Echarts 官方文档详细，支持的图表非常多，highlightjs 样式多，而且支持非常多的语言)
+* 编程语言：ES6+
 * 前端 MVC 框架：Vue (上手难度低，社区活跃)
 * UI 框架：Element (组件比较全，适合项目的需求)
+* JS工具库：Echarts，highlightjs (Echarts 官方文档详细，支持的图表非常多，highlightjs 样式多，而且支持非常多的语言)
 * node中间层：koa2（Express 原班人马基于 ES7 新特性重新开发的框架）
-* 模块化，打包，自动化构建：Webpack ()
-* 包管理工具：npm/yarn ()
-* 后台进程管理 pm2 ()
-* 测试工具：Karma + Mocha + chai (Karma；Mocha 社区成熟，配置灵活；chai )
+* 后台进程管理 pm2 
+* 包管理工具：NPM (经典，社区成熟)
+* 模块化，打包，自动化构建：Webpack (开箱即用，社区庞大活跃)
+* 测试工具：Karma + Mocha + chai (Karma 在多平台，真实的浏览器中测试；Mocha 社区成熟，配置灵活)
 * 前端监控：Sentry (有开发者免费模式，异常信息符合需要)
-* 持续集成：Docker + Travis-CI + Codecov ()
+* 持续集成：Docker + Travis-CI + Codecov 
 * 接口管理：Swagger (UI界面漂亮，支持在线测试)
 
 
