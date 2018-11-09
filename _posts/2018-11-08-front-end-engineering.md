@@ -281,12 +281,12 @@ End to End Test (端到端测试) - [Protractor](https://www.protractortest.org/
 * 前端 MVC 框架：Vue (上手难度低，社区活跃)
 * UI 框架：Element (组件比较全，适合项目的需求)
 * node中间层：koa2（Express 原班人马基于 ES7 新特性重新开发的框架）
-* 模块化，打包，自动化构建：Webpack 
-* 包管理工具：npm/yarn 
-* 后台进程管理 pm2 
+* 模块化，打包，自动化构建：Webpack ()
+* 包管理工具：npm/yarn ()
+* 后台进程管理 pm2 ()
 * 测试工具：Karma + Mocha + chai (Karma，Mocha 社区成熟，配置灵活；chai )
 * 前端监控：Sentry (有开发者免费模式，异常信息符合需要)
-* 持续集成：Docker + Travis-CI + Codecov 
+* 持续集成：Docker + Travis-CI + Codecov ()
 * 接口管理：Swagger (UI界面漂亮，支持在线测试)
 
 
@@ -294,17 +294,33 @@ End to End Test (端到端测试) - [Protractor](https://www.protractortest.org/
 
 TODO
 
+<!-- 
 
+	https://juejin.im/entry/58febab1b123db6e95a978c6
+* 模块化
 
+	Webpack+Babel
+	css预处理 sass
+	BEM风格
+	CSS Modules Vue的scoped style
 
+* 规范化
 
+流程规范
+目录结构
+编码规范
 
+JavaScript Standard Style Guide，stylelint
+		
+接口规范
+性能优化
+版本控制
 
+* 自动化
 
-
-
-
-
+前端安全监控
+统计系统
+ -->
 
 
 
@@ -332,3 +348,7 @@ TODO
 * [技术选型的艺术](https://juejin.im/entry/5ae9ce7751882567113b04ef)
 * [创业公司或新项目如何做技术选型
 ](https://segmentfault.com/a/1190000011810796)
+* []()
+* []()
+* []()
+* []()

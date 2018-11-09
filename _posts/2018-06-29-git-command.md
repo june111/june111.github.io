@@ -80,6 +80,14 @@ tags: 技术
 ```bash
 	git branch
 ```
+删除本地分支
+```bash
+	git branch -d <分支名>
+```
+删除远程分支
+```bash
+	git branch -r -d <远程主机名>/<分支名>
+```
 在origin/master的基础上，创建一个新分支。
 ```bash
 	git checkout -b newBrach origin/master
