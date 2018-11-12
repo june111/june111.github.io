@@ -3,7 +3,7 @@ layout: post
 title: '常用git命令总结'
 date: 2018-06-29
 author: June
-cover: 'https://june111.github.io/assets/img/post/git-command.png'
+cover: 'https://june111.github.io/assets/img/post/2018-06-29/git-command.png'
 tags: 技术
 ---
 

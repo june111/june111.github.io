@@ -3,7 +3,7 @@ layout: post
 title: 'Ethereum JSON RPC 学习文档'
 date: 2018-07-10
 author: June
-cover: 'https://june111.github.io/assets/img/post/json-rpc.png'
+cover: 'https://june111.github.io/assets/img/post/2018-07-10/json-rpc.png'
 tags: 技术 区块链
 ---
 

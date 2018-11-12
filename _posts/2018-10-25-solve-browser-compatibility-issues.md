@@ -3,7 +3,7 @@ layout: post
 title: '浏览器兼容性问题的解决参考方案'
 date: 2018-10-25
 author: June
-cover: 'https://june111.github.io/assets/img/post/browser-compatibility.png'
+cover: 'https://june111.github.io/assets/img/post/2018-10-25/browser-compatibility.png'
 tags: 前端
 ---
 
