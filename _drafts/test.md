@@ -6,7 +6,17 @@
 <!-- todo -->
 [高流量网站如何做出高性能？](http://blog.oneapm.com/apm-tech/340.html)
 
+* 性能测试
 
+lighthouse
+安装
+```bash
+npm install -g lighthouse
+```
+使用 
+```bash
+lighthouse https://mobile.twitter.com/home
+```
 
 * 负载测试
 

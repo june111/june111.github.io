@@ -1,13 +1,13 @@
 ---
 layout: post
-title: '常用git命令总结'
+title: '常用Git命令总结'
 date: 2018-06-29
 author: June
 cover: 'https://june111.github.io/assets/img/post/2018-06-29/git-command.png'
 tags: 技术
 ---
 
-# 常用git命令总结
+# 常用Git命令总结
 
 ## Command line instructions
 
