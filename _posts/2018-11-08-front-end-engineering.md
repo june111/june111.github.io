@@ -42,7 +42,7 @@ tags: 前端
 
 * 文件拆分：
 
-	less、sass、stylus、postCSS等预处理器
+	less、sass/scss、stylus、postCSS等预处理器
 
 * 选择器的全局污染问题：
 
