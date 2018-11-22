@@ -24,18 +24,23 @@ tags: 技术
 ```bash
 	git remote
 ```
-设置url
-```bash
-	git remote set-url origin http://120.79.161.66:90/pandara/pandara-web.git
-```
-查看git路径。参看远程主机的网址。
+查看git路径。参看远程仓库(主机)的网址。
 ```bash
 	git remote -v
+```
+添加远程仓库地址
+```bash
+git remote add  origin git@120.79.161.66:Ethworld/ethis-web.git
+```
+修改远程仓库地址
+```bash
+	git remote set-url origin http://120.79.161.66:90/pandara/pandara-web.git
 ```
 更新远程分支列表
 ```bash
 	git remote update origin --prune
 ```
+
 ### git fetch
 
 将某个远程主机的更新，全部取回本地。
@@ -68,6 +73,11 @@ tags: 技术
 ```
 ### git branch
 
+查看当前分支
+```bash
+	git branch
+```
+
 查看所有远程分支
 ```bash
 	git branch -a
@@ -75,10 +85,6 @@ tags: 技术
 查看远程分支
 ```bash
 	git branch -r
-```
-查看当前分支
-```bash
-	git branch
 ```
 删除本地分支
 ```bash
@@ -130,14 +136,7 @@ tags: 技术
 ```bash
 	git log
 ```
-查看远程仓库地址
-```bash
-	git remote -v
-```
-设置远程仓库地址
-```bash
-	git remote set-url origin git@120.79.161.66:June/coin.git
-```
+
 利用 SSH 完成 Git 与 GitHub 的绑定
 
 生成ssh

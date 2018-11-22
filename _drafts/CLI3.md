@@ -26,10 +26,21 @@ CLI 3全局安装
 	? Save preset as: cli3-june
 	? Pick the package manager to use when installing dependencies: YARN
 
-
-如果报错：command failed: npm install --loglevel error --registry=https://registry.npm.taobao.org --disturl=https://npm.taobao.org/dist
+如果说检查npm速度慢，是否换成淘宝镜象，一定要选否，否则可能报错
+``` bash
+command failed: npm install --loglevel error --registry=https://registry.npm.taobao.org --disturl=https://npm.taobao.org/dist
+```
 
 就到用户的 home 目录下一个名为 .vuerc 的 JSON 文件，把"useTaobaoRegistry": true, 改为 false.
+
+
+之前选择包管理用YARN，改为npm
+
+``` bash
+cd /Users/<用户名>/.vuerc
+```
+"packageManager": "yarn" 改为 "packageManager": "npm"
+
 
  Use history mode，后端要做相应的配置，否则会显示404。具体参考：
 [HTML5 History 模式](https://cli.vuejs.org/zh/)
@@ -49,6 +60,11 @@ vue add vuetify
 	? Use custom theme? Yes
 	? Use a-la-carte components? No
 	? Use babel/polyfill? Yes
+
+
+
+
+
 
 
 
