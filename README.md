@@ -40,6 +40,9 @@
 	[Android WebView与H5交互](https://june111.github.io/2018/06/29/android-h5)
 	[移动端跨平台APP之模式与框架](https://june111.github.io/2018-11-13-mobile-cross-platform-app-model-and-framework)
 
+* VUE
+	* [Vue常用的传值方式](https://june111.github.io/2018/11/22/vue-pass-value)
+
 
 ### 计算机科学
 
