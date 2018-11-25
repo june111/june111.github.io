@@ -146,7 +146,24 @@ class Bar {
 
 var b = new Bar();
 b.doStuff() // "stuff"
+
+class Person {
+  constructor (name, age) { // 直接写属性
+    this.name = name
+    this.age = age
+  }
+  showName () { // 直接可以写方法
+    return this.name
+  }
+  showAge () {
+    return this.age
+  }
+}
+
+// var xiaoming=new Person('小明','16');
+
 ```
+
 
 构造函数的prototype属性，在 ES6 的“类”上面继续存在。事实上，类的所有方法都定义在类的prototype属性上面。
 
@@ -391,10 +408,12 @@ class DistributedEdit extends mix(Loggable, Serializable) {
 
 参考链接
 
-1. [面向对象编程思想（OOP）](https://www.cnblogs.com/xiaosongluffy/p/5072501.html)
-2. [js:面向对象编程，带你认识封装、继承和多态](https://juejin.im/post/59396c96fe88c2006afc2707)
-3. [Javascript 面向对象编程（一）：封装](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_encapsulation.html)
-4. [Javascript面向对象编程（二）：构造函数的继承](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_inheritance.html)
-5. [Javascript面向对象编程（三）：非构造函数的继承](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_inheritance_continued.html)
-6. [Class 的基本语法](http://es6.ruanyifeng.com/?search=foreach&x=0&y=0#docs/class)
-7. [Class 的继承](http://es6.ruanyifeng.com/#docs/class-extends)
+* [面向对象编程思想（OOP）](https://www.cnblogs.com/xiaosongluffy/p/5072501.html)
+* [js:面向对象编程，带你认识封装、继承和多态](https://juejin.im/post/59396c96fe88c2006afc2707)
+* [Javascript 面向对象编程（一）：封装](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_encapsulation.html)
+* [Javascript面向对象编程（二）：构造函数的继承](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_inheritance.html)
+* [Javascript面向对象编程（三）：非构造函数的继承](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_inheritance_continued.html)
+* [Class 的基本语法](http://es6.ruanyifeng.com/?search=foreach&x=0&y=0#docs/class)
+* [Class 的继承](http://es6.ruanyifeng.com/#docs/class-extends)
+* [JS面向对象、继承、ES6中class类](https://www.jianshu.com/p/c384034837cf)
+* [MDN JS class](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Classes)

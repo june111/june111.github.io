@@ -1,16 +1,16 @@
 ---
 layout: post
 title: '密码、私钥、keystore与助记词之间的关系'
-date: 2018-11-05
+date: 2018-11-26
 author: June
-cover: /assets/img/post/2018-11-05/front-end-build-tool.png
+cover: /assets/img/post/2018-11-26/front-end-build-tool.png
 tags: 前端
 ---
 
 # 密码、私钥、keystore与助记词之间的关系
 
-<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2018-11-05/structure.svg">
-![文章结构]({{site.baseurl}}/assets/img/post/2018-11-05/structure.svg)
+<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2018-11-26/structure.svg">
+![文章结构]({{site.baseurl}}/assets/img/post/2018-11-26/structure.svg)
 </a>
 
 一、理解密码、私钥、keystore与助记词
@@ -71,17 +71,17 @@ BIP44的规则使得 HD钱包非常强大，用户只需要保存一个种子，
 #### 以太坊对BIP的支持
 BIP是用于提出 Bitcoin 的新功能或改进措施，那么对于以太坊来说如何支持呢？
 
-* 以太坊在EIPs/issues/84中讨论，是否遵循 BIP32 和 BIP44，社区里提出来很多有意思的观点，比特币是基于 UTXO 的，所以可以使用 HD 钱包（BIP32）为每个交易分配一个新地址，以保护您的隐私。然而，以太坊是基于帐户，每个帐户都有一个地址，BIP 是比特币的提案，而且比特币的数据结构的设计是围绕改变地址的想法构建的，BIP 的一些提案可能并不适合以太坊。以太坊的模式和比特币UTXO 不同，以太坊转账不能改变地址，如果在以太坊上实现 UTXO ，用户还必须签名两个交易以将余额的一部分发送到一个地址，将余额的一部分发送到第二个地址 - 这将使成本增加一倍，而且第二个交易可能不会在同一个区块中，当然以太坊也可以通过智能合约的方式实现。另外，以太坊目前官方钱包采用 KDF 的形式，也就是我们常说的 Keystore 的形式。
+* 以太坊在[EIPs/issues/84](https://github.com/ethereum/EIPs/issues/84)中讨论，是否遵循 BIP32 和 BIP44，社区里提出来很多有意思的观点，比特币是基于 UTXO 的，所以可以使用 HD 钱包（BIP32）为每个交易分配一个新地址，以保护您的隐私。然而，以太坊是基于帐户，每个帐户都有一个地址，BIP 是比特币的提案，而且比特币的数据结构的设计是围绕改变地址的想法构建的，BIP 的一些提案可能并不适合以太坊。以太坊的模式和比特币UTXO 不同，以太坊转账不能改变地址，如果在以太坊上实现 UTXO ，用户还必须签名两个交易以将余额的一部分发送到一个地址，将余额的一部分发送到第二个地址 - 这将使成本增加一倍，而且第二个交易可能不会在同一个区块中，当然以太坊也可以通过智能合约的方式实现。另外，以太坊目前官方钱包采用 KDF 的形式，也就是我们常说的 Keystore 的形式。
 
-* 以太坊在EIPs/issues/85中讨论，以太坊社区似乎也采用了 BIP32 的做法，提议 HD 路径为 : m/44'/60'/0'/0/n，n 是第 n 次生成地址。目前以太坊客户端实现了BIP32的客户端有：Jaxx, Metamask, Exodus, imToken, TREZOR (ETH) & Digital Bitbox。
+* 以太坊在[EIPs/issues/85](https://github.com/ethereum/EIPs/issues/85)中讨论，以太坊社区似乎也采用了 BIP32 的做法，提议 HD 路径为 : m/44'/60'/0'/0/n，n 是第 n 次生成地址。目前以太坊客户端实现了BIP32的客户端有：Jaxx, Metamask, Exodus, imToken, TREZOR (ETH) & Digital Bitbox。
 
 
 二、密码、私钥、keystore与助记词的关系
 
 它们关系可以用下面的图来表述。
 
-<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2018-11-05/structure.svg">
-![文章结构]({{site.baseurl}}/assets/img/post/2018-11-05/structure.svg)
+<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2018-11-26/structure.svg">
+![文章结构]({{site.baseurl}}/assets/img/post/2018-11-26/structure.svg)
 </a>
 
 三、钱包的核心：私钥

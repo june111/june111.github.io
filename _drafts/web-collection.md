@@ -14,7 +14,7 @@
 [下载youtube](http://en.savefrom.net/ )
 
 [pdf转换](https://smallpdf.com/cn )
-
+[图片文字提取OCR](https://www.onlineocr.net/)
 [做流程图](https://www.draw.io/ )
 
 [制作svg动画](https://app.svgator.com/auth/login)
