@@ -149,6 +149,7 @@ git remote add  origin git@120.79.161.66:Ethworld/ethis-web.git
 前往`~/.ssh	` 把key复制，粘贴到Gitlab的ssh中
 
 
+
 ## 附：初始化项目的官方指南
 
 Git global setup
@@ -174,8 +175,10 @@ Existing folder or Git repository
 	git commit
 	git push -u origin master
 ```
+## 版本控制
 
+新建分支release，需要极速修复的问题，在release修改，提交，push，然后切换到master，`git checkout master`，合并修改的内容到master `git merge release`
 
-## 参考链接
-1. [git官方指南](https://git-scm.com/book/zh/v2/)
-2. [Git远程操作详解](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
+### 参考链接
+* [git官方指南](https://git-scm.com/book/zh/v2/)
+* [Git远程操作详解](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)

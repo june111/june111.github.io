@@ -1,19 +1,19 @@
 ---
 layout: post
 title: '密码、私钥、keystore与助记词之间的关系'
-date: 2018-11-26
+date: 2018-11-27
 author: June
-cover: /assets/img/post/2018-11-26/front-end-build-tool.png
+cover: /assets/img/post/2018-11-27/front-end-build-tool.png
 tags: 前端
 ---
 
 # 密码、私钥、keystore与助记词之间的关系
 
-<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2018-11-26/structure.svg">
-![文章结构]({{site.baseurl}}/assets/img/post/2018-11-26/structure.svg)
+<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2018-11-27/structure.svg">
+![文章结构]({{site.baseurl}}/assets/img/post/2018-11-27/structure.svg)
 </a>
 
-一、理解密码、私钥、keystore与助记词
+## 理解密码、私钥、keystore与助记词
 
 1. 密码
 	密码不是私钥，密码可以进行修改或重置。它主要用途有两个，一是转账时候的支付密码，二是用 keystore 导入钱包时需要输入的密码，用于解锁keystore。
@@ -75,16 +75,19 @@ BIP是用于提出 Bitcoin 的新功能或改进措施，那么对于以太坊�
 
 * 以太坊在[EIPs/issues/85](https://github.com/ethereum/EIPs/issues/85)中讨论，以太坊社区似乎也采用了 BIP32 的做法，提议 HD 路径为 : m/44'/60'/0'/0/n，n 是第 n 次生成地址。目前以太坊客户端实现了BIP32的客户端有：Jaxx, Metamask, Exodus, imToken, TREZOR (ETH) & Digital Bitbox。
 
+<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2018-11-27/process.svg">
+![从助记词到地址]({{site.baseurl}}/assets/img/post/2018-11-27/process.svg)
+</a>
 
-二、密码、私钥、keystore与助记词的关系
+## 密码、私钥、keystore与助记词的关系
 
 它们关系可以用下面的图来表述。
 
-<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2018-11-26/structure.svg">
-![文章结构]({{site.baseurl}}/assets/img/post/2018-11-26/structure.svg)
+<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2018-11-27/relationship.png">
+![文章结构]({{site.baseurl}}/assets/img/post/2018-11-27/relationship.png)
 </a>
 
-三、钱包的核心：私钥
+## 钱包的核心：私钥
 
 基于以上的分析，我们对以太坊钱包的账号系统有了一个很好的认识，那么我们在使用钱包的过程中，该如何保管自己的钱包呢？主要包含以下几种方式：
 
@@ -108,7 +111,7 @@ BIP是用于提出 Bitcoin 的新功能或改进措施，那么对于以太坊�
 
 ![打赏二维码]({{site.baseurl}}/assets/img/post/pay-qr.jpg)
 
-## 参考链接
+### 参考链接
 
 
 * [密码、私钥、keystore与助记词之间的爱恨情仇](http://chaindesk.cn/columninfo.html?id=6&dirId=1)

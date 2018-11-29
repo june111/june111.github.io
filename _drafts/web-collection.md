@@ -20,6 +20,9 @@
 [制作svg动画](https://app.svgator.com/auth/login)
 [色值查询](http://www.yymoban.com/tool/color/)
 
+## 提高效率的工具
+[画图，流程图](https://www.draw.io/)
+
 ## 前端开发
 
 [Roadmap to becoming a web developer in 2018](https://github.com/kamranahmedse/developer-roadmap)
@@ -95,6 +98,7 @@
 [酷炫的线条特效](https://github.com/VincentGarreau/particles.js )
 [弹窗](https://popper.js.org/index.html)
 [VUE 例子插件](https://vuejsexamples.com/)
+[插件库](https://www.awesomes.cn/)
 
 ### 微信
 [微信开发者工具](https://mp.weixin.qq.com/wiki )
@@ -109,7 +113,14 @@
 ### 前端小工具
 [snap.svg](http://snapsvg.io/)
 
+### 工具对比
+[npm trends](https://www.npmtrends.com/)
+[awesome node.js](https://nodejs.libhunt.com/)
+
 ### 以太坊相关
+
+[Awesome Blockchain](https://github.com/chaozh/awesome-blockchain-cn)
+[区块链钱包开发 资源](https://medium.com/@robinwan/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%92%B1%E5%8C%85%E5%BC%80%E5%8F%91-b3ad79bb1c85)
 
 区块链专业术语词汇表
 http://blog.csdn.net/liyuechun520/article/details/77097094?locationNum=3&fps=1
