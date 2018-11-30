@@ -120,5 +120,4 @@ BIP是用于提出 Bitcoin 的新功能或改进措施，那么对于以太坊�
 * [](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki)
 * [](https://github.com/ethereum/EIPs/issues/84)
 * [](https://github.com/ethereum/EIPs/issues/85)
-* []()
-* []()
+
