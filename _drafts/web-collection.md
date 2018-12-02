@@ -20,6 +20,10 @@
 [制作svg动画](https://app.svgator.com/auth/login)
 [色值查询](http://www.yymoban.com/tool/color/)
 
+[艺术二维码 第九工厂](http://www.9thws.com/)
+[联图二维码](http://www.liantu.com/)
+[草料二维码](https://cli.im/)
+
 ## 提高效率的工具
 [画图，流程图](https://www.draw.io/)
 
