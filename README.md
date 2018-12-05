@@ -66,7 +66,8 @@
 	[入门dAPP，看这篇就够了](https://june111.github.io/2018/07/07/getting-started-dAPP-see-this-is-enough)
 
 * 钱包
-	[钱包-账号-地址-公私钥](https://june111.github.io/2018-11-23-wallet-account-address-pubkey-prvkey.md)
+	* [钱包-账号-地址-公私钥](https://june111.github.io/2018/11/23/wallet-account-address-pubkey-prvkey)
+	* [密码、私钥、keystore与助记词之间的关系](https://june111.github.io/2018/11/27/pass-key-keystore)
 
 ### 其他
 

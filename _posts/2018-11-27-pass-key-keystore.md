@@ -3,7 +3,7 @@ layout: post
 title: '密码、私钥、keystore与助记词之间的关系'
 date: 2018-11-27
 author: June
-cover: /assets/img/post/2018-11-27/front-end-build-tool.png
+cover: /assets/img/post/2018-11-27/pass-key-keystore.png
 tags: 前端
 ---
 
@@ -115,9 +115,9 @@ BIP是用于提出 Bitcoin 的新功能或改进措施，那么对于以太坊�
 
 
 * [密码、私钥、keystore与助记词之间的爱恨情仇](http://chaindesk.cn/columninfo.html?id=6&dirId=1)
-* [](https://web3js.readthedocs.io/en/1.0/web3-eth-accounts.html)
-* [](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki)
-* [](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki)
-* [](https://github.com/ethereum/EIPs/issues/84)
-* [](https://github.com/ethereum/EIPs/issues/85)
+* [web3js 中文文档](https://web3js.readthedocs.io/en/1.0/web3-eth-accounts.html)
+* [bip-0032](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki)
+* [bip-0044](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki)
+* [EIPs/issues/84](https://github.com/ethereum/EIPs/issues/84)
+* [EIPs/issues/85](https://github.com/ethereum/EIPs/issues/85)
 

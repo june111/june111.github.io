@@ -8,6 +8,7 @@
 [csdn](http://www.csdn.net/ )
 [Div.IO](https://div.io/q#/welcome)
 [刘未鹏 | Mind Hacks](http://mindhacks.cn/)
+[乌云](https://wooyun.js.org/)
 
 ## 小工具
 
@@ -191,6 +192,9 @@ https://crossbrowsertesting.com/
 
 web安全
 https://www.kanxue.com/chm.htm?id=11053&pid=node1001189
+
+Web开发规范文档
+https://www.kancloud.cn/chandler/css-code-guide
 
 git
 http://git.oschina.net/progit/  《Pro Git（中文版）》
@@ -391,6 +395,13 @@ Bootstrap
 
 星火矿池
 https://stats.ethfans.org/
+
+股票图表
+https://www.highcharts.com/stock/demo/candlestick-and-volume
+http://blog.jianshukeji.com/2017/09/use-highcharts-with-vue/
+https://jerrynest.io/javascript-highcharts-stock/
+https://cnodejs.org/topic/5ab36a41e7b166bb7b9ecd1e
+
 
 特别的动效
 http://up.qq.com/act/a20170301pre/index.html#
