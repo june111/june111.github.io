@@ -12,7 +12,13 @@
 [安全客](https://www.anquanke.com/)
 [先知社区](https://xz.aliyun.com/)
 [i春秋](https://bbs.ichunqiu.com/portal.php)
-
+[冴羽的JavaScript博客](https://segmentfault.com/blog/yayu-blog?tag=javascript)
+[木易杨的博客](https://blog.csdn.net/q8250356)
+[淘宝前端团队](http://taobaofed.org/)
+[阿里中间件团队博客](http://jm.taobao.org/)
+[Tencent CDC](https://cdc.tencent.com/)
+[Vue技术内幕](http://hcysun.me/vue-design/)
+[阿里巴巴国际UED团队博客](http://www.aliued.com/)
 
 ## 小工具
 

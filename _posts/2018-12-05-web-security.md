@@ -339,7 +339,11 @@ web安全漏洞大致可以分为入输出验证不充分，设计缺陷，环�
 
 	定义：点击劫持是一种视觉上的欺骗手段，攻击者使用一个透明的、不可见的iframe，覆盖在一个网页上，然后诱使用户在该网页上进行操作，此时用户在不知情的情况下点击了透明的iframe页面。通过调整iframe页面的位置，可以诱使用户恰好点击在iframe页面的一些功能性按钮上。
 
-	防护： 配置FILTER拦截器，在服务器端返回请求中，使用一个HTTP头“X-Frame-Options”值为SAMEORIGIN-同源策略  ，则frame页面的地址只能为同源域名下面的页面，防止点击劫持漏洞发生。
+	防护： 
+
+	配置FILTER拦截器，在服务器端返回请求中，使用一个HTTP头“X-Frame-Options”值为SAMEORIGIN-同源策略  ，则frame页面的地址只能为同源域名下面的页面，防止点击劫持漏洞发生。
+
+	X-Frame-Options HTTP响应头是用来给浏览器指示允许一个页面能否在`<frame>、<iframe>、<object>`中展现的标记
 
 * 非授权对象引用
 
@@ -454,6 +458,7 @@ web安全漏洞大致可以分为入输出验证不充分，设计缺陷，环�
 
 还可以用sentry做网站前端安全监控。
 
+待续：
 相关教程请看 => [前端安全监控方案]()
 
 
@@ -478,4 +483,5 @@ web安全漏洞大致可以分为入输出验证不充分，设计缺陷，环�
 * [常见的Web安全漏洞介绍及解决办法](https://github.com/MGTfang/MGTfang.github.io/issues/5)
 * [Java（web）项目安全漏洞及解决方式【面试+工作】](https://cloud.tencent.com/developer/article/1143170)
 * [常见Web源码泄露总结](https://www.secpulse.com/archives/55286.html)
+* [浅谈前端安全](https://cloud.tencent.com/developer/article/1136202)
 
