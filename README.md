@@ -1,6 +1,6 @@
-
-
 # 文章列表
+
+文章前期追求广度，后期会加些探究深度的内容。
 
 ## 技术
 
@@ -37,7 +37,7 @@
 			* [前端构建工具](https://june111.github.io/2018/11/09/front-end-build-tool.html)
 
 		* 监控系统
-		
+		[前端监控](https://june111.github.io/2018/12/10/front-end-monitoring)
 
 
 * 跨平台

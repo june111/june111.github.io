@@ -19,6 +19,8 @@
 [Tencent CDC](https://cdc.tencent.com/)
 [Vue技术内幕](http://hcysun.me/vue-design/)
 [阿里巴巴国际UED团队博客](http://www.aliued.com/)
+[现代 Web 开发基础与工程实践](https://github.com/wxyyxc1992/Web-Series)
+[大前端工具集](https://github.com/nieweidong/fetool)
 
 ## 小工具
 
@@ -41,6 +43,10 @@
 ## 前端开发
 
 [Roadmap to becoming a web developer in 2018](https://github.com/kamranahmedse/developer-roadmap)
+
+### 源码研究
+[AG-Admin-v2-UI 后台管理框架](https://gitee.com/minull/AG-Admin-v2.0)
+[博客系统](https://gitee.com/fuhai/jpress)
 
 ### js
 
