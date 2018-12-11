@@ -29,7 +29,6 @@
 				* [开发规范！Git Fork 全流程记录](https://june111.github.io/2018/07/06/git-fork-process)
 				* [规范化 Git Commit message](https://june111.github.io/2018/11/06/use-commitizen)
 
-
 	* 前端工程化之自动化
 
 		* 构建工具
@@ -43,16 +42,13 @@
 * 跨平台
 	[Android WebView与H5交互](https://june111.github.io/2018/06/29/android-h5)
 	[移动端跨平台APP之模式与框架](https://june111.github.io/2018/11/13/mobile-cross-platform-app-model-and-framework)
+	[用 Flutter 开发APP（开发环境篇）](https://june111.github.io/2018/12/12/front-end-build-tool-env)
 
 * VUE
 	* [Vue常用的传值方式](https://june111.github.io/2018/11/22/vue-pass-value)
 
 * 网络安全
 	* [web安全入门](https://june111.github.io/2018/12/05/web-security)
-
-### 计算机科学
-
-[面向对象编程思想(OOP) && JavaScript](https://june111.github.io/2018/11/05/object-oriented-programming-thought)
 
 
 
@@ -74,6 +70,14 @@
 * 钱包
 	* [钱包-账号-地址-公私钥](https://june111.github.io/2018/11/23/wallet-account-address-pubkey-prvkey)
 	* [密码、私钥、keystore与助记词之间的关系](https://june111.github.io/2018/11/27/pass-key-keystore)
+
+### 计算机科学
+
+[面向对象编程思想(OOP) && JavaScript](https://june111.github.io/2018/11/05/object-oriented-programming-thought)
+
+### 项目管理
+
+[项目管理入门知识概括](https://june111.github.io/2018/12/11/getting-tarted-project-management)
 
 ### 其他
 

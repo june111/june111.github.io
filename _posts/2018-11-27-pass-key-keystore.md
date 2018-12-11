@@ -9,8 +9,12 @@ tags: 前端
 
 # 密码、私钥、keystore与助记词之间的关系
 
-<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2018-11-27/structure.svg">
-![文章结构]({{site.baseurl}}/assets/img/post/2018-11-27/structure.svg)
+总的来说，BIP39生成助记词，把助记词转换成seed后，用BIP32生成master,即主账户，然后主账户通过BIP44生成无数子账户。每一个子账户都有自己的公私钥和地址。私钥加密码可以生成keystore，用密码可以解密keystore，恢复私钥。
+
+整个流程如下图所示：
+
+<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2018-11-27/process.svg">
+![从助记词到地址]({{site.baseurl}}/assets/img/post/2018-11-27/process.svg)
 </a>
 
 ## 理解密码、私钥、keystore与助记词
@@ -75,10 +79,6 @@ BIP是用于提出 Bitcoin 的新功能或改进措施，那么对于以太坊�
 
 * 以太坊在[EIPs/issues/85](https://github.com/ethereum/EIPs/issues/85)中讨论，以太坊社区似乎也采用了 BIP32 的做法，提议 HD 路径为 : m/44'/60'/0'/0/n，n 是第 n 次生成地址。目前以太坊客户端实现了BIP32的客户端有：Jaxx, Metamask, Exodus, imToken, TREZOR (ETH) & Digital Bitbox。
 
-<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2018-11-27/process.svg">
-![从助记词到地址]({{site.baseurl}}/assets/img/post/2018-11-27/process.svg)
-</a>
-
 ## 密码、私钥、keystore与助记词的关系
 
 它们关系可以用下面的图来表述。
@@ -104,6 +104,7 @@ BIP是用于提出 Bitcoin 的新功能或改进措施，那么对于以太坊�
 * 通过助记词根据不同的路径获取不同的私钥，即使用HD钱包将助记词转化成种子来生成主私钥，然后派生海量的子私钥和地址。
 
 可以看出这几种方式的核心其实都是为了获得私钥，然后去解锁账号，因此钱包的核心功能是私钥的创建、存储和使用。
+
 
 ---
 

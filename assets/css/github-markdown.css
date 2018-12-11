@@ -515,7 +515,7 @@ li p:nth-child(2) {
 .markdown-body ol ol,
 .markdown-body ol ul {
   margin-top: 0;
-  margin-bottom: 0;
+  margin-bottom: 15px;
 }
 
 .markdown-body li > p {
