@@ -179,15 +179,7 @@ flutter run
 	Unable to locate DeviceSupport directory with suffix 'DeveloperDiskImage.dmg'.
 	```
 
-8. 信任 App
-
-	进入手机 设置 > 设备管理 > 开发者应用。点击信任XXX。
-
-	<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2018-12-12/trust.png">
-	![信任应用]({{site.baseurl}}/assets/img/post/2018-12-12/trust.png)
-	</a>
-
-9. 运行项目
+8. 运行项目
 
 	```bash
 	flutter run
@@ -197,6 +189,16 @@ flutter run
 	<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2018-12-12/password.png">
 	![输入密码]({{site.baseurl}}/assets/img/post/2018-12-12/password.png)
 	</a>
+
+9. 信任 App
+
+	在信任App之前，是无法打开App的，要进入手机设置 > 设备管理 > 开发者应用。点击信任XXX。
+
+	<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2018-12-12/trust.png">
+	![信任应用]({{site.baseurl}}/assets/img/post/2018-12-12/trust.png)
+	</a>
+
+10. 成功打开App
 
 ### Android设置
 
