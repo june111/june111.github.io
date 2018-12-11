@@ -75,7 +75,7 @@ cd myap
 
 #### 安装 Xcode
 
-要为iOS开发 Flutter 应用程序，需要 Xcode 9.0 或更高版本
+要为iOS开发 Flutter 应用程序，需要 Xcode 9.0 或更高版本。如果要适配 iOS 12+，则要求Xcode 10.0 或更高版本。
 
 配置 Xcode 命令行工具以使用新安装的Xcode版本 
 ```bash
@@ -171,7 +171,23 @@ flutter run
 	![检查 Bundle Identifier]({{site.baseurl}}/assets/img/post/2018-12-12/check-id.png)
 	</a>
 
-7. 运行项目
+7. 适配高版本iOS
+
+	如果出现以下报错，可能是 iOS 版本太高，Xcode 不兼容。我的 Xcode 是 9.2 的，只支持到 11.2。更新 Xcode 到 10.1，才能支持到12.1。Xcode 到10.1要求 macOS 系统 10.13.6+，所以也要升级系统。我把系统升级到了 macOS Mojave(10.14.2)
+
+	```bash
+	Unable to locate DeviceSupport directory with suffix 'DeveloperDiskImage.dmg'.
+	```
+
+8. 信任 App
+
+	进入手机 设置 > 设备管理 > 开发者应用。点击信任XXX。
+
+	<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2018-12-12/trust.png">
+	![信任应用]({{site.baseurl}}/assets/img/post/2018-12-12/trust.png)
+	</a>
+
+9. 运行项目
 
 	```bash
 	flutter run
@@ -181,14 +197,6 @@ flutter run
 	<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2018-12-12/password.png">
 	![输入密码]({{site.baseurl}}/assets/img/post/2018-12-12/password.png)
 	</a>
-
-8. 适配高版本iOS
-
-	如果出现以下报错，可能是 iOS 版本太高，Xcode 不兼容。我的 Xcode 是 9.2 的，只支持到 11.2。更新 Xcode 到 10.1，才能支持到12.1。Xcode 到10.1要求 macOS 系统 10.13.6+，所以也要升级系统。我把系统升级到了 macOS Mojave(10.14.2)
-
-	```bash
-	Unable to locate DeviceSupport directory with suffix 'DeveloperDiskImage.dmg'.
-	```
 
 ### Android设置
 
@@ -246,7 +254,7 @@ flutter run
 1. 启动 Android Studio>Tools>Android>AVD Manager 并选择 Create Virtual Device.
 
 	<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2018-12-12/create-d.png">
-	![新建设备]({{site.baseurl}}/assets/img/post/2018-12-12/create-d.png.png)
+	![新建设备]({{site.baseurl}}/assets/img/post/2018-12-12/create-d.png)
 	</a>
 
 2. 选择一个设备并选择 Next。
