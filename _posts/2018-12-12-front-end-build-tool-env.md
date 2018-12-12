@@ -75,7 +75,7 @@ cd myap
 
 #### 安装 Xcode
 
-要为iOS开发 Flutter 应用程序，需要 Xcode 9.0 或更高版本。如果要适配 iOS 12+，则要求Xcode 10.0 或更高版本。
+要为iOS开发 Flutter 应用程序，需要 Xcode 9.0 或更高版本。如果要适配 iOS 12+，则要求Xcode 10.0 或更高版本。（如果不想升级 Xcode，也可以 hack 一下，后面会说 hack 的方法）
 
 配置 Xcode 命令行工具以使用新安装的Xcode版本 
 ```bash
@@ -173,11 +173,42 @@ flutter run
 
 7. 适配高版本iOS
 
-	如果出现以下报错，可能是 iOS 版本太高，Xcode 不兼容。我的 Xcode 是 9.2 的，只支持到 11.2。更新 Xcode 到 10.1，才能支持到12.1。Xcode 到10.1要求 macOS 系统 10.13.6+，所以也要升级系统。我把系统升级到了 macOS Mojave(10.14.2)
+	如果出现以下报错
 
 	```bash
 	Unable to locate DeviceSupport directory with suffix 'DeveloperDiskImage.dmg'.
 	```
+
+	可能是 iOS 版本太高，Xcode 不兼容。我的 Xcode 是 9.2 的，只支持到 11.2。更新 Xcode 到 10.1，才能支持到12.1。Xcode 到10.1要求 macOS 系统 10.13.6+，所以也要升级系统。我把系统升级到了 macOS Mojave(10.14.2)
+
+	如果不想升级 Xcode 的话，可以安装一下步骤 hack 一下：
+
+	1. 前往 [Developer Portal]() 用 apple id 登陆，首次登陆会让授权和同意协议。
+
+	2. 下载最新的 Xcode 测试版（撰写本文时为Xcode 10.1）。如果无法下载的话，可以直接[下载](https://pan.baidu.com/s/1nHAEYcz4w_-CZIDs2oMVPg)我打包的文件，然后跳到第7步。
+
+	3. 解压缩.xip文件
+	4. 右键单击Xcode-Beta.app并选择Show Package Contents
+
+	<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2018-12-12/open-xcode-2.png">
+	![打开Package Contents]({{site.baseurl}}/assets/img/post/2018-12-12/open-xcode-2.png)
+	</a>
+
+	5. 导航到目录 - >开发人员 - >平台 - > iPhoneOS.platform-> DeviceSupport
+	6. 复制12.0（16A5354b）。
+
+
+	7. 现在转到您当前的Xcode.app
+	8. 再次，右键单击Xcode.app并选择Show Package Contents
+	9. 再次，导航到Contents-> Developer-> Platforms-> iPhoneOS.platform-> DeviceSupport
+	10. 在此处粘贴12.0（16A5354b）
+
+	<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2018-12-12/copy-content.png">
+	![粘贴文件]({{site.baseurl}}/assets/img/post/2018-12-12/copy-content.png)
+	</a>
+
+	11. 重新启动Xcode并插入iOS 12真实设备
+	12. 运行你的应用程序，完成！
 
 8. 运行项目
 
@@ -358,3 +389,4 @@ flutter run
 
 * [flutter 官方文档](https://flutter.io/docs/get-started/install/macos)
 * [flutter 中文文档](https://flutterchina.club/setup-macos/)
+* [How to run iOS 12 on Real Device using Xcode 9](https://medium.com/swift2go/how-to-run-ios-12-on-real-device-using-xcode-9-51aa51df7c4)
