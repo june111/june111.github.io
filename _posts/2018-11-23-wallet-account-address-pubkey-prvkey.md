@@ -9,6 +9,8 @@ tags: 区块链
 
 # 钱包-账号-地址-公私钥
 
+画了个示意图，表示钱包-账号-地址-公私钥之间的关系
+
 <a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2018-11-23/relationship.svg">
 ![关系]({{site.baseurl}}/assets/img/post/2018-11-23/relationship.svg)
 </a>
