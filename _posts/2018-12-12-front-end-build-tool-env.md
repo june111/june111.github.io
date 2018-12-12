@@ -183,7 +183,7 @@ flutter run
 
 	如果不想升级 Xcode 的话，可以安装一下步骤 hack 一下：
 
-	1. 前往 [Developer Portal]() 用 apple id 登陆，首次登陆会让授权和同意协议。
+	1. 前往 [Developer Portal](https://developer.apple.com/download/) 用 apple id 登陆，首次登陆会让授权和同意协议。
 
 	2. 下载最新的 Xcode 测试版（撰写本文时为Xcode 10.1）。如果无法下载的话，可以直接[下载](https://pan.baidu.com/s/1nHAEYcz4w_-CZIDs2oMVPg)我打包的文件，然后跳到第7步。
 
@@ -194,13 +194,11 @@ flutter run
 		![打开Package Contents]({{site.baseurl}}/assets/img/post/2018-12-12/open-xcode-2.png)
 		</a>
 
-	5. 导航到目录 - >开发人员 - >平台 - > iPhoneOS.platform-> DeviceSupport
+	5. 导航到目录 => 开发人员 => 平台 => iPhoneOS.platform => DeviceSupport
 	6. 复制12.0（16A5354b）。
-
-
 	7. 现在转到您当前的Xcode.app
 	8. 再次，右键单击Xcode.app并选择Show Package Contents
-	9. 再次，导航到Contents-> Developer-> Platforms-> iPhoneOS.platform-> DeviceSupport
+	9. 再次，导航到Contents => Developer => Platforms => iPhoneOS.platform => DeviceSupport
 	10. 在此处粘贴12.0（16A5354b）
 
 		<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2018-12-12/copy-content.png">
