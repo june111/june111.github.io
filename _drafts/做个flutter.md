@@ -18,9 +18,11 @@ tags: 前端
 	删除lib / main.dart中的所有代码，然后替换为下面的代码，它将在屏幕的中心显示“Hello World”.
 
 
+https://github.com/AweiLoveAndroid/Flutter-learning
 
+https://codelabs.developers.google.com/codelabs/flutter-cn/index.html?index=..%2F..gddchina#3
 
-
+https://github.com/Solido/awesome-flutter
 
 ---
 

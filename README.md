@@ -10,16 +10,16 @@
 
 	* 前端工程化之规范化
 
+		* 流程规范
+
 		* 目录结构
 			* [项目目录结构规范](https://june111.github.io/2018/11/14/project-directory-structure)
 		
 
 		* 编码规范
-			* [JavaScript Standard Style Guide]()
-			* [Sass stylelint]()
-			* [BEM风格]()
-		
 
+		* 接口规范
+		
 		* 性能优化
 			* [浏览器兼容性问题的解决参考方案](https://june111.github.io/2018/10/25/solve-browser-compatibility-issues)
 
@@ -29,15 +29,21 @@
 				* [开发规范！Git Fork 全流程记录](https://june111.github.io/2018/07/06/git-fork-process)
 				* [规范化 Git Commit message](https://june111.github.io/2018/11/06/use-commitizen)
 
+		* 协作工具
+
 	* 前端工程化之自动化
 
 		* 构建工具
 
 			* [前端构建工具](https://june111.github.io/2018/11/09/front-end-build-tool.html)
 
+		* 测试系统
+
 		* 监控系统
 
-			[前端监控](https://june111.github.io/2018/12/10/front-end-monitoring)
+			* [前端监控](https://june111.github.io/2018/12/10/front-end-monitoring)
+
+		* 持续集成
 
 
 * 跨平台
@@ -58,7 +64,6 @@
 * 接口
 
 	[Ethereum JSON RPC 学习文档](https://june111.github.io/2018/07/10/remote-procedure-call-study)
-
 
 * 节点
 

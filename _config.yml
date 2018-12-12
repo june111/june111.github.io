@@ -34,7 +34,7 @@ nightMode: true
 
 # Comments 评论功能
 comments:
-  disqus: false
+  disqus: true
   disqus_url: 'https://junezhu.disqus.com/embed.js'
 
 # MathJax 公式支持 by Ray-Eldath

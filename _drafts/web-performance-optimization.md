@@ -22,6 +22,8 @@ https://www.cnblogs.com/xybaby/p/9055734.html
 
 https://www.w3ctech.com/topic/2089
 
+https://insights.thoughtworks.cn/critical-rendering-path-and-optimization-strategy/
+
 ## 为什么要做性能优化
 
 一切都是为了提升用户体验。在求快的时代，网站的响应速度十分重要，如果打开网站速度太慢，用户会选择关闭，而不是无止境地等待。

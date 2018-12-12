@@ -23,6 +23,8 @@ https://www.jianshu.com/p/54a2b14dfdf2
 
 https://medium.com/bitcraft/hd-wallets-explained-from-high-level-to-nuts-and-bolts-9a41545f5b0
 
+https://medium.com/bitcraft/so-you-want-to-build-an-ethereum-hd-wallet-cb2b7d7e4998
+
 https://zhuanlan.zhihu.com/p/30297080
 
 https://kuaibao.qq.com/s/20180801B1LL0100?refer=cp_1026
