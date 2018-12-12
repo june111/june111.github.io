@@ -190,9 +190,9 @@ flutter run
 	3. 解压缩.xip文件
 	4. 右键单击Xcode-Beta.app并选择Show Package Contents
 
-	<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2018-12-12/open-xcode-2.png">
-	![打开Package Contents]({{site.baseurl}}/assets/img/post/2018-12-12/open-xcode-2.png)
-	</a>
+		<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2018-12-12/open-xcode-2.png">
+		![打开Package Contents]({{site.baseurl}}/assets/img/post/2018-12-12/open-xcode-2.png)
+		</a>
 
 	5. 导航到目录 - >开发人员 - >平台 - > iPhoneOS.platform-> DeviceSupport
 	6. 复制12.0（16A5354b）。
@@ -203,9 +203,9 @@ flutter run
 	9. 再次，导航到Contents-> Developer-> Platforms-> iPhoneOS.platform-> DeviceSupport
 	10. 在此处粘贴12.0（16A5354b）
 
-	<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2018-12-12/copy-content.png">
-	![粘贴文件]({{site.baseurl}}/assets/img/post/2018-12-12/copy-content.png)
-	</a>
+		<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2018-12-12/copy-content.png">
+		![粘贴文件]({{site.baseurl}}/assets/img/post/2018-12-12/copy-content.png)
+		</a>
 
 	11. 重新启动Xcode并插入iOS 12真实设备
 	12. 运行你的应用程序，完成！
