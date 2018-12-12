@@ -11,6 +11,7 @@
 [alligator](https://alligator.io/)
 [冴羽的JavaScript博客](https://segmentfault.com/blog/yayu-blog?tag=javascript)
 [木易杨的博客](https://blog.csdn.net/q8250356)
+[李松峰博客](https://lisongfeng.cn/)
 [现代 Web 开发基础与工程实践](https://github.com/wxyyxc1992/Web-Series)
 [大前端工具集](https://github.com/nieweidong/fetool)
 [前端农民工](https://github.com/fouber/blog)

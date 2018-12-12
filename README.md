@@ -54,6 +54,10 @@
 * VUE
 	* [Vue常用的传值方式](https://june111.github.io/2018/11/22/vue-pass-value)
 
+	* Event Loop 原理
+	* Promise 原理
+	* Async/Await 原理
+
 * 网络安全
 	* [web安全入门](https://june111.github.io/2018/12/05/web-security)
 
