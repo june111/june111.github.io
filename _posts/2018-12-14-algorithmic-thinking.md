@@ -16,7 +16,7 @@ tags: 计算机科学
 
 思想：蛮力法(brute force)是一种简单直接地解决问题的方法，常常直接基于问题的描述和所涉及的概念定义。
 
-例子：对于给定的数字a和一个非负的整数n，计算a<sub>n</sub>的值。可以简单地把1和a相乘n次来得到a<sub>n</sub>的值。
+例子：对于给定的数字a和一个非负的整数n，计算a<sup>n</sup>的值。可以简单地把1和a相乘n次来得到a<sup>n</sup>的值。
 
 <a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2018-12-14/aa.png">
 ![算式]({{site.baseurl}}/assets/img/post/2018-12-14/aa.png)

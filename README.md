@@ -42,6 +42,7 @@
 		* 监控系统
 
 			* [前端监控](https://june111.github.io/2018/12/10/front-end-monitoring)
+			* [web 异常监控(Sentry + VUE)](https://june111.github.io/2018/12/15/unusual-monitoring.html)
 
 		* 持续集成
 
@@ -62,8 +63,6 @@
 * 网络安全
 
 	* [web安全入门](https://june111.github.io/2018/12/05/web-security)
-
-
 
 ### 区块链
 
@@ -106,7 +105,6 @@
 [Markdown常用语法规则](https://june111.github.io/2018/06/20/markdown-intro)
 
 
-## 生活
 
 
 
