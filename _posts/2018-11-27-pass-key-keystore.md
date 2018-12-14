@@ -4,7 +4,7 @@ title: '密码、私钥、keystore与助记词之间的关系'
 date: 2018-11-27
 author: June
 cover: /assets/img/post/2018-11-27/pass-key-keystore.png
-tags: 前端
+tags: 区块链
 ---
 
 # 密码、私钥、keystore与助记词之间的关系
