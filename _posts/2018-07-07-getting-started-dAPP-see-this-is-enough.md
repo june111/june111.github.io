@@ -4,7 +4,7 @@ title: '入门dAPP，看这篇就够了'
 date: 2018-07-07
 author: June
 cover: 'https://june111.github.io/assets/img/post/2018-07-07/started-dapp.png'
-tags: 技术 区块链
+tags: 区块链
 ---
 
 # 入门dAPP，看这篇就够了

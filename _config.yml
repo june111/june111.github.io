@@ -53,7 +53,7 @@ postPatterns: 'circuitBoard'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  github: '//github.com/june111'
+  github: '//github.com/june111/june111.github.io'
   jianshu: '//www.jianshu.com/u/189f4e2f3a77'
 
 
