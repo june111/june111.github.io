@@ -3,7 +3,7 @@ layout: post
 title: '算法学习路线图'
 date: 2018-12-13
 author: June
-cover: /assets/img/post/2018-12-13/learning-algorithm-plan.png
+cover: /assets/img/post/2018-12-13/learning-algorithm-plan.jpg
 tags: 计算机科学
 ---
 
