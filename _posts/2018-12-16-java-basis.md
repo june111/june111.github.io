@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'java 基础'
+title: 'Java 基础'
 subtitle: 'codecademy 的 Learn Java 笔记'
 date: 2018-12-16
 author: June
@@ -8,11 +8,7 @@ cover: /assets/img/post/2018-12-16/java-basis.png
 tags: 技术
 ---
 
-# java 基础
-
-<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2018-12-10/structure.svg">
-![文章结构]({{site.baseurl}}/assets/img/post/2018-12-10/structure.svg)
-</a>
+# Java 基础
 
 ## 基础
 
