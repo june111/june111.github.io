@@ -11,7 +11,7 @@ tags: 计算机科学
 
 算法的学习挑战。以下带链接的点，都会有相应的学习笔记，如果没有，说明我还没有学到那喽。
 
-Tip: 学习算法前最好把 java 的基础语法过一遍，以防看不懂算法例子。
+Tip: 学习算法前最好把 [java 的基础语法](https://june111.github.io/2018/12/16/java-basis)过一遍，以防看不懂算法例子。
 
 ## [算法思想](https://june111.github.io/2018/12/14/algorithmic-thinking.html)
 

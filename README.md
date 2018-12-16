@@ -85,6 +85,10 @@
 
 ### 计算机科学
 
+* java
+	
+	* [java 基础](https://june111.github.io/2018/12/16/java-basis)
+
 * 算法
 
 	* [算法学习路线图](https://june111.github.io/2018/12/13/learning-algorithm-plan.html)
