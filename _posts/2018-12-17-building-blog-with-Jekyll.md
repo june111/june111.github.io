@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '用Jekyll搭建博客'
+title: '用 Github Pages && Jekyll 搭建博客'
 subtitle: '手把手带你搭建自己的博客'
 date: 2018-12-17
 author: June
