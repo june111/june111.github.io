@@ -15,6 +15,7 @@
 [现代 Web 开发基础与工程实践](https://github.com/wxyyxc1992/Web-Series)
 [大前端工具集](https://github.com/nieweidong/fetool)
 [前端农民工](https://github.com/fouber/blog)
+[编程随想的博客](https://program-think.blogspot.com/)
 
 ### 社区
 
@@ -38,6 +39,7 @@
 [pdf转换](https://smallpdf.com/cn )
 [图片文字提取OCR](https://www.onlineocr.net/)
 [做流程图](https://www.draw.io/ )
+[canva](https://www.canva.cn)
 
 [制作svg动画](https://app.svgator.com/auth/login)
 [色值查询](http://www.yymoban.com/tool/color/)
@@ -144,6 +146,13 @@
 
 ### 前端小工具
 [snap.svg](http://snapsvg.io/)
+[google内嵌地图](http://www.embed-map.com/)
+[javascripting 按照需求找框架和库](https://www.javascripting.com/)
+[http库测试工具 - httpbin](https://httpbin.org/#/Images)
+[html转图片](http://html2canvas.hertzen.com/)
+[mp3 剪辑](https://mp3cut.net/)
+[常用cdn](https://cdnjs.com/)
+
 
 ### 工具对比
 [npm trends](https://www.npmtrends.com/)
@@ -197,12 +206,32 @@ https://learnblockchain.cn
 
 ## 电影
 [迅影网](http://www.xunyingwang.com/)
-
+[磁力猫](https://www.cilimao.cc/)
 [ctolib码库](https://www.ctolib.com/)
+
+[字幕网](https://subhd.com/)
 
 ## 书
 [我的小书屋](http://mebook.cc/)
-[]()
+[点书网](http://www.gezhongshu.com/forum.php)
+[bookfi](http://bookfi.net/g/)
+[鸠摩搜书](https://www.jiumodiary.com/)
+[Library Genesis (创世纪图书馆)  ](http://gen.lib.rus.ec/)
+[古腾堡计划 公版书](https://link.zhihu.com/?target=http%3A//www.gutenberg.org)
+[sobooks 社科文学](https://sobooks.cc/)
+[epubee 在线阅读](http://cn.epubee.com/books/)
+[书语者](https://book.shuyuzhe.com/)
+[skEbooks](https://www.skebooks.com/)
+[书伴](https://bookfere.com/)
+[书格](https://shuge.org/)
+
+
+## 项目管理
+
+[禅道](http://www.zentao.net/ )
+
+
+
 
 网站速度优化
 http://www.webpagetest.org/
@@ -233,8 +262,7 @@ http://cn.ubuntu.com/?_ga=2.208405718.514131936.1501825440-696464651.1501722536 
 [w3ctech 技术论坛](https://www.w3ctech.com/)
 
 
-google内嵌地图
-http://www.embed-map.com/
+
 
 online wireframe  tools
 https://gomockingbird.com/home
@@ -244,8 +272,7 @@ http://mo.m.taobao.com/page_201703011647531?spm=a313x.7781069.1998910419.24.PNi8
 https://codepen.io/ 在线编辑H5 CSS JS
 
 
-http库测试工具 - httpbin
-https://httpbin.org/#/Images
+
 
 
 播放器 
@@ -259,7 +286,6 @@ https://www.cnblogs.com/lichengzhang/p/5086199.html
 http://blog.csdn.net/rongchaoliu/article/details/47830799
 
 
-按照需求找框架和库[javascripting](https://www.javascripting.com/)
 
 
 
@@ -348,8 +374,7 @@ html5 record 录音实例 使用websocket
 http://www.cnblogs.com/wei2yi/archive/2011/03/23/1992830.html   认识HTML5的WebSocket
 
 
-html转图片
-http://html2canvas.hertzen.com/
+
 
 时间轴 
 http://www.cnblogs.com/sanshi/p/3229220.html  
@@ -388,8 +413,7 @@ http://www.cnblogs.com/jayleke/archive/2012/08/10/2633174.html
 下拉加载
 http://amazeui.org/javascript/iscroll-lite
 
-项目管理
-http://www.zentao.net/ 禅道
+
 
 可视化
 https://data.aliyun.com/visual/datav?spm=5176.8142029.388261.78.715c4636fKokH3 DataV
@@ -407,14 +431,11 @@ http://www.jeecms.com/   jeecms
 https://www.ory.sh/ 模块可拖拽
 https://ckeditor.com/ckeditor-4/  收费
 
-mp3 剪辑
-https://mp3cut.net/
 
 PayPal 
 https://developer.paypal.com/demo/checkout/#/pattern/server
 
-常用cdn
-https://cdnjs.com/
+
 
 Bootstrap
 
