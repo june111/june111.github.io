@@ -37,19 +37,21 @@
 [下载youtube](http://en.savefrom.net/ )
 
 [pdf转换](https://smallpdf.com/cn )
+[图片 / pdf 压缩](https://squoosh.app/)
+[图片压缩](https://tinypng.com/)
 [图片文字提取OCR](https://www.onlineocr.net/)
-[做流程图](https://www.draw.io/ )
+
+[画图，流程图](https://www.draw.io/)
 [canva](https://www.canva.cn)
 
 [制作svg动画](https://app.svgator.com/auth/login)
+
 [色值查询](http://www.yymoban.com/tool/color/)
 
 [艺术二维码 第九工厂](http://www.9thws.com/)
 [联图二维码](http://www.liantu.com/)
 [草料二维码](https://cli.im/)
 
-## 提高效率的工具
-[画图，流程图](https://www.draw.io/)
 [日期计算器](http://bjtime.cn/riqi/)
 
 ## 前端开发
@@ -60,6 +62,7 @@
 [biu 后台管理框架 后端使用Spring Boot](https://gitee.com/caibaohong/biu)
 [AG-Admin-v2-UI 后台管理框架 后端使用Spring Cloud](https://gitee.com/minull/AG-Admin-v2.0)
 [博客系统](https://gitee.com/fuhai/jpress)
+[Awesome README](https://github.com/matiassingers/awesome-readme)
 
 ### js
 
