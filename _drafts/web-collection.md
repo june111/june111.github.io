@@ -155,7 +155,7 @@
 [html转图片](http://html2canvas.hertzen.com/)
 [mp3 剪辑](https://mp3cut.net/)
 [常用cdn](https://cdnjs.com/)
-
+[测试网速](http://www.speedtest.net)
 
 ### 工具对比
 [npm trends](https://www.npmtrends.com/)
