@@ -190,6 +190,8 @@ https://wiki.learnblockchain.cn/GLOSSARY.html
 
 [以太坊文库](http://ethdocs.org/en/latest/)
 
+[dapp 合集](http://dapp.com/)
+
 常见问题（英文文档）
 https://github.com/ethereum/wiki/wiki/FAQ
 http://8btc.com/thread-23195-1-1.html

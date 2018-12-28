@@ -125,7 +125,7 @@ git remote add  origin git@120.79.161.66:Ethworld/ethis-web.git
 	git commit –m’xxx’
 ```
 
-提交之后打标签
+commit提交之后打标签
 ```bash
 git tag <版本号>
 ```
