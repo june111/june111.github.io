@@ -124,6 +124,12 @@ git remote add  origin git@120.79.161.66:Ethworld/ethis-web.git
 	git commit
 	git commit –m’xxx’
 ```
+
+提交之后打标签
+```bash
+git tag <版本号>
+```
+
 检查
 ```bash
 	git status
@@ -136,6 +142,8 @@ git remote add  origin git@120.79.161.66:Ethworld/ethis-web.git
 ```bash
 	git log
 ```
+
+
 
 利用 SSH 完成 Git 与 GitHub 的绑定
 
