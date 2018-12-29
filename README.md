@@ -63,6 +63,7 @@
 * 日常问题记录
 
 	* [解决HTML锚点定位偏移最有效快捷的方法](https://june111.github.io/2018/12/25/html-anchor)
+	* [Vue ElementUI 表单校验（多层嵌套）](https://june111.github.io/2018/12/28/form-validation-multi-level-nesting)
 
 * 网络安全
 

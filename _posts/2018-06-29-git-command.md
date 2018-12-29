@@ -14,7 +14,7 @@ tags: 技术
 ### git clone
 ```bash
 	git clone <版本库的网址> <本地目录名>
-	git clone -b gzy http://120.79.161.66:90/pandara/pandara-web.git
+	git clone -b <分支名> <仓库地址>
 ```
 ### git remote
 
@@ -30,11 +30,11 @@ tags: 技术
 ```
 添加远程仓库地址
 ```bash
-git remote add  origin git@120.79.161.66:Ethworld/ethis-web.git
+git remote add  origin <仓库地址>
 ```
 修改远程仓库地址
 ```bash
-	git remote set-url origin http://120.79.161.66:90/pandara/pandara-web.git
+	git remote set-url origin <仓库地址>
 ```
 更新远程分支列表
 ```bash
@@ -49,14 +49,14 @@ git remote add  origin git@120.79.161.66:Ethworld/ethis-web.git
 ```
 取回特定分支的更新
 ```bash
-	git fetch 远程主机名/分支名
+	git fetch <远程主机名>/<分支名>
 ```
 ### git pull
 
 拉代码
 ```bash
+	git pull <远程主机名> <远程分支名>
 	git pull <远程主机名> <远程分支名>:<本地分支名>
-	git pull origin june
 ```
 
 ### git push
@@ -64,7 +64,7 @@ git remote add  origin git@120.79.161.66:Ethworld/ethis-web.git
 推送到june
 ```bash
 	git push <远程主机名> <本地分支名>:<远程分支名>
-	git push origin june
+	git push <远程主机名> <本地分支名>
 ```
 
 -u选项指定一个默认主机，这样后面就可以不加任何参数使用git push。
@@ -96,12 +96,12 @@ git remote add  origin git@120.79.161.66:Ethworld/ethis-web.git
 ```
 在origin/master的基础上，创建一个新分支。
 ```bash
-	git checkout -b newBrach origin/master
+	git checkout -b <新分支名> origin/master
 ```
 手动建立追踪关系。更改默认分支。指定master分支追踪origin/next分支
 ```bash
 	git branch --set-upstream master origin/next
-	// Branch 'master' set up to track remote branch 'master' from 'origin'.
+	# Branch 'master' set up to track remote branch 'master' from 'origin'.
 ```
 查询默认分支
 ```bash	
@@ -162,12 +162,12 @@ git tag <版本号>
 
 Git global setup
 ```bash
-	git config --global user.name "June"
-	git config --global user.email "june@linktimetech.com"
+	git config --global user.name "<用户名>"
+	git config --global user.email "<邮箱>"
 ```
 Create a new repository
 ```bash
-	git clone http://120.79.161.66:90/web/edcon.git
+	git clone <仓库地址>
 	cd edcon
 	touch README.md
 	git add README.md
@@ -178,7 +178,7 @@ Existing folder or Git repository
 ```bash
 	cd existing_folder
 	git init
-	git remote add origin http://120.79.161.66:90/web/edcon.git
+	git remote add origin <仓库地址>
 	git add .
 	git commit
 	git push -u origin master
