@@ -3,7 +3,7 @@ layout: post
 title: '香港工银亚洲开卡全记录'
 date: 2018-12-29
 author: June
-cover: /assets/img/post/2018-12-10/front-end-build-tool.png
+cover: /assets/img/post/2018-12-10/hk-icbc-apply-card-record.png
 tags: 前端
 ---
 
