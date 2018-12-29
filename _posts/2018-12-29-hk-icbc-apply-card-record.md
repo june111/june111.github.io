@@ -1,9 +1,10 @@
 ---
 layout: post
 title: '香港工银亚洲开卡全记录'
+subtitle: '坑都被我踩完了，放心去吧'
 date: 2018-12-29
 author: June
-cover: /assets/img/post/2018-12-10/hk-icbc-apply-card-record.png
+cover: /assets/img/post/2018-12-29/hk-icbc-apply-card-record.png
 tags: 前端
 ---
 
@@ -31,10 +32,10 @@ tags: 前端
 
 ### 交通
 
-福田口岸 坐 B3X（ 06:40 - 21:30 (15) ） 
---> 红桥; 屯门公路 
---> 红桥 58M （ 07:12 - 10:11 (4-6)  ）  (葵芳鐵路站總站 方向）
---> 愉景新城
+福田口岸 坐 B3X（ 06:40 - 21:30 (15) ）   
+--> 红桥; 屯门公路   
+--> 红桥 58M （ 07:12 - 10:11 (4-6)  ）  (葵芳鐵路站總站 方向）  
+--> 愉景新城 
 
 ### 地理位置
 
