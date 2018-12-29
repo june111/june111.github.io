@@ -109,7 +109,7 @@ tags: 前端
 
 	创建草稿文件夹 `_drafts` ，把草稿里面的内容显示出来
 	```bash
-	jekyll serve --drafts
+	bundle exec jekyll serve --drafts
 	```
 
 ## 合并 Github Pages && Jekyll
