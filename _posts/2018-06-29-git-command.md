@@ -125,7 +125,7 @@ git remote add  origin <仓库地址>
 	git commit –m’xxx’
 ```
 
-提交之后打标签
+commit提交之后打标签
 ```bash
 git tag <版本号>
 ```
