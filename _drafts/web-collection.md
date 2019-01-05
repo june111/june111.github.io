@@ -67,6 +67,12 @@
 [AG-Admin-v2-UI 后台管理框架 后端使用Spring Cloud](https://gitee.com/minull/AG-Admin-v2.0)
 [博客系统](https://gitee.com/fuhai/jpress)
 [Awesome README](https://github.com/matiassingers/awesome-readme)
+[nuxt 做的blog](https://github.com/surmon-china/surmon.me)
+[trust-web3-provider](https://github.com/TrustWallet/trust-web3-provider)
+[简单的桌面版钱包](https://github.com/hunterlong/neureal-wallet)
+[Vue Developer Roadmap](https://github.com/marekbrainhub/vue-developer-roadmap)
+[Dapp Example](https://github.com/mesirendon/DappExample)
+[jeecms 后台管理](http://www.jeecms.com/)
 
 ### js
 
@@ -77,6 +83,8 @@
 
 [制定loading](https://loading.io/)
 [加载动画网站合集](http://cssload.net/)
+[loading 插件第三方库](https://github.com/tobiasahlin/SpinKit)
+[loading 插件第三方库](https://github.com/ConnorAtherton/loaders.css)
 
 ### ui
 
@@ -141,6 +149,7 @@
 [VUE 例子插件](https://vuejsexamples.com/)
 [插件库](https://www.awesomes.cn/)
 [轮子工厂](http://www.wheelsfactory.cn/#/)
+[动态星星粒子线条](https://github.com/creotip/vue-particles)
 
 ### 微信
 [微信开发者工具](https://mp.weixin.qq.com/wiki )
@@ -213,6 +222,11 @@ http://blog.csdn.net/liyuechun520
 https://learnblockchain.cn
 
 [KyberNetwork Contract](https://etherscan.io/address/0xdd974d5c2e2928dea5f71b9825b8b646686bd200#code)
+
+## 后台
+
+### java
+[在线学java](https://www.learnjavaonline.org/)
 
 ## 电影
 [迅影网](http://www.xunyingwang.com/)

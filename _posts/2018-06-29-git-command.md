@@ -143,7 +143,15 @@ git tag <版本号>
 	git log
 ```
 
+本地所有修改的。没有的提交的，都返回到原来的状态
+```bash
+git checkout .
+```
 
+```bash
+git reset --hard HASH #返回到某个节点，不保留修改。
+git reset --soft HASH #返回到某个节点。保留修改
+```
 
 利用 SSH 完成 Git 与 GitHub 的绑定
 
