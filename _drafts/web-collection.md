@@ -7,14 +7,17 @@
 
 [刘未鹏 | Mind Hacks](http://mindhacks.cn/)
 [alligator](https://alligator.io/)
-[冴羽的JavaScript博客](https://segmentfault.com/blog/yayu-blog?tag=javascript)
+[冴羽的博客](https://github.com/mqyqingfeng/Blog)
+[梁少峰的个人博客](https://github.com/youngwind/blog)
 [木易杨的博客](https://blog.csdn.net/q8250356)
 [李松峰博客](https://lisongfeng.cn/)
 [现代 Web 开发基础与工程实践](https://github.com/wxyyxc1992/Web-Series)
 [大前端工具集](https://github.com/nieweidong/fetool)
 [前端农民工](https://github.com/fouber/blog)
 [编程随想的博客](https://program-think.blogspot.com/)
+[撒网要见鱼](https://dailc.github.io/blog/archive.html)
 
+[](http://www.c945.com/)
 ### 社区
 
 [csdn](http://www.csdn.net/ )
@@ -74,6 +77,8 @@
 [Dapp Example](https://github.com/mesirendon/DappExample)
 [jeecms 后台管理](http://www.jeecms.com/)
 
+[hyperledger/fabric](https://github.com/hyperledger/fabric)
+
 ### js
 
 [Exploring ES6](http://exploringjs.com/es6/ )
@@ -95,6 +100,7 @@
 [GOOGLE 出品的 materializecss](https://materializecss.com/)
 [uikit](https://getuikit.com/ )
 [semantic-ui](https://semantic-ui.com/ )
+[ydui touch](http://vue.ydui.org/)
 
 [UI路线图](https://github.com/togiberlin/ui-ux-designer-roadmap)
 
@@ -121,13 +127,14 @@
 ### react
 
 [react 官网](https://reactjs.org/ )
-[React 入门教程](https://www.gitbook.com/book/hulufei/react-tutorial )
 [react webpack gitbook](https://fakefish.github.io/react-webpack-cookbook/index.html  )
 [蚂蚁金服的框架](https://pro.ant.design/ )
 [react学习地图](https://github.com/adam-golab/react-developer-roadmap)
 [React从入门到放弃 -- 笔记、教程、Demo](https://github.com/Marco2333/react-demo)
 [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap)
-[React Developer Roadmap 中](https://github.com/SangKa/react-roadmap)
+[React Developer Roadmap 中文版](https://github.com/SangKa/react-roadmap)
+[阮一峰 react demos](https://github.com/ruanyf/react-demos)
+[How to Learn React — A roadmap from beginner to advanced](https://medium.freecodecamp.org/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6)
 
 ### vue
 
@@ -150,6 +157,7 @@
 [插件库](https://www.awesomes.cn/)
 [轮子工厂](http://www.wheelsfactory.cn/#/)
 [动态星星粒子线条](https://github.com/creotip/vue-particles)
+[前端常用库](http://www.javascript.fun/)
 
 ### 微信
 [微信开发者工具](https://mp.weixin.qq.com/wiki )
@@ -171,14 +179,66 @@
 [常用cdn](https://cdnjs.com/)
 [测试网速](http://www.speedtest.net)
 
+### 好看的博客
+[](https://jonphillips.ca/?utm_source=caibaojian.com)
+[](http://efingo.com/work/)
+[](http://bradywilliams.co/?utm_source=caibaojian.com)
+[](http://dowse.org.nz/news/)
+[](https://henrybrown.me/)
+
 ### 工具对比
 [npm trends](https://www.npmtrends.com/)
 [awesome node.js](https://nodejs.libhunt.com/)
 
-### 以太坊相关
+## 以太坊相关
+
+### Interface
+[A GraphQL interface to Ethereum](https://github.com/ConsenSys/ethql)
+[JSON RPC API（与以太坊客户端进行交互）](https://github.com/ethereum/wiki/wiki/JSON-RPC )
+
+### Dapp
+[dapp 合集](http://dapp.com/)
+
+### 相关博客
+[深入浅出区块链](https://learnblockchain.cn)
+[黎跃春CSDN](http://blog.csdn.net/liyuechun520)
+[王一洋CSDN](http://blog.csdn.net/waysoflife/article/list/2)
+[乔延宏 简书](https://www.jianshu.com/u/75583edd6594)
+[try blockchain](http://me.tryblockchain.org)
+[以太坊开发入门](http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
+
+### 智能合约
+[KyberNetwork Contract](https://etherscan.io/address/0xdd974d5c2e2928dea5f71b9825b8b646686bd200#code)
+[Solidity中文文档（智能合约）](http://www.tryblockchain.org)
+[Truffle框架中文文档](http://truffle.tryblockchain.org)
+
+### 区块浏览器
+[etherscan](https://etherscan.io)
+[etherchain](https://www.etherchain.org)
+
+### kyber 相关 
+[开发者文档](https://developer.kyber.network/docs/Start/)
+[]()
+[]()
 
 [Awesome Blockchain](https://github.com/chaozh/awesome-blockchain-cn)
 [区块链钱包开发 资源](https://medium.com/@robinwan/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%92%B1%E5%8C%85%E5%BC%80%E5%8F%91-b3ad79bb1c85)
+
+[以太坊wiki](https://github.com/ethereum/wiki/wiki)
+
+[以太坊白皮书](https://github.com/ethereum/wiki/wiki/%5B中文%5D-以太坊白皮书 )
+
+[Web3.js API 中文文档](http://web3.tryblockchain.org/Web3.js-api-refrence.html)
+
+[Ethfans知识库](http://ethfans.org/wikis/Home)
+
+[以太坊文库](http://ethdocs.org/en/latest/)
+
+常见问题（英文文档）
+https://github.com/ethereum/wiki/wiki/FAQ
+http://8btc.com/thread-23195-1-1.html
+
+
 
 区块链专业术语词汇表
 http://blog.csdn.net/liyuechun520/article/details/77097094?locationNum=3&fps=1
@@ -186,54 +246,23 @@ https://baijiahao.baidu.com/s?id=1585686236476518555&wfr=spider&for=pc
 https://wiki.learnblockchain.cn/GLOSSARY_eth.html
 https://wiki.learnblockchain.cn/GLOSSARY.html
 
-[以太坊wiki](https://github.com/ethereum/wiki/wiki)
-
-[以太坊白皮书](https://github.com/ethereum/wiki/wiki/%5B中文%5D-以太坊白皮书 )
-
-[JSON RPC API（与以太坊客户端进行交互）](https://github.com/ethereum/wiki/wiki/JSON-RPC )
-
-[Solidity中文文档（智能合约）](http://www.tryblockchain.org)
-
-[Web3.js API 中文文档](http://web3.tryblockchain.org/Web3.js-api-refrence.html)
-
-[Truffle框架中文文档](http://truffle.tryblockchain.org)
-
-[以太坊开发入门](http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
-
-[Ethfans知识库](http://ethfans.org/wikis/Home)
-
-[以太坊文库](http://ethdocs.org/en/latest/)
-
-[dapp 合集](http://dapp.com/)
-
-常见问题（英文文档）
-https://github.com/ethereum/wiki/wiki/FAQ
-http://8btc.com/thread-23195-1-1.html
-
-区块浏览器
-https://etherscan.io
-https://www.etherchain.org
-
-相关博客
-https://www.jianshu.com/u/75583edd6594
-http://me.tryblockchain.org
-http://blog.csdn.net/waysoflife/article/list/2
-http://blog.csdn.net/liyuechun520
-https://learnblockchain.cn
-
-[KyberNetwork Contract](https://etherscan.io/address/0xdd974d5c2e2928dea5f71b9825b8b646686bd200#code)
 
 ## 后台
 
 ### java
 [在线学java](https://www.learnjavaonline.org/)
+[Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java)
 
 ## 电影
 [迅影网](http://www.xunyingwang.com/)
 [磁力猫](https://www.cilimao.cc/)
 [ctolib码库](https://www.ctolib.com/)
+[neets](https://neets.cc/)
 
 [字幕网](https://subhd.com/)
+
+## 导航
+[龙轩导航](http://ilxdh.com/)
 
 ## 书
 [我的小书屋](http://mebook.cc/)
