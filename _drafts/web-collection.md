@@ -18,6 +18,7 @@
 [撒网要见鱼](https://dailc.github.io/blog/archive.html)
 
 [](http://www.c945.com/)
+
 ### 社区
 
 [csdn](http://www.csdn.net/ )
@@ -198,6 +199,7 @@
 
 ### Dapp
 [dapp 合集](http://dapp.com/)
+[kyber开发者文档](https://developer.kyber.network/docs/Start/)
 
 ### 相关博客
 [深入浅出区块链](https://learnblockchain.cn)
@@ -216,10 +218,12 @@
 [etherscan](https://etherscan.io)
 [etherchain](https://www.etherchain.org)
 
-### kyber 相关 
-[开发者文档](https://developer.kyber.network/docs/Start/)
-[]()
-[]()
+### 书
+[Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
+
+### 学习资源
+[fullstacks](https://fullstacks.org/)
+
 
 [Awesome Blockchain](https://github.com/chaozh/awesome-blockchain-cn)
 [区块链钱包开发 资源](https://medium.com/@robinwan/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%92%B1%E5%8C%85%E5%BC%80%E5%8F%91-b3ad79bb1c85)

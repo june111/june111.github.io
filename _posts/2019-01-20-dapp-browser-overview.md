@@ -39,7 +39,9 @@ tags: 区块链
 
 * [Cipher](https://www.cipherbrowser.com/) (推荐) -> [github](https://github.com/petejkim/cipher-ethereum)
 
-	可以使用 Touch ID 对数据进行签名。但是dapp太少。Coinbase收购了Cipher，以后Toshi和Cipher可能会合并。
+	钱包支持测试网络。可以使用 Touch ID 对数据进行签名。Coinbase收购了Cipher，以后Toshi和Cipher可能会合并。
+
+	Dapp打开速度不错
 
 * [Trust](https://trustwallet.com/) (推荐) -> [github](https://github.com/TrustWallet)
 
