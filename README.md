@@ -81,7 +81,9 @@
 
 * DAPP
 
-	[入门dAPP，看这篇就够了](https://june111.github.io/2018/07/07/getting-started-dAPP-see-this-is-enough)
+	* [什么是 Dapp](https://june111.github.io/2019/01/21/what-is-a-distributed-application)
+	* [入门dAPP，看这篇就够了](https://june111.github.io/2018/07/07/getting-started-dAPP-see-this-is-enough)
+	* [Dapp 浏览器一览](https://blog.junezhu.top/2019/01/20/dapp-browser-overview.html)
 
 * 钱包
 
@@ -106,6 +108,10 @@
 ### 项目管理
 
 [项目管理入门知识概括](https://june111.github.io/2018/12/11/getting-tarted-project-management)
+
+### 语言学习
+
+[快速自测：你能够流利使用某语言吗？](https://blog.junezhu.top/2019/01/19/quick-self-test-can-you-use-a-language-fluently.html)
 
 ### 其他
 
