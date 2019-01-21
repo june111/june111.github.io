@@ -195,8 +195,8 @@ ENS的最高层是另一个超级简单的合同，只有一个目的：持有�
 
 正如我们在维克里拍卖会上看到的那样，在ENS中注册一个名称是一个分为四个步骤的过程。 首先我们对任何可用的名称进行出价，然后我们会在48小时后显示我们的出价以确保名称。
 
-<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2019-01-25/ens-flow.png">
-![ENS注册时间表是显示注册时间表的图表]({{site.baseurl}}/assets/img/post/2019-01-25/ens-flow.png)
+<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2019-01-21/ens-flow.png">
+![ENS注册时间表是显示注册时间表的图表]({{site.baseurl}}/assets/img/post/2019-01-21/ens-flow.png)
 </a>
 
 让我们注册我们的名字！
@@ -207,20 +207,20 @@ ENS有许多基于Web的界面，允许我们与ENS DApp进行交互。 对于�
 
 首先，我们需要确保我们想要的名称可用。然后开始拍卖。
 
-<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2019-01-25/search-ens-name.png">
-![开始拍卖]({{site.baseurl}}/assets/img/post/2019-01-25/search-ens-name.png)
+<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2019-01-21/search-ens-name.png">
+![开始拍卖]({{site.baseurl}}/assets/img/post/2019-01-21/search-ens-name.png)
 </a>
 
 密封投标。输入真实投标价和伪装投标价，开始一个拍卖。密文可自定义。
 
-<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2019-01-25/start-an-auction.png">
-![密封投标]({{site.baseurl}}/assets/img/post/2019-01-25/start-an-auction.png)
+<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2019-01-21/start-an-auction.png">
+![密封投标]({{site.baseurl}}/assets/img/post/2019-01-21/start-an-auction.png)
 </a>
 
 确认投标
 
-<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2019-01-25/ens-bid.png">
-![确认投标]({{site.baseurl}}/assets/img/post/2019-01-25/ens-bid.png)
+<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2019-01-21/ens-bid.png">
+![确认投标]({{site.baseurl}}/assets/img/post/2019-01-21/ens-bid.png)
 </a>
 
 注意
@@ -231,8 +231,8 @@ ENS有许多基于Web的界面，允许我们与ENS DApp进行交互。 对于�
 
 确认付款
 
-<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2019-01-25/ens-metamask-bid.png">
-![确认付款]({{site.baseurl}}/assets/img/post/2019-01-25/ens-metamask-bid.png)
+<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2019-01-21/ens-metamask-bid.png">
+![确认付款]({{site.baseurl}}/assets/img/post/2019-01-21/ens-metamask-bid.png)
 </a>
 
 如果一切顺利，在以这种方式提交交易后，您可以在48小时内返回并揭示出价，并且您请求的名称将被注册到您的以太坊地址。
@@ -243,8 +243,8 @@ ENS有许多基于Web的界面，允许我们与ENS DApp进行交互。 对于�
 
 在那里，在搜索框中输入您要管理的名称。 您需要将您的以太坊钱包（例如，MetaMask）解锁，以便ENS Manager DApp可以代表您管理该名称。
 
-<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2019-01-25/ens-man.png">
-![管理ENS名称]({{site.baseurl}}/assets/img/post/2019-01-25/ens-man.png)
+<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2019-01-21/ens-man.png">
+![管理ENS名称]({{site.baseurl}}/assets/img/post/2019-01-21/ens-man.png)
 </a>
 
 在此界面中，我们可以创建子域，设置解析器合约（稍后会详细介绍），并将每个名称连接到相应的资源，例如DApp前端的Swarm地址。
@@ -253,8 +253,8 @@ ENS有许多基于Web的界面，允许我们与ENS DApp进行交互。 对于�
 
 首先，让我们为示例Auction DApp创建一个子域（auction.ethereumbook.eth）。 我们将命名子域名拍卖，因此完全限定名称将为auction.ethereumbook.eth。
 
-<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2019-01-25/ens_manager_add_subdomain.png">
-![创建ENS子域]({{site.baseurl}}/assets/img/post/2019-01-25/ens_manager_add_subdomain.png)
+<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2019-01-21/ens_manager_add_subdomain.png">
+![创建ENS子域]({{site.baseurl}}/assets/img/post/2019-01-21/ens_manager_add_subdomain.png)
 </a>
 
 一旦我们创建了子域，我们就可以在搜索框中输入auction.ethereumbook.eth并对其进行管理，就像我们之前管理域ethereumbook.eth一样。
@@ -273,8 +273,8 @@ ENS有许多基于Web的界面，允许我们与ENS DApp进行交互。 对于�
 
 为auction.ethereumbook.eth设置默认的公共解析器
 
-<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2019-01-25/ens-manager-set-default-resolver.png">
-![为auction.ethereumbook.eth设置默认的公共解析器]({{site.baseurl}}/assets/img/post/2019-01-25/ens-manager-set-default-resolver.png)
+<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2019-01-21/ens-manager-set-default-resolver.png">
+![为auction.ethereumbook.eth设置默认的公共解析器]({{site.baseurl}}/assets/img/post/2019-01-21/ens-manager-set-default-resolver.png)
 </a>
 
 由于我们想要将Auction DApp链接到Swarm哈希，我们可以使用支持内容解析的公共解析器，如设置auction.ethereumbook.eth的默认公共解析器中所示;我们不需要编写或部署自定义解析程序。
@@ -285,8 +285,8 @@ ENS有许多基于Web的界面，允许我们与ENS DApp进行交互。 对于�
 
 设置'content'返回auction.ethereumbook.eth
 
-<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2019-01-25/ens-manager-set-content.png">
-![设置'content'返回auction.ethereumbook.eth]({{site.baseurl}}/assets/img/post/2019-01-25/ens-manager-set-content.png)
+<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2019-01-21/ens-manager-set-content.png">
+![设置'content'返回auction.ethereumbook.eth]({{site.baseurl}}/assets/img/post/2019-01-21/ens-manager-set-content.png)
 </a>
 
 等待我们的交易确认后，我们应该能够正确解析名称。 在设置名称之前，我们的Auction DApp可以通过其哈希在Swarm网关上找到：
@@ -311,8 +311,8 @@ bzz://ab164cf37dc10647e43a233486cdeffa8334b026e32a480dd9cbd020c12d4581
 
 拍卖DApp的完整架构
 
-<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2019-01-25/auction_dapp_final_architecture.png">
-![拍卖DApp的完整架构]({{site.baseurl}}/assets/img/post/2019-01-25/auction_dapp_final_architecture.png)
+<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2019-01-21/auction_dapp_final_architecture.png">
+![拍卖DApp的完整架构]({{site.baseurl}}/assets/img/post/2019-01-21/auction_dapp_final_architecture.png)
 </a>
 
 ## 结论
