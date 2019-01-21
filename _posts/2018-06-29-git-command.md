@@ -124,7 +124,10 @@ git remote add  origin <仓库地址>
 	git commit
 	git commit –m’xxx’
 ```
-
+修改提交的内容
+```bash
+git commit --amend
+```
 commit提交之后打标签
 ```bash
 git tag <版本号>

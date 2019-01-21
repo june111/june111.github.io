@@ -10,8 +10,8 @@ tags: 区块链
 
 # 什么是 Dapp ？
 
-<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2018-12-10/structure.svg">
-![文章结构]({{site.baseurl}}/assets/img/post/2018-12-10/structure.svg)
+<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2019-01-21/structure.svg">
+![文章结构]({{site.baseurl}}/assets/img/post/2019-01-21/structure.svg)
 </a>
 
 Dapp 就是在应用的组成部分中，大部分或完全的去中心化。
@@ -195,7 +195,7 @@ ENS的最高层是另一个超级简单的合同，只有一个目的：持有�
 
 正如我们在维克里拍卖会上看到的那样，在ENS中注册一个名称是一个分为四个步骤的过程。 首先我们对任何可用的名称进行出价，然后我们会在48小时后显示我们的出价以确保名称。
 
-<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2018-11-05/structure.svg">
+<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2019-01-25/ens-flow.png">
 ![ENS注册时间表是显示注册时间表的图表]({{site.baseurl}}/assets/img/post/2019-01-25/ens-flow.png)
 </a>
 
