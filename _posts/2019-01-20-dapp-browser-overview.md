@@ -27,11 +27,12 @@ tags: 区块链
 
 	基于 BTC 的 Dapp 浏览器。用户拥有自己的数据和本地运行的应用程序(dapp)。
 
-* [shift](https://www.shiftnrg.org/) -> [github](https://github.com/ShiftNrg)
-
-	是个网页版钱包，创建钱包后可以进入应用程序页面。但是没有内置应用程序，体验较差。
 
 ## Mobile browsers
+
+* [imToken](https://token.im/) -> [github](https://github.com/consenlabs)
+
+	2.0支持多币种。
 
 * [Toshi](https://wallet.coinbase.com/) -> [github](https://github.com/CoinbaseWallet)
 
