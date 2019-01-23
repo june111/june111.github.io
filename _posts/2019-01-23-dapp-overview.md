@@ -110,23 +110,27 @@ Steem:
 * [Trips.teem](https://en.tripsteem.com/)：旅游策划，类似 TripAdvisor。
 * [Partiko](http://partiko.app/)：内容交易平台，将内容货币化并获得加密货币。
 
-### 金融
+### 工具
 
 Ethereum：
 
-* [Augur](https://www.augur.net/)
-* [Compound](https://app.compound.finance/)
-* [Bloom](https://bloom.co/)
-* [ETHLend](https://ethlend.io/)
+* [Ethereum Name Service](https://ens.domains/)：拍卖可读性强的名称，这个名称可以代替钱包地址进行使用。
+
+EOS：
+
+* [Everipedia](https://everipedia.org/)：百科全书数据库。类似维基百科。
+* [EOS Account Creator](https://eos-account-creator.com/)：新建 EOS 账号的工具。
+* [Bank of Staked](https://eoslaomao.com/bankofstaked)：自助式CPU和NET资源自动售货机。 它目前提供1个免费的CPU应急计划和3个付费计划。
+* [Chintai](https://eos.chintai.io/)：token租赁平台。
 
 TRON:
 
-* [Tron Option Market](https://tronoption.xyz/)
+* [Cryptospots](https://cryptospots.app/)：地图
 
 Steem:
 
-* [Fundition](https://fundition.io/)
-* [Smartsteem](https://smartsteem.com/)
+* [Utopian](https://join.utopian.io/)：基于投票的奖励系统来奖励开源项目的平台。
+* [Dclick](https://www.dclick.io/)：广告平台，使用点击证明。 创作者可以通过广告得到奖励，广告商可以几乎免费推广内容。
 
 ### 资金盘
 
@@ -171,27 +175,23 @@ Steem:
 * [Magic Dice](https://magic-dice.com/)
 * [Steem Slot Games](https://steemslotgames.com/)
 
-### 工具
+### 金融
 
 Ethereum：
 
-* [Ethereum Name Service](https://ens.domains/)
-
-EOS：
-
-* [Everipedia](https://everipedia.org/)
-* [EOS Account Creator](https://eos-account-creator.com/)
-* [Bank of Staked](https://eoslaomao.com/bankofstaked)
-* [Chintai](https://eos.chintai.io/)
+* [Augur](https://www.augur.net/)
+* [Compound](https://app.compound.finance/)
+* [Bloom](https://bloom.co/)
+* [ETHLend](https://ethlend.io/)
 
 TRON:
 
-* [Cryptospots](https://cryptospots.app/)
+* [Tron Option Market](https://tronoption.xyz/)
 
 Steem:
 
-* [Utopian](https://join.utopian.io/)
-* [Dclick](https://www.dclick.io/)
+* [Fundition](https://fundition.io/)
+* [Smartsteem](https://smartsteem.com/)
 
 ### 艺术
 
