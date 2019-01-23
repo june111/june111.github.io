@@ -3,7 +3,7 @@ layout: post
 title: 'web 异常监控(Sentry + VUE)'
 date: 2018-12-15
 author: June
-cover: /assets/img/post/2018-12-15/unusual-monitoring.png
+cover: /assets/img/post/2018-12-15/error-monitoring.png
 tags: 前端
 ---
 
