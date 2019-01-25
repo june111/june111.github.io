@@ -132,6 +132,7 @@
 [蚂蚁金服的框架](https://pro.ant.design/ )
 [react学习地图](https://github.com/adam-golab/react-developer-roadmap)
 [React从入门到放弃 -- 笔记、教程、Demo](https://github.com/Marco2333/react-demo)
+[Awesome React](https://github.com/enaqx/awesome-react)
 [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap)
 [React Developer Roadmap 中文版](https://github.com/SangKa/react-roadmap)
 [阮一峰 react demos](https://github.com/ruanyf/react-demos)
@@ -207,6 +208,9 @@
 
 [kyber开发者文档](https://developer.kyber.network/docs/Start/)
 
+### Dapp 开发平台
+[one click dapp](https://oneclickdapp.com/)
+
 ### 相关博客
 [深入浅出区块链](https://learnblockchain.cn)
 [黎跃春CSDN](http://blog.csdn.net/liyuechun520)
@@ -229,7 +233,7 @@
 
 ### 学习资源
 [fullstacks](https://fullstacks.org/)
-
+[blockgeeks](https://blockgeeks.com/)
 
 [Awesome Blockchain](https://github.com/chaozh/awesome-blockchain-cn)
 [区块链钱包开发 资源](https://medium.com/@robinwan/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%92%B1%E5%8C%85%E5%BC%80%E5%8F%91-b3ad79bb1c85)
