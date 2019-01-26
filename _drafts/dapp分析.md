@@ -18,14 +18,23 @@ https://namebazaar.io/
 五子棋
 [1000X Faster Blockchain Games with Generalized State Channel, try it today on cWallet](https://medium.com/celer-network/1000x-faster-blockchain-games-with-generalized-state-channel-try-it-today-on-cwallet-62a1cf809c94)
 [celer-network](https://github.com/celer-network)
+速度问题：Plasma侧链
 
 骰子比大小
-
-资金盘
 投注
+随机数问题
 
+随机：在合约里调用别的接口
+
+1. uint(block.blockhash(block.number-1))%10;利用当前块的块哈希,再转成 uint
+
+2. uint(keccak256(now, msg.sender)) % 10; 利用加密函数,参数为当前时间戳和调用者地址
+
+
+               
 内容激励（付费）
 
+P5JL5727ZaqkPtyhAAdUtnCkPEviC58bNpXAejG37xZMaZxhQdKX
 
 众筹：
 [Gitcoin Grants](https://gitcoin.co/grants/)
@@ -43,6 +52,7 @@ https://namebazaar.io/
 需求量：
 不足：
 盈利：
+
 
 
 数据，不可串改，

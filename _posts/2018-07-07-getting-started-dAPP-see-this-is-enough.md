@@ -365,14 +365,14 @@ npm i web3@0.14.0 ethereumjs-abi ethereumjs-tx
 
 1. web3
 
-web3需要指定安装0.14.0的版本，因为1.0.0版本还没稳定，而且与MetaMask有点兼容性问题。
+  web3需要指定安装0.14.0的版本，因为1.0.0版本还没稳定，而且与MetaMask有点兼容性问题。
 
-[Web3.js](https://github.com/ethereum/web3.js)是以太坊官方的Javascript API，里面封装了以太坊的 JSON RPC API ，提供了一系列与区块链交互的 Javascript 对象和函数，包括查看网络状态，查看本地账户、查看交易和区块、发送交易、编译/部署智能合约、调用智能合约等，其中最重要的就是与智能合约交互的 API。实际上就是一个库的集合，主要包括下面几个库：
+  [Web3.js](https://github.com/ethereum/web3.js)是以太坊官方的Javascript API，里面封装了以太坊的 JSON RPC API ，提供了一系列与区块链交互的 Javascript 对象和函数，包括查看网络状态，查看本地账户、查看交易和区块、发送交易、编译/部署智能合约、调用智能合约等，其中最重要的就是与智能合约交互的 API。实际上就是一个库的集合，主要包括下面几个库：
 
-* web3-eth 用来与以太坊区块链和智能合约交互
-* web3-shh 用来控制whisper协议与p2p通信以及广播
-* web3-bzz 用来与swarm协议交互
-* web3-utils 包含了一些Dapp开发有用的功能
+  * web3-eth 用来与以太坊区块链和智能合约交互
+  * web3-shh 用来控制whisper协议与p2p通信以及广播
+  * web3-bzz 用来与swarm协议交互
+  * web3-utils 包含了一些Dapp开发有用的功能
 
 2. abi
 
@@ -380,7 +380,7 @@ web3需要指定安装0.14.0的版本，因为1.0.0版本还没稳定，而且�
  [ethereumjs-abi](https://github.com/ethereumjs/ethereumjs-abi)
 
 3. tx
- [ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx) 是用于创建，操作和签署以太坊交易的库
+  [ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx) 是用于创建，操作和签署以太坊交易的库
 
 ## Vue
 

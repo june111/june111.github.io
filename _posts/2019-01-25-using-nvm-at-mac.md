@@ -55,14 +55,14 @@ source ~/.bash_profile
 ## 使用nvm
 
 ```bash
-nvm install stable # 安装最新稳定版 node，现在是 5.0.0
-nvm install 8.15 # 安装 4.2.2 版本
+nvm install stable # 安装最新稳定版 node
+nvm install 8.15 # 安装 8.15.0 版本
 ```
 
 ## 切换版本
 
 ```bash
-nvm use 4 # 切换至4.2.2版本
+nvm use 8 # 切换至 8.15.0 版本
 ```
 ---
 ### 参考链接
