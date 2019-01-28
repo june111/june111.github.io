@@ -115,6 +115,7 @@ Steem:
 Ethereum：
 
 * [Ethereum Name Service](https://ens.domains/)：拍卖可读性强的名称，这个名称可以代替钱包地址进行使用。
+* [ethernal bridge](https://www.ethernalbridge.net/#/)：爱锁，选择一个锁，在里面写2个人的名字和一句话。
 
 EOS：
 

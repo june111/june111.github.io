@@ -86,6 +86,7 @@
 	* [入门dAPP，看这篇就够了](https://june111.github.io/2018/07/07/getting-started-dAPP-see-this-is-enough)
 	* [Dapp 浏览器一览](https://blog.junezhu.top/2019/01/20/dapp-browser-overview.html)
 	* [DApp 概述](https://blog.junezhu.top/2019/01/23/dapp-overview.html)
+	* [以太坊智能合约随机数的生成方法](https://blog.junezhu.top/2019/01/28/eth-random-number-generation)
 
 
 * 钱包
