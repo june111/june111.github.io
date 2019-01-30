@@ -3,7 +3,6 @@ layout: post
 title: 'Mac上使用 nvm 管理 node 版本'
 date: 2019-01-25
 author: June
-cover: /assets/img/post/2019-01-25/using-nvm-at-mac.png
 tags: 前端
 ---
 

@@ -3,7 +3,6 @@ layout: post
 title: 'Dapp 浏览器一览'
 date: 2019-01-20
 author: June
-cover: /assets/img/post/2018-12-10/front-end-build-tool.png
 tags: 区块链
 ---
 

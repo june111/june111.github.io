@@ -4,7 +4,6 @@ title: '快速自测：你能够流利使用某语言吗？'
 subtitle: '以英语为例，不仅限于英语，此测试适用于任何语言'
 date: 2019-01-19
 author: June
-cover: /assets/img/post/2018-12-10/front-end-build-tool.png
 tags: 语言学习
 ---
 

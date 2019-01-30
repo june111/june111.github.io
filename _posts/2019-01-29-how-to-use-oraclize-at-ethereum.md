@@ -1,10 +1,9 @@
 ---
 layout: post
 title: '如何在智能合约中使用 Oraclize 调取外部接口'
-subtitle: 'Oraclize 在以太坊中的应用'
+subtitle: '智能合约中生成较安全的随机数(2)'
 date: 2019-01-29
 author: June
-cover: /assets/img/post/2019-01-29/how-to-use-oraclize-at-ethereum.png
 tags: 区块链
 ---
 

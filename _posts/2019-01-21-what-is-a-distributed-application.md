@@ -4,7 +4,6 @@ title: '什么是 Dapp'
 subtitle: '超长不看版（《Mastering Ethereum》第十二章翻译）'
 date: 2019-01-21
 author: June
-cover: /assets/img/post/2019-01-21/what-is-a-distributed-application.png
 tags: 区块链
 ---
 
