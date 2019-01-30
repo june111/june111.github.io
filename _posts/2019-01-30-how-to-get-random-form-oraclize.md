@@ -23,7 +23,7 @@ Oraclize 提供可证明的预言机服务。可以使用 Oraclize 提供的数�
 
 1. 用 [Remix](https://remix.ethereum.org/#optimize=false)，或 [oraclize 的 IDE](http://dapps.oraclize.it/browser-solidity/)。要把编译合约的版本改为 0.4.25。
 
-2. 把 Environment 改成 JavaScript VM
+2. 把 Environment 切换到 JavaScript VM
 
 3. 到 Settings 把 Oraclize 的插件打开
 
@@ -33,7 +33,7 @@ Oraclize 提供可证明的预言机服务。可以使用 Oraclize 提供的数�
 
 ### 用外部接口
 
-效率：时快时慢，用时 00:01-2:00
+速度：时快时慢，用时 00:01-2:00
 
 可以用 Remix 部署合约
 
@@ -47,7 +47,7 @@ validIds[queryId] = true;
 
 ### 用 Oraclize 的 random 生成器
 
-效率：用时 00:30-2:00
+速度：用时 00:30-2:00
 
 不能用 Remix 和 Oraclize 的 IDE 部署合约
 
@@ -63,7 +63,7 @@ bytes32 queryId = oraclize_newRandomDSQuery(delay, N, callbackGas); // this func
 
 ### 用 Oraclize 的 WolframAlpha（问人工智能）
 
-效率：用时 00:30-2:00
+速度：用时 00:30-2:00
 
 可以用 Remix 部署合约
 
