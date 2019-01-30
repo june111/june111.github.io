@@ -6,6 +6,7 @@ date: 2018-12-29
 author: June
 cover: /assets/img/post/2018-12-29/hk-icbc-apply-card-record.png
 copyright: 1
+reward: 1
 tags: 生活
 ---
 
@@ -62,8 +63,5 @@ tags: 生活
 
 在香港柜台不用卡，用账号和身份证就可以存钱。账户办理成功后，要到柜台去存激活账户的1万 hkd，当天不能取出。过几天才可以。
 
----
 
-觉得文章不错就扫码支持一下呗～
 
-![打赏二维码]({{site.baseurl}}/assets/img/post/pay-qr.jpg)

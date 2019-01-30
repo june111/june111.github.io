@@ -4,6 +4,7 @@ title: 'Vue ElementUI 表单校验（多层嵌套）'
 date: 2018-12-28
 author: June
 cover: /assets/img/post/2018-12-28/form-validation-multi-level-nesting.png
+reward: 1
 tags: 前端
 ---
 
@@ -45,9 +46,5 @@ export default {
 </script>
 ```
 
----
 
-觉得文章不错就扫码支持一下呗～
-
-![打赏二维码]({{site.baseurl}}/assets/img/post/pay-qr.jpg)
 

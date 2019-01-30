@@ -3,6 +3,7 @@ layout: post
 title: 'Dapp 浏览器一览'
 date: 2019-01-20
 author: June
+reward: 1
 tags: 区块链
 ---
 
@@ -56,10 +57,6 @@ tags: 区块链
 	有主链和侧链的钱包。但是app里面找不到dapp。
 
 ---
-
-觉得文章不错就扫码支持一下呗～
-
-![打赏二维码]({{site.baseurl}}/assets/img/post/pay-qr.jpg)
 
 ### 参考文章
 * [Best dapp browser of 2018](https://medium.com/coinmonks/best-dapp-browser-of-2018-63a15ed1a2f9)

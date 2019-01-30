@@ -5,6 +5,7 @@ subtitle: '移动端跨平台APP之项目实战 —— 用 Flutter 开发APP'
 date: 2018-12-12
 author: June
 cover: /assets/img/post/2018-12-12/front-end-build-tool-env.png
+reward: 1
 tags: 前端
 ---
 
@@ -379,9 +380,7 @@ flutter run
 
 ---
 
-觉得文章不错就扫码支持一下呗～
 
-![打赏二维码]({{site.baseurl}}/assets/img/post/pay-qr.jpg)
 
 ## 参考链接
 

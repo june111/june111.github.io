@@ -5,6 +5,7 @@ subtitle: 'codecademy 的 Learn Java 笔记'
 date: 2018-12-16
 author: June
 cover: /assets/img/post/2018-12-16/java-basis.png
+reward: 1
 tags: 技术
 ---
 
@@ -318,7 +319,5 @@ public class Restaurant {
 
 ---
 
-觉得文章不错就扫码支持一下呗～
 
-![打赏二维码]({{site.baseurl}}/assets/img/post/pay-qr.jpg)
 

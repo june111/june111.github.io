@@ -6,6 +6,7 @@ date: 2019-02-01
 author: June
 copyright: 1
 tags: 前端
+reward: 1
 ---
 
 # 如何把 GitHub 中的项目部署到 GitHub Pages
@@ -56,8 +57,6 @@ tags: 前端
 
 ---
 
-觉得文章不错就扫码支持一下呗～
 
-![打赏二维码]({{site.baseurl}}/assets/img/post/pay-qr.jpg)
 
 

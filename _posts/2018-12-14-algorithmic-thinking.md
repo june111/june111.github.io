@@ -5,6 +5,7 @@ subtitle: '《算法设计与分析基础》第三版中关于算法思想的学
 date: 2018-12-14
 author: June
 cover: /assets/img/post/2018-12-14/algorithmic-thinking.png
+reward: 1
 tags: 计算机科学
 ---
 
@@ -197,7 +198,5 @@ tags: 计算机科学
 
 ---
 
-觉得文章不错就扫码支持一下呗～
 
-![打赏二维码]({{site.baseurl}}/assets/img/post/pay-qr.jpg)
 

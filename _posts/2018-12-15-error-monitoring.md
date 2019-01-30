@@ -4,6 +4,7 @@ title: 'web 异常监控(Sentry + VUE)'
 date: 2018-12-15
 author: June
 cover: /assets/img/post/2018-12-15/error-monitoring.png
+reward: 1
 tags: 前端
 ---
 
@@ -65,9 +66,7 @@ Raven
 ```
 ---
 
-觉得文章不错就扫码支持一下呗～
 
-![打赏二维码]({{site.baseurl}}/assets/img/post/pay-qr.jpg)
 
 ### 参考链接
 

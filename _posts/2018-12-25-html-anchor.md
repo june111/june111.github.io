@@ -4,6 +4,7 @@ title: '解决HTML锚点定位偏移最有效快捷的方法'
 date: 2018-12-25
 author: June
 cover: /assets/img/post/2018-12-25/html-anchor.png
+reward: 1
 tags: 前端
 ---
 
@@ -31,9 +32,6 @@ tags: 前端
 <a href="#article"></a>
 ```
 
----
 
-觉得文章不错就扫码支持一下呗～
 
-![打赏二维码]({{site.baseurl}}/assets/img/post/pay-qr.jpg)
 

@@ -5,6 +5,7 @@ date: 2018-11-13
 author: June
 cover: /assets/img/post/2018-11-13/mobile-cross-platform-app-model-and-framework.png
 tags: 前端
+reward: 1
 copyright: 1
 ---
 
@@ -371,9 +372,7 @@ copyright: 1
 
 ---
 
-觉得文章不错就扫码支持一下呗～
 
-![打赏二维码]({{site.baseurl}}/assets/img/post/pay-qr.jpg)
 
 ## 参考链接
 

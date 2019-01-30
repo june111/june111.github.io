@@ -15,8 +15,6 @@ Oraclize 提供可证明的预言机服务。可以使用 Oraclize 提供的数�
 
 我分别用这三种数据源类型写了三个合约，做了个简单的 Dome 调取合约。[线上版本](http://blog.junezhu.top/dapp-fun-test/)效果图如下：
 
-
-
 <a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2019-01-30/demo.png">
 ![Demo]({{site.baseurl}}/assets/img/post/2019-01-30/demo.png)
 </a>

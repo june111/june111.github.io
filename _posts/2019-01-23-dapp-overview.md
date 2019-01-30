@@ -4,6 +4,7 @@ title: 'DApp 概述'
 subtitle: '2018年的活跃 DApp 一览'
 date: 2019-01-23
 author: June
+reward: 1
 tags: 区块链
 ---
 
@@ -202,9 +203,7 @@ Ethereum：
 
 ---
 
-觉得文章不错就扫码支持一下呗～
 
-![打赏二维码]({{site.baseurl}}/assets/img/post/pay-qr.jpg)
 
 ### 参考链接
 

@@ -4,6 +4,7 @@ title: '算法学习路线图'
 date: 2018-12-13
 author: June
 cover: /assets/img/post/2018-12-13/learning-algorithm-plan.jpg
+reward: 1
 tags: 计算机科学
 ---
 
@@ -130,7 +131,5 @@ Tip: 学习算法前最好把 [java 的基础语法](https://june111.github.io/2
 
 ---
 
-觉得文章不错就扫码支持一下呗～
 
-![打赏二维码]({{site.baseurl}}/assets/img/post/pay-qr.jpg)
 

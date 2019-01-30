@@ -4,6 +4,7 @@ title: '如何在智能合约中使用 Oraclize 调取外部接口'
 subtitle: '智能合约中生成较安全的随机数(2)'
 date: 2019-01-29
 author: June
+reward: 1
 tags: 区块链
 ---
 
@@ -274,9 +275,7 @@ Oraclize与以太坊智能合约之间的交互是异步的。任何数据请求
 
 ---
 
-觉得文章不错就扫码支持一下呗～
 
-![打赏二维码]({{site.baseurl}}/assets/img/post/pay-qr.jpg)
 
 ### 参考链接
 

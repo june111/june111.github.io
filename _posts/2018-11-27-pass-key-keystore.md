@@ -4,6 +4,7 @@ title: '密码、私钥、keystore与助记词之间的关系'
 date: 2018-11-27
 author: June
 cover: /assets/img/post/2018-11-27/pass-key-keystore.png
+reward: 1
 tags: 区块链
 ---
 
@@ -108,9 +109,7 @@ BIP是用于提出 Bitcoin 的新功能或改进措施，那么对于以太坊�
 
 ---
 
-觉得文章不错就扫码支持一下呗～
 
-![打赏二维码]({{site.baseurl}}/assets/img/post/pay-qr.jpg)
 
 ### 参考链接
 
