@@ -235,6 +235,16 @@
 [etherscan](https://etherscan.io)
 [etherchain](https://www.etherchain.org)
 
+### 扩展性解决
+
+[Github Curated Resource List](https://github.com/Awesome-Layer-2/awesome-layer-2)
+
+#### Channels
+[LearnChannels](https://www.learnchannels.org/)
+
+#### plasma
+[learnplasma](https://www.learnplasma.org/en/)
+
 ### 数据
 [amberdata](https://amberdata.io/home)
 
@@ -244,6 +254,7 @@
 ### 学习资源
 [fullstacks](https://fullstacks.org/)
 [blockgeeks](https://blockgeeks.com/)
+[ethresear](https://ethresear.ch/)
 
 [Awesome Blockchain](https://github.com/chaozh/awesome-blockchain-cn)
 [区块链钱包开发 资源](https://medium.com/@robinwan/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%92%B1%E5%8C%85%E5%BC%80%E5%8F%91-b3ad79bb1c85)
