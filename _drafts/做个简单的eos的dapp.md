@@ -1,4 +1,32 @@
+---
+layout: post
+title: ''
+subtitle: ''
+date: 2019-02-02
+author: June
+reward: 1
+cover: /assets/img/post/2019-02-02/front-end-build-tool.png
+tags: 前端
+---
 
+# 
+
+<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2019-02-02/structure.svg">
+![文章结构]({{site.baseurl}}/assets/img/post/2019-02-02/structure.svg)
+</a>
+
+
+
+---
+
+### 参考链接
+
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 
 [Why Developers Should Build on EOS](https://medium.com/@eosgo/why-developers-should-build-on-eos-dd534ce456e7)
