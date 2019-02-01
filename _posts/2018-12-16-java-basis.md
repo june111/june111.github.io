@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Java 基础'
+title: 'Java 基础语法'
 subtitle: 'codecademy 的 Learn Java 笔记'
 date: 2018-12-16
 author: June
@@ -9,7 +9,7 @@ reward: 1
 tags: 技术
 ---
 
-# Java 基础
+# Java 基础语法
 
 ## 基础
 

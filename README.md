@@ -65,7 +65,7 @@
 	* [解决HTML锚点定位偏移最有效快捷的方法](https://june111.github.io/2018/12/25/html-anchor)
 	* [Vue ElementUI 表单校验（多层嵌套）](https://june111.github.io/2018/12/28/form-validation-multi-level-nesting)
 	* [Mac上使用 nvm 管理 node 版本](https://june111.github.io/2019/01/25/using-nvm-at-mac)
-	* [如何把 GitHub 中的项目部署到 GitHub Pages]()
+	* [如何把 GitHub 中的项目部署到 GitHub Pages](https://june111.github.io/2019/02/01/how-to-deploy-projects-to-gp)
 
 * 网络安全
 
@@ -89,6 +89,7 @@
 	* [DApp 概述](https://blog.junezhu.top/2019/01/23/dapp-overview.html)
 	* [以太坊智能合约随机数的生成方法](https://blog.junezhu.top/2019/01/28/eth-random-number-generation)
 	* [如何在智能合约中使用 Oraclize 调取外部接口](https://blog.junezhu.top/2019/01/29/how-to-use-oraclize-at-ethereum)
+	* [用 Oraclize 在智能合约中获得随机数](https://blog.junezhu.top/2019/01/30/how-to-get-random-form-oraclize)
 
 * 钱包
 
@@ -97,10 +98,6 @@
 
 ### 计算机科学
 
-* java
-	
-	* [java 基础](https://june111.github.io/2018/12/16/java-basis)
-
 * 算法
 
 	* [算法学习路线图](https://june111.github.io/2018/12/13/learning-algorithm-plan.html)
@@ -108,7 +105,15 @@
 
 * 编程思想
 
-	[面向对象编程思想(OOP) && JavaScript](https://june111.github.io/2018/11/05/object-oriented-programming-thought)
+	* [面向对象编程思想(OOP) && JavaScript](https://june111.github.io/2018/11/05/object-oriented-programming-thought)
+
+* c++
+
+	* [C++ 基础语法](https://june111.github.io/2019/02/02/base-c++)
+
+* java
+
+	* [java 基础语法](https://june111.github.io/2018/12/16/java-basis)
 
 ### 项目管理
 

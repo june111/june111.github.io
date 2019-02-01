@@ -4,7 +4,6 @@ title: '如何把 GitHub 中的项目部署到 GitHub Pages'
 subtitle: '两步带你的项目上线'
 date: 2019-02-01
 author: June
-copyright: 1
 tags: 前端
 reward: 1
 ---
@@ -48,11 +47,25 @@ reward: 1
 
 ## React
 
+1. 显示配置文件
+
+	```bash
+	npm run eject
+	```
+
+2. 修改配置路径的文件 config/jest/paths.js
+
+	```js
+	module.exports = {
+	...
+	  appPath: resolveApp('./'),
+	  appBuild: resolveApp('docs'),
+	...
+	};
+	```
 
 
-
-
-如果要部署到指定的域名，要 CNAME 文件，里面写要指定的域名，再打包进 docs 就可以了。
+如果要部署到指定的域名，就要添加 CNAME 文件，里面写要指定的域名，再打包进 docs 即可。
 
 
 ---

@@ -80,6 +80,8 @@
 
 [hyperledger/fabric](https://github.com/hyperledger/fabric)
 
+
+
 ### js
 
 [Exploring ES6](http://exploringjs.com/es6/ )
@@ -230,6 +232,14 @@
 [KyberNetwork Contract](https://etherscan.io/address/0xdd974d5c2e2928dea5f71b9825b8b646686bd200#code)
 [Solidity中文文档（智能合约）](http://www.tryblockchain.org)
 [Truffle框架中文文档](http://truffle.tryblockchain.org)
+[oraclize/ethereum-bridge](https://github.com/oraclize/ethereum-bridge)
+[oraclize/ethereum-api 讨论](https://gitter.im/oraclize/ethereum-api)
+
+#### 源码研究
+[mmarinovic/eth-lottery-contract](https://github.com/mmarinovic/eth-lottery-contract/blob/a11f37682291b5caaa72dfd342a4cdabe9f2dd3e/src/lottery.sol)
+[Open-Institutions/identity-system](https://github.com/Open-Institutions/identity-system/blob/f0246074c422b42987d67e55ef811d43c0e52dc9/contracts/SelfSovereignIdentitySystem.sol)
+[cryptosanta/cryptosanta](https://github.com/cryptosanta/cryptosanta/blob/3b1ecb4c73592ce68353afa8d3a18fd2932eab2a/dream/RandomOraclizeProxy.sol)
+[oraclize/ethereum-examples](https://github.com/oraclize/ethereum-examples/blob/master/solidity/random-datasource/relaxed-commit/relaxedRandom.sol)
 
 ### 区块浏览器
 [etherscan](https://etherscan.io)
@@ -244,9 +254,16 @@
 
 #### plasma
 [learnplasma](https://www.learnplasma.org/en/)
+[plasma test network](https://plasma.group/)
+
+### WEB3
+[Web3.js API 0.2 官方文档](https://github.com/ethereum/wiki/wiki/JavaScript-API)
+[Web3.js API 中文文档](http://web3.tryblockchain.org/Web3.js-api-refrence.html)
+[Web3.js API 1.0 中文文档](http://cw.hubwiz.com/card/c/web3.js-1.0/)
 
 ### 数据
 [amberdata](https://amberdata.io/home)
+[星火矿池](https://stats.ethfans.org/)
 
 ### 书
 [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
@@ -262,8 +279,6 @@
 [以太坊wiki](https://github.com/ethereum/wiki/wiki)
 
 [以太坊白皮书](https://github.com/ethereum/wiki/wiki/%5B中文%5D-以太坊白皮书 )
-
-[Web3.js API 中文文档](http://web3.tryblockchain.org/Web3.js-api-refrence.html)
 
 [Ethfans知识库](http://ethfans.org/wikis/Home)
 
@@ -350,16 +365,12 @@ http://cn.ubuntu.com/?_ga=2.208405718.514131936.1501825440-696464651.1501722536 
 [w3ctech 技术论坛](https://www.w3ctech.com/)
 
 
-
-
 online wireframe  tools
 https://gomockingbird.com/home
 http://lovelycharts.com/
 
 http://mo.m.taobao.com/page_201703011647531?spm=a313x.7781069.1998910419.24.PNi8Vq创意自适应
 https://codepen.io/ 在线编辑H5 CSS JS
-
-
 
 
 
@@ -529,8 +540,7 @@ Bootstrap
 
 	<link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous”>
 
-星火矿池
-https://stats.ethfans.org/
+
 
 股票图表
 https://www.highcharts.com/stock/demo/candlestick-and-volume
