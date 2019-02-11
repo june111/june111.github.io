@@ -4,7 +4,7 @@ title: '用 Github Pages && Jekyll 搭建博客'
 subtitle: '手把手带你搭建自己的博客'
 date: 2018-12-17
 author: June
-cover: /assets/img/post/2018-12-17/building-blog-with-Jekyll.png
+cover: /assets/img/post/2018-12-17/cover.png
 tags: 前端
 ---
 

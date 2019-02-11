@@ -4,6 +4,7 @@ title: '以太坊智能合约随机数的生成方法'
 subtitle: '智能合约中生成较安全的随机数(1)'
 date: 2019-01-28
 author: June
+cover: /assets/img/post/2019-01-28/cover.png
 reward: 1
 tags: 区块链
 ---

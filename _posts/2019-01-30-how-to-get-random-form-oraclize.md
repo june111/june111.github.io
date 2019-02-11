@@ -5,7 +5,7 @@ subtitle: '智能合约中生成较安全的随机数(3)'
 date: 2019-01-30
 author: June
 reward: 1
-cover: /assets/img/post/2019-01-30/how-to-get-random-form-oraclize.png
+cover: /assets/img/post/2019-01-30/cover.jpg
 tags: 区块链
 ---
 

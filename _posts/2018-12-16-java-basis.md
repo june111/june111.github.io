@@ -4,7 +4,7 @@ title: 'Java 基础语法'
 subtitle: 'codecademy 的 Learn Java 笔记'
 date: 2018-12-16
 author: June
-cover: /assets/img/post/2018-12-16/java-basis.png
+cover: /assets/img/post/2018-12-16/cover.png
 reward: 1
 tags: 技术
 ---

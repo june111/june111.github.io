@@ -3,7 +3,6 @@ layout: post
 title: 'Vue ElementUI 表单校验（多层嵌套）'
 date: 2018-12-28
 author: June
-cover: /assets/img/post/2018-12-28/form-validation-multi-level-nesting.png
 reward: 1
 tags: 前端
 ---

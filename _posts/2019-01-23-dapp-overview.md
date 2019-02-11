@@ -4,6 +4,7 @@ title: 'DApp 概述'
 subtitle: '2018年的活跃 DApp 一览'
 date: 2019-01-23
 author: June
+cover: /assets/img/post/2019-01-23/cover.jpg
 reward: 1
 tags: 区块链
 ---

@@ -4,7 +4,6 @@ title: '香港工银亚洲开卡全记录'
 subtitle: '坑都被我踩完了，放心去吧'
 date: 2018-12-29
 author: June
-cover: /assets/img/post/2018-12-29/hk-icbc-apply-card-record.png
 copyright: 1
 reward: 1
 tags: 生活

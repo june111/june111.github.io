@@ -3,7 +3,6 @@ layout: post
 title: '解决HTML锚点定位偏移最有效快捷的方法'
 date: 2018-12-25
 author: June
-cover: /assets/img/post/2018-12-25/html-anchor.png
 reward: 1
 tags: 前端
 ---

@@ -3,6 +3,7 @@ layout: post
 title: 'Dapp 浏览器一览'
 date: 2019-01-20
 author: June
+cover: /assets/img/post/2019-01-20/cover.jpg
 reward: 1
 tags: 区块链
 ---

@@ -4,6 +4,7 @@ title: '如何把 GitHub 中的项目部署到 GitHub Pages'
 subtitle: '两步带你的项目上线'
 date: 2019-02-01
 author: June
+cover: /assets/img/post/2019-02-01/cover.png
 tags: 前端
 reward: 1
 ---
