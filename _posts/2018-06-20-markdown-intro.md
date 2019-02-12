@@ -132,4 +132,7 @@ Draco Malfoy | Slytherin | 90
 
 ***
 
-*了解更多：[Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/)*
+*了解更多：
+[Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/)
+[Github 中 Markdown 锚点链接如何写](https://my.oschina.net/antsky/blog/1475173)*
+

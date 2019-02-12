@@ -234,6 +234,7 @@
 [Truffle框架中文文档](http://truffle.tryblockchain.org)
 [oraclize/ethereum-bridge](https://github.com/oraclize/ethereum-bridge)
 [oraclize/ethereum-api 讨论](https://gitter.im/oraclize/ethereum-api)
+[solidity 学习](https://segmentfault.com/blog/corwien)
 
 #### 源码研究
 [mmarinovic/eth-lottery-contract](https://github.com/mmarinovic/eth-lottery-contract/blob/a11f37682291b5caaa72dfd342a4cdabe9f2dd3e/src/lottery.sol)
@@ -272,6 +273,14 @@
 [fullstacks](https://fullstacks.org/)
 [blockgeeks](https://blockgeeks.com/)
 [ethresear](https://ethresear.ch/)
+
+### 项目
+[hyperledger](https://www.hyperledger.org/)
+[]()
+[]()
+[]()
+[]()
+
 
 [Awesome Blockchain](https://github.com/chaozh/awesome-blockchain-cn)
 [区块链钱包开发 资源](https://medium.com/@robinwan/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%92%B1%E5%8C%85%E5%BC%80%E5%8F%91-b3ad79bb1c85)

@@ -138,3 +138,5 @@ tags: 前端
 [eosjs](https://github.com/eosio/eosjs)
 
 [Top Dapp tutorials Series](https://medium.com/coinmonks/top-dapp-tutorial-serie)
+[EOS DAPP开发教程 - 第1部分](https://www.jianshu.com/p/64daf8cae8a2)
+[FIRST STEPS IN EOS BLOCKCHAIN DEVELOPMENT](https://infinitexlabs.com/first-steps-in-eos-blockchain-development/)
