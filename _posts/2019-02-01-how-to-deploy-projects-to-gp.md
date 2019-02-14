@@ -17,7 +17,7 @@ reward: 1
 
 1. 修改路由
 
-	打开配置路由的文件，`router/index.js`，加一行
+	打开配置路由的文件，`router/index.js`，加一行。由于没有后台，不能用 history 模式。
 
 	```js
 	base: 'ProjectName/',

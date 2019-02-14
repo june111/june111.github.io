@@ -7,3 +7,7 @@ Plasma Cash怎么理解呢?我们也来举一个例子，首先你在链上锁�
 　　Plasma解决的就是容量的问题，因为你在链上存的就是哈希值，在链下可以进行无限笔交易，虽然每笔交易等的时间和链上交易的时间是一样的，但是我在链下交易的量就比链上大的多。所以别人是没有办法把你的资产拿走的，虽然是中心化的服务器来解决，但是它本质是解决信任问题，不需要任何人去保护你的资产，你的资产由自己的签名和密钥控制。
 
 https://blog.omisego.network/state-of-the-omg-ecosystem-75260c71a053
+
+https://ethfans.org/posts/what-is-plasma-plasma-cash
+
+https://learnblockchain.cn/2018/11/03/plasma-mvp/

@@ -55,6 +55,7 @@
 [草料二维码](https://cli.im/)
 
 [日期计算器](http://bjtime.cn/riqi/)
+[壁纸](http://wallpaperswide.com/)
 
 ## 外包
 [猪八戒](https://shenzhen.zbj.com/)
@@ -256,6 +257,7 @@
 #### plasma
 [learnplasma](https://www.learnplasma.org/en/)
 [plasma test network](https://plasma.group/)
+[loom 目录](https://medium.com/loom-network-chinese/%E4%BD%A0%E6%89%80%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E5%85%B3%E4%BA%8Eloom-network%E7%9A%84%E4%B8%80%E5%88%87-%E4%B8%80%E6%AD%A5%E5%88%B0%E4%BD%8D-%E5%AE%9A%E6%9C%9F%E6%9B%B4%E6%96%B0-259befc6741e)
 
 ### WEB3
 [Web3.js API 0.2 官方文档](https://github.com/ethereum/wiki/wiki/JavaScript-API)
@@ -273,6 +275,7 @@
 [fullstacks](https://fullstacks.org/)
 [blockgeeks](https://blockgeeks.com/)
 [ethresear](https://ethresear.ch/)
+[cryptozombies](https://cryptozombies.io/zh/course)
 
 ### 项目
 [hyperledger](https://www.hyperledger.org/)
