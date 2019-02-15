@@ -113,7 +113,9 @@ this.client = new Client(
 ...
 this.currentNetwork = SimpleStore.networks[4]
 ```
+https://loomx.io/developers/docs/en/extdev-transfer-gateway.html#5-token-transfer
 
+https://github.com/loomnetwork/dashboard/blob/5904223f26dc0796c07ab6f41de8871ea4974594/src/store/dappChainStore.js
 
 ---
 
