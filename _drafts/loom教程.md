@@ -15,6 +15,38 @@ date: 2019-02-02
 ![文章结构]({{site.baseurl}}/assets/img/post/2019-02-02/structure.svg)
 </a>
 
+## loom 基础
+
+### 什么是 Loom SDK
+
+Loom Network的基本构建块是一个SDK，允许开发人员快速构建自己的区块链，而无需了解区块链基础设施。 可以把它想象成“构建自己的区块链”生成器。
+
+### 什么是 DAppChains
+
+DAppChain是一个特定于应用程序的侧链，在这种情况下，它与主链（以太坊）并行运行。 它的规则集是根据用例定制的，其安全性由主链的一致性算法维护。
+
+开发人员将能够使用Loom的软件开发工具包（SDK）为DAppChain创建基础。
+
+然后，他们可以专注于编写应用程序逻辑，同时为他们处理所有区块链逻辑。
+
+Loom Network 通过将主链负责的计算转移到 DAppChains 上，来实现扩展，同时允许在区块链上安全地运行 DApp。
+
+### 什么是 Plasma
+
+Plasma 允许用户将他们的数字资产安全地转移到以太坊主网的侧链上，而无需信任侧链的一致性算法。
+
+通过在我们的 DAppChains 上实施 Plasma，我们可以确保资产所有者更好的安全性，并允许在侧链上运行更多关键操作。
+
+### 什么是 Plasma Cash
+
+Plasma Cash 允许用户安全地将诸如令牌之类的资产转移到侧链上。
+
+它通过将您存入的令牌与唯一的序列号相关联来实现此目的。 令牌是不可替代的，并且具有自己的交易历史。 这样可以在硬币历史上进行更紧凑的校样，并可以进行零确认交易。
+
+因此，交换和游戏可以从中受益，因为它们可以在有效的侧链上运行，并且在黑客或欺诈的情况下，用户可以通过等离子出口回收其在以太坊主链上的资金或稀有收藏品。
+
+
+
 ## 开发环境
 
 安装 Loom 并设置开发环境
@@ -121,9 +153,9 @@ https://github.com/loomnetwork/dashboard/blob/5904223f26dc0796c07ab6f41de8871ea4
 
 ### 参考链接
 
-* []()
-* []()
-* []()
+* [DAppChains: Scaling Ethereum DApps Through Sidechains](https://medium.com/loom-network/dappchains-scaling-ethereum-dapps-through-sidechains-f99e51fff447)
+* [Plasma on Loom Network DAppChains: Scalable DApps With Ethereum-Secured Assets](https://medium.com/loom-network/loom-network-plasma-5e86caaadef2)
+* [Everything You Need to Know About Loom Network, All in One Place (Updated Regularly)](https://medium.com/loom-network/everything-you-need-to-know-about-loom-network-all-in-one-place-updated-regularly-64742bd839fe)
 * []()
 * []()
 * []()
