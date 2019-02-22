@@ -55,7 +55,8 @@
 * VUE
 
 	* [Vue常用的传值方式](https://june111.github.io/2018/11/22/vue-pass-value)
-
+	* [VUE 单页面改造为多页面](https://june111.github.io/2019/02/22/spa-to-multiple-pages)
+	
 	* Event Loop 原理
 	* Promise 原理
 	* Async/Await 原理
