@@ -19,33 +19,49 @@ date: 2019-02-02
 
 ### 什么是 Loom SDK
 
-Loom Network的基本构建块是一个SDK，允许开发人员快速构建自己的区块链，而无需了解区块链基础设施。 可以把它想象成“构建自己的区块链”生成器。
+Loom Network 的核心产品是一款 SDK，可以让开发者快速构建自己的区块链，而无需了解区块链基础架构。把它想成是一个“构建你自己的区块链”的生成器。
 
 ### 什么是 DAppChains
 
-DAppChain是一个特定于应用程序的侧链，在这种情况下，它与主链（以太坊）并行运行。 它的规则集是根据用例定制的，其安全性由主链的一致性算法维护。
+DAppChain 是一个特定于应用程序的侧链，平行于主链运行，在这种情况下，主链就是以太坊。 它的规则集是基于用例自定义的，其安全性由主链的共识算法维护。
 
-开发人员将能够使用Loom的软件开发工具包（SDK）为DAppChain创建基础。
+开发人员将能够使用 Loom 的软件开发工具包（SDK）为一个 DApp 链生成基础。
 
-然后，他们可以专注于编写应用程序逻辑，同时为他们处理所有区块链逻辑。
+然后，他们可以专注于编写应用程序逻辑，SDK 会帮他们处理所有区块链逻辑。
 
-Loom Network 通过将主链负责的计算转移到 DAppChains 上，来实现扩展，同时允许在区块链上安全地运行 DApp。
+Loom Network 通过将主链的计算卸载到 DApp 链上，有助于扩展，同时仍然允许在安全的区块链上运行的 DApp 的存在。
 
 ### 什么是 Plasma
 
-Plasma 允许用户将他们的数字资产安全地转移到以太坊主网的侧链上，而无需信任侧链的一致性算法。
+Plasma 让用户可以将他们的数字资产从以太坊主网安全地转移到侧链上，而无需信任侧链的共识算法。
 
-通过在我们的 DAppChains 上实施 Plasma，我们可以确保资产所有者更好的安全性，并允许在侧链上运行更多关键操作。
+通过在我们的 DApp 链上实施 Plasma，我们能确保资产所有者有更好的安全性，并允许在侧链上运行更多的关键操作。
 
 ### 什么是 Plasma Cash
 
-Plasma Cash 允许用户安全地将诸如令牌之类的资产转移到侧链上。
+Plasma Cash 使用户能够安全地将代币等资产转移到侧链上。Plasma Cash 通过将你存储在侧链上的代币与一个独一无二的序列号关联来实现此目的。 代币是不可替代的，并具有自己的交易历史记录。 这让币历史上的证明更简洁以及提供了“零确认”交易的可能性。
 
-它通过将您存入的令牌与唯一的序列号相关联来实现此目的。 令牌是不可替代的，并且具有自己的交易历史。 这样可以在硬币历史上进行更紧凑的校样，并可以进行零确认交易。
+因此，交易所和游戏可以从中受益，因为它们可以在一条高效的侧链上进行操作。并且在遭遇黑客攻击和诈欺的情况下，用户可以通过 Plasma 出口，在以太坊主链上收回其资金或稀有收藏品。
 
-因此，交换和游戏可以从中受益，因为它们可以在有效的侧链上运行，并且在黑客或欺诈的情况下，用户可以通过等离子出口回收其在以太坊主链上的资金或稀有收藏品。
+### 什么是 LOOM Token
 
+LOOM 代币用于Loom Network提供的所有产品和服务。
 
+用处：
+
+* 开发者：锁定 & 支付代币将 DApp 运行在 ZombieChain 僵尸链（及其他未来推出的共享链）上
+* 开发者：Loom SDK 的企业支持
+* 用户：“僵尸战场”游戏会员福利
+* 用户：访问Loom转移网关
+* 开发者：Loom SDK许可证等级 & 运行节点
+
+### PlasmaChain
+
+用于在侧链和以太坊主网之间进行交易的受Plasma Cash支持的枢纽。
+
+之前叫做ZombieChain，后来我们将其重新构建、重新命名为PlasmaChain并发布。
+
+作为中心枢纽，它充当多个侧链和以太坊之间的桥梁，PlasmaChain将成为我们愿景中最重要的组成部分之一
 
 ## 开发环境
 
@@ -153,9 +169,9 @@ https://github.com/loomnetwork/dashboard/blob/5904223f26dc0796c07ab6f41de8871ea4
 
 ### 参考链接
 
-* [DAppChains: Scaling Ethereum DApps Through Sidechains](https://medium.com/loom-network/dappchains-scaling-ethereum-dapps-through-sidechains-f99e51fff447)
+* [DApp链：通过侧链扩展以太坊DApp](https://medium.com/loom-network-chinese/dapp%E9%93%BE-%E9%80%9A%E8%BF%87%E4%BE%A7%E9%93%BE%E6%89%A9%E5%B1%95%E4%BB%A5%E5%A4%AA%E5%9D%8Adapps-1f7648f117a6)
 * [Plasma on Loom Network DAppChains: Scalable DApps With Ethereum-Secured Assets](https://medium.com/loom-network/loom-network-plasma-5e86caaadef2)
 * [Everything You Need to Know About Loom Network, All in One Place (Updated Regularly)](https://medium.com/loom-network/everything-you-need-to-know-about-loom-network-all-in-one-place-updated-regularly-64742bd839fe)
-* []()
+* [LOOM代币FAQ－你的问题，我们有答案！](https://medium.com/loom-network-chinese/loom%E4%BB%A3%E5%B8%81faq-%E4%BD%A0%E7%9A%84%E9%97%AE%E9%A2%98-%E6%88%91%E4%BB%AC%E6%9C%89%E7%AD%94%E6%A1%88-3eb8e8f5bf31)
 * []()
 * []()

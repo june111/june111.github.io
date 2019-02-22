@@ -39,6 +39,7 @@
 [下载youtube](http://en.savefrom.net/ )
 
 [pdf转换](https://smallpdf.com/cn )
+[pdf转换](https://jpg2pdf.com/zh/)
 [图片 / pdf 压缩](https://squoosh.app/)
 [图片压缩](https://tinypng.com/)
 [图片文字提取OCR](https://www.onlineocr.net/)
