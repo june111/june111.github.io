@@ -141,7 +141,7 @@ exports.htmlPlugin = function() {
 修改 plugins 部分
 
 注释 HtmlWebpackPlugin 相关的以下代码
-```
+```js
    new HtmlWebpackPlugin({
       filename: 'index.html',
       template: 'index.html',

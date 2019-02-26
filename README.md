@@ -54,6 +54,7 @@
 
 * VUE
 
+	* [新建 VUE 文件的通用模板](https://june111.github.io/2018/06/21/vue-tmp)
 	* [Vue常用的传值方式](https://june111.github.io/2018/11/22/vue-pass-value)
 	* [VUE 单页面改造为多页面](https://june111.github.io/2019/02/22/spa-to-multiple-pages)
 	
