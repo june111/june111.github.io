@@ -248,6 +248,8 @@ historyApiFallback: {
 
 最后结果是，一个页面可以用 history 模式的路由，其他页面都不用路由。
 
+把项目简化了，以后可以作为模板直接用 => [项目源码](https://github.com/june111/vue-multi-page-template)
+
 ---
 
 ### 参考链接

@@ -3,16 +3,16 @@ title: 'Loom 做一个dapp'
 subtitle: ''
 tags: 前端
 author: June
-cover: /assets/img/post/2019-02-02/cover.png
+cover: /assets/img/post/2019-02-27/cover.png
 reward: 1
 layout: post
-date: 2019-02-02
+date: 2019-02-27
 ---
 
 # 
 
-<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2019-02-02/structure.svg">
-![文章结构]({{site.baseurl}}/assets/img/post/2019-02-02/structure.svg)
+<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2019-02-27/structure.svg">
+![文章结构]({{site.baseurl}}/assets/img/post/2019-02-27/structure.svg)
 </a>
 
 ## loom 基础
