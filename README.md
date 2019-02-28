@@ -93,6 +93,7 @@
 	* [以太坊智能合约随机数的生成方法](https://blog.junezhu.top/2019/01/28/eth-random-number-generation)
 	* [如何在智能合约中使用 Oraclize 调取外部接口](https://blog.junezhu.top/2019/01/29/how-to-use-oraclize-at-ethereum)
 	* [用 Oraclize 在智能合约中获得随机数](https://blog.junezhu.top/2019/01/30/how-to-get-random-form-oraclize)
+	* [开发智能合约的基本理念](https://blog.junezhu.top/2019/02/27/smart-contract-concept)
 
 * 钱包
 
@@ -126,6 +127,7 @@
 
 [快速自测：你能够流利使用某语言吗？](https://blog.junezhu.top/2019/01/19/quick-self-test-can-you-use-a-language-fluently.html)
 
+
 ### 其他
 
 [Mac 常用的命令](https://june111.github.io/2018/06/28/mac-command)
@@ -135,6 +137,11 @@
 [用 Github Pages && Jekyll 搭建博客](https://june111.github.io/2018/12/17/building-blog-with-Jekyll.html)
 
 
+## 健身
+
+[小白入门心理篇]()
+[小白入门饮食篇]()
+[小白入门计划篇]()
 
 
 
