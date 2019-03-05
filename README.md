@@ -95,6 +95,7 @@
 	* [用 Oraclize 在智能合约中获得随机数](https://blog.junezhu.top/2019/01/30/how-to-get-random-form-oraclize)
 	* [开发智能合约的基本理念](https://blog.junezhu.top/2019/02/27/smart-contract-concept)
 	* [使用 Solidity 开发智能合约的安全建议](https://blog.junezhu.top/2019/03/01/use-solidity-safty)
+	* [智能合约的已知的攻击](https://blog.junezhu.top/2019/03/05/solidity-known-attacks)
 
 * 钱包
 

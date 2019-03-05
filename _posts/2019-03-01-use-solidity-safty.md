@@ -28,25 +28,75 @@ date: 2019-03-01
 	如果你选择使用底层方法，一定要检查返回值来对可能的错误进行处理。
 
 * 不要假设你知道外部调用的控制流程
-	无论是使用raw calls 或是contract calls，如果这个ExternalContract是不受信任的都应该假设存在恶意代码。
+	无论是使用raw calls 或是contract calls，如果这个ExternalContract是不受信任的都应该假设存在恶意代码。外部调用后避免改变状态
 
 * 对于外部合约优先使用 pull 而不是 push
 
 	外部调用可能会失败。为了最小化这些外部调用失败带来的损失，通常好的做法是将外部调用函数与其余代码隔离，最终是由收款发起方负责发起调用该函数。（这种方法同时也避免了造成 gas limit相关问题。）
+	
+	```js
+	// bad
+	contract auction {
+	    address highestBidder;
+	    uint highestBid;
+
+	    function bid() payable {
+	        if (msg.value < highestBid) throw;
+
+	        if (highestBidder != 0) {
+	            if (!highestBidder.send(highestBid)) { // if this call consistently fails, no one else can bid
+	                throw;
+	            }
+	        }
+
+	       highestBidder = msg.sender;
+	       highestBid = msg.value;
+	    }
+	}
+
+	// good
+	contract auction {
+	    address highestBidder;
+	    uint highestBid;
+	    mapping(address => uint) refunds;
+
+	    function bid() payable external {
+	        if (msg.value < highestBid) throw;
+
+	        if (highestBidder != 0) {
+	            refunds[highestBidder] += highestBid; // record the refund that this user can claim
+	        }
+
+	        highestBidder = msg.sender;
+	        highestBid = msg.value;
+	    }
+
+	    function withdrawRefund() external {
+	        uint refund = refunds[msg.sender];
+	        refunds[msg.sender] = 0;
+	        if (!msg.sender.send(refund)) {
+	            refunds[msg.sender] = refund; // reverting state because send failed
+	        }
+	    }
+	}
+	```
 
 * 标记不受信任的合约
 
 	当你自己的函数调用外部合约时，你的变量、方法、合约接口命名应该表明和他们可能是不安全的。
 
+* Don't delegatecall to untrusted code
+
 ### 使用`assert()`强制不变性
 
 当断言条件不满足时将触发断言保护。断言保护经常需要和其他技术组合使用，比如当断言被触发时先挂起合约然后升级。（否则将一直触发断言，你将陷入僵局）
 
-### 正确使用 `assert()` 和 `require()`
+### 正确使用 `assert()`,`require()`和`revert()`
 
 `require(condition)` 被用来验证用户的输入，如果条件不满足便会抛出异常，应当使用它验证所有用户的输入。 
 
 `assert(condition)` 在条件不满足也会抛出异常，但是最好只用于固定变量：内部错误或你的智能合约陷入无效的状态。
+
 
 ### 小心整数除法的四舍五入
 
@@ -83,19 +133,29 @@ date: 2019-03-01
 明确标明函数和状态变量的可见性。函数可以声明为 external，public， internal 或 private。
 
 * private: 修饰的变量和函数，只能在其所在的合约中调用和访问，即使是其子合约也没有权限访问。
-* public: 修饰的变量和函数，任何用户或者合约都能调用和访问
+* public: 修饰的变量和函数，任何用户或者合约都能调用和访问。可以在内部调用，也可以通过消息调用。对于公共状态变量，将生成一个自动getter函数。
 * internal: 和 private 类似，不过， 如果某个合约继承自其父合约，这个合约即可以访问父合约中定义的“内部”函数。
-* external: 与 public 类似，只不过这些函数只能在合约之外调用 - 它们不能被合约内的其他函数调用。
+* external: 与 public 类似，只不过这些函数只能在合约之外调用 - 它们不能被合约内的其他函数调用。接收大型数据数组时，有时效率更高。
+
+### Use modifiers only for assertions
+
+仅在断言使用修饰符。不在方法使用。
+
+使用修饰符代替函数（如isowner（））中的条件检查，否则在函数内部使用require或revert。这使得您的智能合约代码更易于阅读和审计。
+
+### 标明 payable 函数和状态变量
+
+Solidity 从 0.4 开始，每个接受 ether 的方法都必须使用 payable 修饰符。
+
+Declare variables and especially function arguments as `address payable`, if you want to call transfer on them. You can use `.transfer(..)` and `.send(..)` on `address payable`, but not on `address`. 
 
 ### 将程序锁定到特定的编译器版本
 
 `pragma solidity 0.4.4;`
 
-### 小心分母为零 (Solidity < 0.4)
+### 使用时间监测合约的活动
 
-确保你使用的Solidity版本至少为 0.4。
-
-### 区分函数和事件
+### 区分函数和事件 (Solidity < 0.4.21)
 
 为了防止函数和事件（Event）产生混淆，命名一个事件使用大写并加入前缀（我们建议LOG）。对于函数， 始终以小写字母开头，构造函数除外。
 
@@ -117,6 +177,17 @@ selfdestruct（旧版本为'suicide）
 keccak256（旧版本为sha3）。   
 `require(msg.sender.send(1 ether))` => `msg.sender.transfer(1 ether)`。
 
+### Be aware that 'Built-ins' can be shadowed
+
+### Avoid using tx.origin 
+
+### The 15-second Rule
+
+### Multiple Inheritance Caution
+
+### Use interface type instead of the address for type safety
+
+### Avoid using extcodesize to check for Externally Owned Accounts
 
 ## 安全相关的文件和程序
 
