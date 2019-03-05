@@ -3,7 +3,7 @@ title: '区块链扩展性问题概述'
 subtitle: '主要谈谈扩容解决方案'
 tags: 前端
 author: June
-cover: /assets/img/post/2019-02-13/cover.png
+cover: /assets/img/post/2019-02-13/cover.jpg
 reward: 1
 layout: post
 date: 2019-02-13

@@ -3,11 +3,12 @@ title: 'VUE 单页面改造为多页面'
 subtitle: '每个页面有自己单独的路由'
 tags: 前端
 author: June
+cover: /assets/img/post/2019-02-22/cover.png
 reward: 1
 layout: post
 date: 2019-02-22
 ---
-539135527
+
 # VUE 单页面改造为多页面
 
 因为新页面引用的UI和旧页面的UI冲突了，新UI需要在入口引入js文件，所以改为多页面，这样就可以分开两套页面的入口html文件了。
