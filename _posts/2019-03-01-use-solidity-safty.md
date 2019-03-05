@@ -3,10 +3,10 @@ title: '使用 Solidity 开发智能合约的安全建议'
 subtitle: '智能合约开发学习笔记(2)'
 tags: 区块链
 author: June
-cover: /assets/img/post/2019-02-28/cover.png
+cover: /assets/img/post/2019-03-01/cover.png
 reward: 1
 layout: post
-date: 2019-02-28
+date: 2019-03-01
 ---
 
 # 使用 Solidity 开发智能合约的安全建议
@@ -82,10 +82,10 @@ date: 2019-02-28
 
 明确标明函数和状态变量的可见性。函数可以声明为 external，public， internal 或 private。
 
-* external: 
-* public: 
-* internal: 
-* private: 
+* private: 修饰的变量和函数，只能在其所在的合约中调用和访问，即使是其子合约也没有权限访问。
+* public: 修饰的变量和函数，任何用户或者合约都能调用和访问
+* internal: 和 private 类似，不过， 如果某个合约继承自其父合约，这个合约即可以访问父合约中定义的“内部”函数。
+* external: 与 public 类似，只不过这些函数只能在合约之外调用 - 它们不能被合约内的其他函数调用。
 
 ### 将程序锁定到特定的编译器版本
 
@@ -97,7 +97,25 @@ date: 2019-02-28
 
 ### 区分函数和事件
 
+为了防止函数和事件（Event）产生混淆，命名一个事件使用大写并加入前缀（我们建议LOG）。对于函数， 始终以小写字母开头，构造函数除外。
+
+```js
+// bad
+event Transfer() {}
+function transfer() {}
+
+// good
+event LogTransfer() {}
+function transfer() external {}
+```
+
 ### 使用Solidity更新的构造器
+
+更合适的构造器/别名:
+
+selfdestruct（旧版本为'suicide）  
+keccak256（旧版本为sha3）。   
+`require(msg.sender.send(1 ether))` => `msg.sender.transfer(1 ether)`。
 
 
 ## 安全相关的文件和程序
@@ -109,7 +127,3 @@ date: 2019-02-28
 
 * [以太坊智能合约 —— 最佳安全开发指南](https://github.com/ConsenSys/smart-contract-best-practices/blob/master/README-zh.md)
 * [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
-* []()
-* []()
-* []()
-* []()

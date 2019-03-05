@@ -83,7 +83,7 @@
 [jeecms 后台管理](http://www.jeecms.com/)
 
 [hyperledger/fabric](https://github.com/hyperledger/fabric)
-
+[Vue.js 教案](https://www.kancloud.cn/bizzbee/vue/466885)
 
 
 ### js

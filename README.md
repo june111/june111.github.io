@@ -94,6 +94,7 @@
 	* [如何在智能合约中使用 Oraclize 调取外部接口](https://blog.junezhu.top/2019/01/29/how-to-use-oraclize-at-ethereum)
 	* [用 Oraclize 在智能合约中获得随机数](https://blog.junezhu.top/2019/01/30/how-to-get-random-form-oraclize)
 	* [开发智能合约的基本理念](https://blog.junezhu.top/2019/02/27/smart-contract-concept)
+	* [使用 Solidity 开发智能合约的安全建议](https://blog.junezhu.top/2019/03/01/use-solidity-safty)
 
 * 钱包
 
