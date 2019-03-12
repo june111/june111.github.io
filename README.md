@@ -59,8 +59,7 @@
 	* [VUE 单页面改造为多页面](https://june111.github.io/2019/02/22/spa-to-multiple-pages)
 	
 	* Event Loop 原理
-	* Promise 原理
-	* Async/Await 原理
+	* 简说 Callback，Async/Await 和 Promise
 
 * 日常问题记录
 
@@ -90,12 +89,12 @@
 	* [入门dAPP，看这篇就够了](https://june111.github.io/2018/07/07/getting-started-dAPP-see-this-is-enough)
 	* [Dapp 浏览器一览](https://blog.junezhu.top/2019/01/20/dapp-browser-overview.html)
 	* [DApp 概述](https://blog.junezhu.top/2019/01/23/dapp-overview.html)
-	* [以太坊智能合约随机数的生成方法](https://blog.junezhu.top/2019/01/28/eth-random-number-generation)
-	* [如何在智能合约中使用 Oraclize 调取外部接口](https://blog.junezhu.top/2019/01/29/how-to-use-oraclize-at-ethereum)
-	* [用 Oraclize 在智能合约中获得随机数](https://blog.junezhu.top/2019/01/30/how-to-get-random-form-oraclize)
-	* [开发智能合约的基本理念](https://blog.junezhu.top/2019/02/27/smart-contract-concept)
-	* [使用 Solidity 开发智能合约的安全建议](https://blog.junezhu.top/2019/03/01/use-solidity-safty)
-	* [智能合约的已知的攻击](https://blog.junezhu.top/2019/03/05/solidity-known-attacks)
+	* [智能合约中生成较安全的随机数(1)：以太坊智能合约随机数的生成方法](https://blog.junezhu.top/2019/01/28/eth-random-number-generation)
+	* [智能合约中生成较安全的随机数(2)：如何在智能合约中使用 Oraclize 调取外部接口](https://blog.junezhu.top/2019/01/29/how-to-use-oraclize-at-ethereum)
+	* [智能合约中生成较安全的随机数(3)：用 Oraclize 在智能合约中获得随机数](https://blog.junezhu.top/2019/01/30/how-to-get-random-form-oraclize)
+	* [智能合约开发学习笔记(1)：开发智能合约的基本理念](https://blog.junezhu.top/2019/02/27/smart-contract-concept)
+	* [智能合约开发学习笔记(2)：使用 Solidity 开发智能合约的安全建议](https://blog.junezhu.top/2019/03/01/use-solidity-safty)
+	* [智能合约开发学习笔记(3)：智能合约的已知的攻击](https://blog.junezhu.top/2019/03/05/solidity-known-attacks)
 
 * 钱包
 
