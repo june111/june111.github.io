@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '简说 callback，async/await 和 promise'
-subtitle: 'callback，async/await 和 promise 原理'
+subtitle: 'callback，async/await 和 promise 怎么用'
 date: 2019-03-12
 author: June
 cover: /assets/img/post/2019-03-12/front-end-build-tool.png
@@ -9,18 +9,11 @@ reward: 1
 tags: 前端
 ---
 
-# async/await 和 promise
+# 简说 callback，async/await 和 promise
 
-<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2019-03-12/structure.svg">
-![文章结构]({{site.baseurl}}/assets/img/post/2019-03-12/structure.svg)
-</a>
-     
-
-https://segmentfault.com/a/1190000010244279
 
 http://www.ruanyifeng.com/blog/2015/05/async.html
 
-https://segmentfault.com/a/1190000012806637
 
 https://segmentfault.com/a/1190000007535316
 
@@ -28,9 +21,17 @@ https://segmentfault.com/a/1190000017224799?utm_source=tag-newest
 
 https://codeburst.io/javascript-es-2017-learn-async-await-by-example-48acc58bad65
 
-## 原理
+## callback
+
+
+await 只能出现在 async 函数中
+
+JavaScript 的 async/await 实现，离不开 Promise
+
 
 ## 例子
+
+配合[在线例子](https://codepen.io/june111/pen/VRrxpE)可以更好地理解
 
 前置数据
 ```js
@@ -76,15 +77,16 @@ createAPost({ title: 'callback' }, getPost)
 function createPost(post) {
     return new Promise((resolve, reject) => {
         setTimeout(() => {
-            posts.push(post)
 
             const err = false
 
             if (!err) {
+                posts.push(post)
                 resolve()
             } else {
                 reject('Error!!!')
             }
+          
         }, 2000)
     })
 }
@@ -116,12 +118,18 @@ Promise.all([promise1, promise2, promise3]).then(val => {
  * Async/Await
  */
 async function init() {
-    await createPost({ title: 'Async/Await' })
+    // await createPost({ title: 'Async/Await' })
+
+    // ----- 处理错误 -----
+    try {
+        await createPost({ title: 'Async/Await' })
+    } catch (error) {
+        console.log(error);
+    }
     getPost()
 }
 init()
 ```
-
 
 ### fetch
 
@@ -132,6 +140,7 @@ async function fetchUsers() {
     const data = await res.json()
     console.log(data)
 }
+
 fetchUsers()
 // (10) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}]
 ```
@@ -162,7 +171,9 @@ async function initPost() {
 }
 initPost()
 ```
-更明显的例子
+
+async/await 的优势在于处理 then 链
+
 ```js
 function doubleAfter2Seconds(x) {
   return new Promise(resolve => {
@@ -172,7 +183,7 @@ function doubleAfter2Seconds(x) {
   });
 }
 
-// ---- 一直then -----
+// ----- then 链 -----
 
 function addPromise(x){
   return new Promise(resolve => {
@@ -190,7 +201,7 @@ addPromise(10).then((sum) => {
   console.log(sum);
 });
 
-// ---- 简化版 -----
+// ----- 简化版 -----
 
 async function addAsync(x) {
   const a = await doubleAfter2Seconds(10);
@@ -203,12 +214,13 @@ addAsync(10).then((sum) => {
   console.log(sum);
 });
 ```
+
 ---
 
 ### 参考链接
 
-* [](https://codeburst.io/javascript-es-2017-learn-async-await-by-example-48acc58bad65)
-* []()
+* [JavaScript ES 2017: Learn Async/Await by Example](https://codeburst.io/javascript-es-2017-learn-async-await-by-example-48acc58bad65)
+* [理解 async/await](https://segmentfault.com/a/1190000010244279)
 * []()
 * []()
 * []()

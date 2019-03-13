@@ -37,6 +37,7 @@
 ## 小工具
 
 [下载youtube](http://en.savefrom.net/ )
+[下载youtube](https://www.youtubnow.com/cn/)
 
 [pdf转换](https://smallpdf.com/cn )
 [pdf转换](https://jpg2pdf.com/zh/)
