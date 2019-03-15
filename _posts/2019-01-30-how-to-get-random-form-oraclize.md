@@ -72,6 +72,10 @@ Oraclize 关键代码
 oraclize_query("WolframAlpha", "random number between 0 and 100");
 ```
 
+## 总结
+
+生成随机数的流程是：调用 Oraclize 的api （`oraclize_query`，`oraclize_newRandomDSQuery`）=> 转 0.04 ETH 到 Oraclize 的账户（0xcbf...）=> 等得到随机数后，Oraclize 调用 `_callback`，发送方是（0xdc8...），返回随机数。 
+
 ---
 
 ### 参考链接

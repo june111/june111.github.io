@@ -247,6 +247,24 @@
 [cryptosanta/cryptosanta](https://github.com/cryptosanta/cryptosanta/blob/3b1ecb4c73592ce68353afa8d3a18fd2932eab2a/dream/RandomOraclizeProxy.sol)
 [oraclize/ethereum-examples](https://github.com/oraclize/ethereum-examples/blob/master/solidity/random-datasource/relaxed-commit/relaxedRandom.sol)
 
+#### 智能合约源码
+[FoMo3Dlong](https://etherscan.io/address/0xa62142888aba8370742be823c1782d17a0389da1#code)
+[TinyF3D](https://etherscan.io/address/0xbc2bc488172b0ca444c97dc1e3f3ff194f652177#code)
+[DexdexERC20](https://etherscan.io/address/0x0c577fbf29f8797d9d29a33de59001b872a1d4dc#code)
+[ExchangerV3](https://etherscan.io/address/0x0d71555233b7f913a5d9ae4ccd802145966d9bbf#code)
+[UnicornGo](https://github.com/DappWay/UnicornGo/blob/0ce09db79bf0ac04135ff5a2e349e6029ea99057/smart-contracts/UnicornToken.sol)
+[POCToken](https://github.com/anonymous-zone/TestSolidity/blob/ee057c79b817795e574b2a8f42c4d91a10d05fe3/Contracts/POCToken.sol)
+[CandyClaim](https://github.com/ngocbd/smartcontract/blob/f089bfa944df5bf1a20f6f79f37487b784956237/CandyClaim.sol)
+[Bet0xgame](https://etherscan.io/address/0x971FFD582678046dE357f8056F9F4F5B61fa079F#code)
+[众筹区块链demo](https://www.tikpo.com/?p=411)
+[以太坊智能合约入门项目-众筹项目](https://blog.51cto.com/clovemfong/2169244)
+[Crowdfund your idea](https://ethereum.org/crowdsale)
+[openzeppelin-solidity](https://github.com/OpenZeppelin/openzeppelin-solidity/tree/master/contracts)
+[转盘模型合约模板](https://open.onethingcloud.com/site/lottery.html)
+[
+Decentralized Autonomous Organization](https://ethereum.org/dao)
+[ create a digital token](https://ethereum.org/token)
+
 ### 区块浏览器
 [etherscan](https://etherscan.io)
 [etherchain](https://www.etherchain.org)
