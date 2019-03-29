@@ -36,20 +36,7 @@ watch不能用箭头函数，this指向会出错
 ```
 
 
-css控制换行
-```css
-p{
-    word-wrap : break-word ;word-break : break-all ;
-}
-```
-word-wrap是控制换行的。
-使用break-word时，是将强制换行。中文没有任何问题，英文语句也没问题。但是对于长串的英文，就不起作用。
-break-word是控制是否断词的。
-normal是默认情况，英文单词不被拆开。
-break-all，是断开单词。在单词到边界时，下个字母自动到下一行。主要解决了长串英文的问题。
-keep-all，是指Chinese, Japanese, and Korean不断词。即只用此时，不用word-wrap，中文就不会换行了。（英文语句正常。）
-ie下：
-使用word-wrap:break-word;所有的都正常
+
 
 vue的模版
 

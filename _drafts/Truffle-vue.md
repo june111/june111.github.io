@@ -111,10 +111,6 @@ Truffle是自動化從合約的編譯(truffle compile)到部署合約(truffle de
 
 ---
 
-觉得文章不错就扫码支持一下呗～
-
-![打赏二维码]({{site.baseurl}}/assets/img/post/pay-qr.jpg)
-
 ### 参考链接
 
 * [Decentralized Applications (DApps)](https://github.com/ethereumbook/ethereumbook/blob/04f66ae45cd9405cce04a088556144be11979699/12dapps.asciidoc)

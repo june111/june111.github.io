@@ -246,6 +246,7 @@
 [Open-Institutions/identity-system](https://github.com/Open-Institutions/identity-system/blob/f0246074c422b42987d67e55ef811d43c0e52dc9/contracts/SelfSovereignIdentitySystem.sol)
 [cryptosanta/cryptosanta](https://github.com/cryptosanta/cryptosanta/blob/3b1ecb4c73592ce68353afa8d3a18fd2932eab2a/dream/RandomOraclizeProxy.sol)
 [oraclize/ethereum-examples](https://github.com/oraclize/ethereum-examples/blob/master/solidity/random-datasource/relaxed-commit/relaxedRandom.sol)
+[web3-providers](https://github.com/ethereum/web3.js/tree/1.0/packages/web3-providers/src/providers)
 
 #### 智能合约源码
 [FoMo3Dlong](https://etherscan.io/address/0xa62142888aba8370742be823c1782d17a0389da1#code)
@@ -268,6 +269,7 @@ Decentralized Autonomous Organization](https://ethereum.org/dao)
 ### 区块浏览器
 [etherscan](https://etherscan.io)
 [etherchain](https://www.etherchain.org)
+[Ethplorer](https://ethplorer.io/)
 
 ### 扩展性解决
 

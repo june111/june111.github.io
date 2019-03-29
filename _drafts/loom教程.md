@@ -59,9 +59,9 @@ LOOM 代币用于Loom Network提供的所有产品和服务。
 
 用于在侧链和以太坊主网之间进行交易的受Plasma Cash支持的枢纽。
 
-之前叫做ZombieChain，后来我们将其重新构建、重新命名为PlasmaChain并发布。
+之前叫做ZombieChain，后来重新构建、重新命名为PlasmaChain并发布。
 
-作为中心枢纽，它充当多个侧链和以太坊之间的桥梁，PlasmaChain将成为我们愿景中最重要的组成部分之一
+作为中心枢纽，它充当多个侧链和以太坊之间的桥梁，有着一个内置的去中心化交易所（DEX），而所有其他侧链可以用其来实现更快、更便宜的事务而无需接触主网。 
 
 ## 开发环境
 
@@ -79,7 +79,7 @@ curl https://raw.githubusercontent.com/loomnetwork/loom-sdk-documentation/master
 ./loom init
 ```
 
-启动我们的链
+运行我们的链
 
 ```bash
 ./loom run
@@ -94,7 +94,7 @@ curl https://raw.githubusercontent.com/loomnetwork/loom-sdk-documentation/master
 E[14026-02-14|09:48:04.964] Couldn't connect to any seeds                module=p2p
 ```
 
-生成密钥
+用Loom生成私钥并获得你的公共地址
 ```bash
 ./loom genkey -k priv_key -a pub_key
 ```
@@ -102,31 +102,43 @@ E[14026-02-14|09:48:04.964] Couldn't connect to any seeds                module=
 结果
 
 ```bash
-local address: 0x662ec5C2d4FaDb8cc9459D28986F5aA891bC23C0
-local address base64: Zi7FwtT624zJRZ0omG9aqJG8I8A=
+local address: 0x6B4CD4578d8A2BB2BEA8B6f5912Bf592e933BC5a
+local address base64: a0zUV42KK7K+qLb1kSv1kukzvFo=
 ```
 
-这一步会在你包含密钥的目录中创建 priv_key 和 pub_key 文件。 请注意，它将以编码格式保存你的密钥，并且我们需要访问它输出的原始公钥，因此请确保将本地地址公钥输出保存在某处，以便我们以后可以轻松访问它。
+这一步会在你包含密钥的目录中创建 `priv_key` 和 `pub_key` 文件。 请注意，它将以编码格式保存你的密钥，并且我们需要访问它输出的原始公钥，因此请确保将本地地址公钥输出保存在某处，以便我们以后可以轻松访问它。
 
-MyToken Contract Address: 0x04aed4899e1514e9ebd3b1ea19d845d60f9eab95
-MyCoin Contract Address: 0x60ab575af210cc952999976854e938447e919871
+priv_key 文件里包含你将用来把合约部署到DApp链的私钥。
+
+获取代码
+
 
 ```bash
+git clone xxxx
 cd truffle-dappchain-example
+
+# 把之前生成的私钥文件复制到项目文件夹中，文件名为extdev_private_key
+cp ../priv_key extdev_private_key
+```
+安装依赖
+```bash
+yarn
+```
+把合约部署到 loom 测试网络
+```bash
+yarn deploy:extdev
 ```
 
-
+运行应用
 ```bash
-# copy the private key generated earlier to the root directory of the example repo
-cp ../priv_key extdev_private_key
+yarn serve
 ```
 
 yarn deploy:reset
 
-yarn serve
 
-部署到 loom 测试网络
-yarn deploy:extdev
+
+
 
 部署到 rinkeby 测试网络
 
