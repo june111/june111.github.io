@@ -60,6 +60,9 @@
 [壁纸](http://wallpaperswide.com/)
 
 [翻墙tip博客](https://www.nutgeek.com/)
+[just my socks](https://justmysocks1.net/members/index.php)
+
+[技术学习脑图密码dUpH](http://naotu.baidu.com/file/b49ccc722da46972dfe3a720cd414a11?token=397b0f1363515c97)
 
 ## 外包
 [猪八戒](https://shenzhen.zbj.com/)
@@ -136,6 +139,7 @@
 
 [react 官网](https://reactjs.org/ )
 [react webpack gitbook](https://fakefish.github.io/react-webpack-cookbook/index.html  )
+[react router](https://reacttraining.com/react-router/)
 [蚂蚁金服的框架](https://pro.ant.design/ )
 [react学习地图](https://github.com/adam-golab/react-developer-roadmap)
 [React从入门到放弃 -- 笔记、教程、Demo](https://github.com/Marco2333/react-demo)
@@ -225,13 +229,18 @@
 ### Dapp 开发平台
 [one click dapp](https://oneclickdapp.com/)
 
-### 相关博客
+### 相关博客 / 资料
 [深入浅出区块链](https://learnblockchain.cn)
 [黎跃春CSDN](http://blog.csdn.net/liyuechun520)
 [王一洋CSDN](http://blog.csdn.net/waysoflife/article/list/2)
 [乔延宏 简书](https://www.jianshu.com/u/75583edd6594)
 [try blockchain](http://me.tryblockchain.org)
 [以太坊开发入门](http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
+[ethereum wiki](https://theethereum.wiki/w/index.php/Main_Page)
+[Ethereum Foundation Blog(https://blog.ethereum.org/)
+[区块链学院](https://www.ivanontech.com/)
+[dapp university](http://www.dappuniversity.com/)
+[bok](https://www.bokconsulting.com.au)
 
 ### 智能合约
 [KyberNetwork Contract](https://etherscan.io/address/0xdd974d5c2e2928dea5f71b9825b8b646686bd200#code)
@@ -262,8 +271,7 @@
 [Crowdfund your idea](https://ethereum.org/crowdsale)
 [openzeppelin-solidity](https://github.com/OpenZeppelin/openzeppelin-solidity/tree/master/contracts)
 [转盘模型合约模板](https://open.onethingcloud.com/site/lottery.html)
-[
-Decentralized Autonomous Organization](https://ethereum.org/dao)
+[Decentralized Autonomous Organization](https://ethereum.org/dao)
 [ create a digital token](https://ethereum.org/token)
 
 ### 区块浏览器
@@ -304,7 +312,7 @@ Decentralized Autonomous Organization](https://ethereum.org/dao)
 
 ### 项目
 [hyperledger](https://www.hyperledger.org/)
-[]()
+[Remix](https://github.com/ethereum/remix-ide)
 []()
 []()
 []()
