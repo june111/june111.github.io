@@ -115,6 +115,8 @@ print '%02d/%02d/%04d' % (now.month, now.day, now.year)
 
 `()` 优先 
 
+## FUNCTIONS
+
 ### Conditional Statement
 
 ```py
@@ -127,11 +129,103 @@ def greater_less_equal_5(answer):
         return 0
 ```
 
-## FUNCTIONS
+### Modules
 
 ```py
+# generic import
+import math
 
+# Function Imports
+# from module import function
+from math import sqrt
+
+# Universal Imports
+# from module import *
+from math import *
 ```
+
+### Built-In Functions
+
+`max()`, `min()`, `abs()`, `type()`
+
+```py
+maximum = max(1,2,444,22) # 444
+
+minimum = min(222,11,3342) # 11
+
+absolute = abs(-42) # 42
+
+print type(22) # <type 'int'>
+
+def distance_from_zero(n):
+  if type(n) == int or type(n) == float:
+    return abs(n)
+  else:
+    return "Nope"
+```
+
+## LISTS AND DICTIONARIES
+
+### Lists
+
+```py
+numbers = [5, 6, 7, 8]
+print numbers[1] + numbers[3] # 14
+
+# update
+zoo_animals = ["pangolin", "cassowary", "sloth", "tiger"]
+zoo_animals[2] = "hyena" # ["pangolin", "cassowary", "hyena", "tiger"]
+
+# add
+# append() takes exactly one argument
+zoo_animals.append('dog')
+print len(zoo_animals)
+
+# List Slicing 
+# we did not modify the original zoo_animals list
+slice = zoo_animals[1:3] # ["cassowary", "sloth"]
+
+# Maintaining Order
+animals = ["aardvark", "badger", "duck", "emu", "fennec fox"]
+duck_index = animals.index("duck")# Use index() to find "duck"
+animals.insert(duck_index, "cobra")
+
+# sort animals into alphabetical order
+animals.sort()
+
+# remove
+animals.remove("cobra")
+```
+
+### For loop
+
+```py
+for number in start_list:
+  square_list.append(number ** 2)
+```
+
+### Dictionaries
+
+```py
+d = {'key1' : 1, 'key2' : 2, 'key3' : 3}
+print d['key1'] # 1
+
+# add new key/value pairs
+menu = {} # Empty dictionary
+menu['Chicken Alfredo'] = 14.50 # Adding new key-value pair
+
+# remove
+# del dict_name[key_name]
+del d["key2"]
+
+my_dict = {
+  "fish": ["c", "a", "r", "p"],
+  "cash": -4483,
+  "luck": "good"
+}
+print my_dict["fish"][0]
+```
+
 
 
 ---
