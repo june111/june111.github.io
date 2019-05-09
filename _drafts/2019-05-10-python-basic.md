@@ -200,8 +200,13 @@ animals.remove("cobra")
 ### For loop
 
 ```py
+start_list = [1,2,3,4]
 for number in start_list:
-  square_list.append(number ** 2)
+  print number
+
+d = {"foo" : "bar"}
+for key in d: 
+  print d[key]  # prints "bar" 
 ```
 
 ### Dictionaries
