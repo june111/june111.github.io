@@ -4,7 +4,6 @@ title: 'Python 基础语法'
 subtitle: 'codecademy 的 Learn Python 2 笔记'
 date: 2019-05-12
 author: June
-cover: /assets/img/post/2019-05-12/cover.png
 reward: 1
 tags: 技术
 ---
@@ -195,18 +194,19 @@ animals.sort()
 
 # remove
 animals.remove("cobra")
-```
 
-### For loop
+# .pop(index)
+animals.pop(1) 
 
-```py
-start_list = [1,2,3,4]
-for number in start_list:
-  print number
+# del
+del(animals[1])
 
-d = {"foo" : "bar"}
-for key in d: 
-  print d[key]  # prints "bar" 
+
+def double_list(x):
+# range() function is just a shortcut for generating a list
+  for i in range(0, len(x)):
+    x[i] = x[i] * 2
+  return x
 ```
 
 ### Dictionaries
@@ -231,7 +231,19 @@ my_dict = {
 print my_dict["fish"][0]
 ```
 
+## Loops
 
+### For loop
+
+```py
+start_list = [1,2,3,4]
+for number in start_list:
+  print number
+
+d = {"foo" : "bar"}
+for key in d: 
+  print d[key]  # prints "bar" 
+```
 
 ---
 
