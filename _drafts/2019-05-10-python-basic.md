@@ -243,7 +243,59 @@ for number in start_list:
 d = {"foo" : "bar"}
 for key in d: 
   print d[key]  # prints "bar" 
+
+word = "Marble"
+for char in word:
+  print char, # M a r b l e
+  # The , character after our print statement means that our next print statement keeps printing on the same line.
+  
+choices = ['pizza', 'pasta', 'salad', 'nachos']
+for index, item in enumerate(choices):
+  print index + 1, item
+
+# zip will create pairs of elements when passed two lists, and will stop at the end of the shorter list.
+list_a = [3, 9, 17, 15, 19]
+list_b = [2, 4, 8, 10, 30, 40, 50, 60, 70, 80, 90]
+for a, b in zip(list_a, list_b):
+  print max(a,b)
+
+# For / else
+# the else statement is executed after the for, but only if the for ends normally—that is, not with a break
+num = [2,3,4]
+for i in num:
+  print i
+else:
+  print "over"
+
+def digit_sum(n):
+  total = 0
+  string_n = str(n)
+  for char in string_n:
+    total += int(char)
+  return total
 ```
+
+### while 
+
+```py
+loop_condition = True
+
+while loop_condition:
+  print "I am a loop"
+  loop_condition = False
+
+# while/else
+# the else block will execute anytime the loop condition is evaluated to False
+
+def factorial(x):
+    total = 1
+    while x>0:
+        total *= x
+        x-=1
+    return total
+```
+
+
 
 ---
 

@@ -159,7 +159,6 @@
 [NUXT](https://zh.nuxtjs.org/ )
 [awesome-github-vue](https://github.com/opendigg/awesome-github-vue )
 [awesome-vue](https://github.com/vuejs/awesome-vue )
-[awesome-github-vue](https://github.com/opendigg/awesome-github-vue )
 [Vue2+VueRouter2+Webpack+Axios 构建项目实战2017重制版](https://github.com/fengcms/vue-demo-cnodejs)
 [Vue Docs 中文文档翻译合集](https://github.com/vuejs/vue-docs-zh-cn/ )
 
@@ -315,10 +314,17 @@
 [Remix](https://github.com/ethereum/remix-ide)
 []()
 []()
+
+### Awesome Blockchain
+
+[Awesome Blockchain](https://github.com/chaozh/awesome-blockchain-cn)
+[Awesome Blockchains](https://github.com/openblockchains/awesome-blockchains)
+[Blockchain-stuff](https://github.com/Xel/Blockchain-stuff)
+[]()
+[]()
 []()
 
 
-[Awesome Blockchain](https://github.com/chaozh/awesome-blockchain-cn)
 [区块链钱包开发 资源](https://medium.com/@robinwan/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%92%B1%E5%8C%85%E5%BC%80%E5%8F%91-b3ad79bb1c85)
 
 [以太坊wiki](https://github.com/ethereum/wiki/wiki)
