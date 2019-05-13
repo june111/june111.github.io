@@ -378,7 +378,13 @@ https://wiki.learnblockchain.cn/GLOSSARY.html
 [skEbooks](https://www.skebooks.com/)
 [书伴](https://bookfere.com/)
 [书格](https://shuge.org/)
-
+[](ebookstore.me)
+[Project Gutenberg](https://www.pdf-2-flashbook.com/)
+[]()
+[]()
+[]()
+[]()
+[]()
 
 ## 项目管理
 
