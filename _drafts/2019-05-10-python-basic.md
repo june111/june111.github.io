@@ -161,8 +161,32 @@ def distance_from_zero(n):
     return abs(n)
   else:
     return "Nope"
+
+def median(lst):
+    sorted_list = sorted(lst)
+    if len(sorted_list) % 2 != 0:
+        #odd number of elements
+        index = len(sorted_list)//2 
+        return sorted_list[index]
+    elif len(sorted_list) % 2 == 0:
+        #even no. of elements
+        index_1 = len(sorted_list)/2 - 1
+        index_2 = len(sorted_list)/2
+        mean = (sorted_list[index_1] + sorted_list[index_2])/2.0
+        return mean
 ```
 
+### Anonymous Functions
+
+```py
+lambda x: x % 3 == 0
+
+# Is the same as
+
+def by_three(x):
+  return x % 3 == 0
+```
+ 
 ## LISTS AND DICTIONARIES
 
 ### Lists
@@ -179,10 +203,6 @@ zoo_animals[2] = "hyena" # ["pangolin", "cassowary", "hyena", "tiger"]
 # append() takes exactly one argument
 zoo_animals.append('dog')
 print len(zoo_animals)
-
-# List Slicing 
-# we did not modify the original zoo_animals list
-slice = zoo_animals[1:3] # ["cassowary", "sloth"]
 
 # Maintaining Order
 animals = ["aardvark", "badger", "duck", "emu", "fennec fox"]
@@ -201,6 +221,17 @@ animals.pop(1)
 # del
 del(animals[1])
 
+# List Slicing Syntax
+# [start:end:stride]
+# we did not modify the original list
+l = [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+print l[2:9:2]
+# => [9, 25, 49, 81]
+
+# Reversing a List
+letters = ['A', 'B', 'C', 'D', 'E']
+print letters[::-1]
+# => ['E', 'D', 'C', 'B', 'A']
 
 def double_list(x):
 # range() function is just a shortcut for generating a list
@@ -225,6 +256,16 @@ def remove_duplicates(inputlist):
         
     return outputlist
 ```
+### Building Lists
+
+```py
+evens_to_50 = [i for i in range(51) if i % 2 == 0]
+print evens_to_50
+# => [0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50]
+
+doubles_by_3 = [x * 2 for x in range(1, 6) if (x * 2) % 3 == 0]
+# => [6]
+```
 
 ### Dictionaries
 
@@ -246,6 +287,26 @@ my_dict = {
   "luck": "good"
 }
 print my_dict["fish"][0]
+```
+
+### Iterators for Dictionaries
+
+`.items()`, `.keys()`, `.values()`
+
+```py
+d = {
+  "Name": "Guido",
+  "Age": 56,
+  "BDFL": True
+}
+print d.items()
+# => [('BDFL', True), ('Age', 56), ('Name', 'Guido')]
+ 
+print d.keys()
+# => ['Name','Age','BDFL']
+
+print d.values()
+# => ['Guido',56,True]
 ```
 
 ## Loops
