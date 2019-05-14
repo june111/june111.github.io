@@ -57,6 +57,7 @@
 	* [新建 VUE 文件的通用模板](https://june111.github.io/2018/06/21/vue-tmp)
 	* [Vue常用的传值方式](https://june111.github.io/2018/11/22/vue-pass-value)
 	* [VUE 单页面改造为多页面](https://june111.github.io/2019/02/22/spa-to-multiple-pages)
+	* [vue 根据窗口宽度改变UI组件](https://june111.github.io/2019/05/14/vue-window-resize.html)
 	
 	* Event Loop 原理
 	* 简说 Callback，Async/Await 和 Promise
@@ -136,13 +137,6 @@
 [Markdown常用语法规则](https://june111.github.io/2018/06/20/markdown-intro)
 
 [用 Github Pages && Jekyll 搭建博客](https://june111.github.io/2018/12/17/building-blog-with-Jekyll.html)
-
-
-## 健身
-
-* [小白入门心理篇]()
-* [小白入门饮食篇]()
-* [小白入门计划篇]()
 
 
 
