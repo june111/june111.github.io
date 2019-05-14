@@ -282,6 +282,19 @@ def is_prime(x):
             if x % n == 0:
                 return False
         return True 
+
+def censor(text, word):
+    words = text.split()
+    result = ''
+    stars = '*' * len(word)
+    count = 0
+    for i in words:
+        if i == word:
+            words[count] = stars
+        count += 1
+    result =' '.join(words)
+
+    return result
 ```
 
 ### while 
