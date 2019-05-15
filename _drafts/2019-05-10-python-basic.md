@@ -185,6 +185,10 @@ lambda x: x % 3 == 0
 
 def by_three(x):
   return x % 3 == 0
+
+languages = ["HTML", "JavaScript", "Python", "Ruby"]
+print filter(lambda x: x=='Python', languages)
+# => ['Python']
 ```
  
 ## LISTS AND DICTIONARIES
@@ -259,6 +263,7 @@ def remove_duplicates(inputlist):
 ### Building Lists
 
 ```py
+# list comprehensions.
 evens_to_50 = [i for i in range(51) if i % 2 == 0]
 print evens_to_50
 # => [0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50]
@@ -395,7 +400,106 @@ def factorial(x):
     return total
 ```
 
+## Bitwise Operators
 
+### binary
+
+count in base 2
+
+```
+1024 512 256 128 64 32 16 8 4 2 1
+```
+
+`bin()` takes an integer as input and returns the binary representation of that integer in a string.
+
+```py
+print bin(1)
+# => 0b1
+```
+
+`int()` 第二个参数
+```py
+print int("10",2)
+# => 2
+```
+
+### the left and right shift
+
+```py
+0b000101 << 3 == 0b101000 (5 << 3 = 40)  # Left Shift     
+0b0010100 >> 3 == 0b000010 (20 >> 3 = 2) # Right Shift
+```
+
+### AND (`&`), OR (`|`), XOR (`^`), NOT (`~`) 
+
+```py
+# AND
+0 & 0 = 0
+0 & 1 = 0
+1 & 0 = 0
+1 & 1 = 1
+
+# OR
+0 | 0 = 0
+0 | 1 = 1 
+1 | 0 = 1
+1 | 1 = 1
+
+# XOR
+# exclusive or operator
+# the bits of that number are turned on if either of the corresponding bits of the two numbers are 1, but not both.
+0 ^ 0 = 0
+0 ^ 1 = 1
+1 ^ 0 = 1
+1 ^ 1 = 0
+
+# NOT
+# this is equivalent to adding one to the number and then making it negative.
+print ~123
+# => -124
+```
+
+### Bit Mask
+
+A bit mask can help you turn specific bits on, turn others off, or just collect data from an integer about which bits are on or off.
+
+```py
+# if the third bit from the right of num is on.
+num  = 0b1100
+mask = 0b0100
+desired = num & mask
+if desired > 0:
+  print "Bit was on"
+
+# make sure the rightmost bit of number a is turned on.
+a = 0b110 # 6
+mask = 0b1 # 1
+desired =  a | mask # 0b111, or 7
+
+# flipping bits
+# flip all of the bits in a
+a = 0b110 # 6
+mask = 0b111 # 7
+desired =  a ^ mask # 0b1
+
+# slide masks into place
+# turn on the 10th bit from the right of the integer a
+a = 0b101 
+# Tenth bit mask
+# slide the mask nine places over from the first bit to reach the tenth bit.
+mask = (0b1 << 9)  # One less than ten 
+desired = a ^ mask
+
+# Flip the nth bit
+def flip_bit(number, n):
+  bit_to_flip = 0b1 << (n -1)
+  result = number ^ bit_to_flip
+  return bin(result)
+```
+
+## Classes
+
+## File
 
 ---
 
