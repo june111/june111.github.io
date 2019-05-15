@@ -499,6 +499,61 @@ def flip_bit(number, n):
 
 ## Classes
 
+```py
+class Animal(object):
+  is_alive = True
+  def __init__(self, name, age):
+    self.name = name
+    self.age = age
+  def description(self):
+    print self.name
+  def change_status(self):
+    self.is_alive = False
+    
+hippo = Animal("Anderson", 36)
+print hippo.name
+# => Anderson
+
+hippo.description()
+# => Anderson
+
+# Multiplying
+cat = Animal("Boots", 3)
+hippo.is_alive = False
+print hippo.is_alive
+# => False
+print cat.is_alive
+# => True
+
+# Inheritance
+# class DerivedClass(BaseClass):
+class Dog(Animal):
+  def __init__(self, name, age, bark):
+  self.name = name
+  self.age = age
+  self.bark = bark
+
+  # Override
+  def description(self):
+    print "Get back to work, %s!" % self.name
+    return super(Dog,self).description()
+# You can directly access the attributes or methods of a superclass with Python’s built-in super call.
+
+#  __repr__() providing a return value in this method
+class Point3D(object):
+  def __init__(self, x, y, z):
+    self.x = x
+    self.y = y
+    self.z = z
+    
+  def __repr__(self):
+    return "(%d, %d, %d)" % (self.x, self.y, self.z)
+    
+my_point = Point3D(1, 2, 3)
+print my_point
+# => (1, 2, 3)
+```
+
 ## File
 
 ---
