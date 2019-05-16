@@ -31,6 +31,7 @@ print("Hello World!")
 * String
 * Number
 * Boolean
+
 `True` and `False`
 
 ```py
@@ -406,9 +407,9 @@ def factorial(x):
 
 ### binary
 
-count in base 2
+**count in base 2**
 
-```
+```html
 1024 512 256 128 64 32 16 8 4 2 1
 ```
 

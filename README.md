@@ -121,6 +121,10 @@
 
 	* [java 基础语法](https://june111.github.io/2018/12/16/java-basis)
 
+* Python
+
+	* [Python 基础语法](https://june111.github.io/2019/05/16/python-basic)
+
 ### 项目管理
 
 [项目管理入门知识概括](https://june111.github.io/2018/12/11/getting-tarted-project-management)
