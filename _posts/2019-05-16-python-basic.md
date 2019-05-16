@@ -2,7 +2,7 @@
 layout: post
 title: 'Python 基础语法'
 subtitle: 'codecademy 的 Learn Python 2 笔记'
-date: 2019-05-12
+date: 2019-05-16
 author: June
 reward: 1
 tags: 技术
@@ -187,7 +187,9 @@ def by_three(x):
   return x % 3 == 0
 
 languages = ["HTML", "JavaScript", "Python", "Ruby"]
-print filter(lambda x: x=='Python', languages)
+tmplist = filter(lambda x: x=='Python', languages)
+newlist = list(tmplist)
+print(newlist)
 # => ['Python']
 ```
  
@@ -555,6 +557,47 @@ print my_point
 ```
 
 ## File
+
+```py
+# w => write-only
+# r => read-only
+# r+ => read and write
+# a => append mode
+my_file = open('output.txt','r+')
+
+# takes a string argument
+my_file.write("Data to be written")
+
+# You must close the file.
+my_file.close()
+
+# Reading
+my_file = open("output.txt","r")
+print my_file.read()
+my_file.close()
+
+# Reading Between the Lines
+my_file = open("text.txt", "r")
+print my_file.readline() # I'm the first line of the file!
+print my_file.readline() # I'm the second line.
+print my_file.readline() # Third line here, boss.
+my_file.close()
+
+# test whether a file we’ve opened is closed
+f = open("bg.txt")
+f.closed
+# False
+f.close()
+f.closed
+# True
+```
+
+### The 'with' and 'as' Keywords
+
+```py
+with open("text.txt", "w") as textfile:
+  textfile.write("Success!")
+```
 
 ---
 
