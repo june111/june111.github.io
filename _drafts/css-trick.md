@@ -114,6 +114,17 @@ cursor: pointer;
 
 解决：设置 Table 为 table-layout: fixed，td 为 word-wrap: break-word
 
+## position:fixed定位的元素，实现绝对居中，并且宽度自适应内容的宽度
+
+```css
+.demo {
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+```
+
 ## 让层显示在 FLASH 之上
 
 想让层的内容显示在 flash 上，把 FLASH 设置透明即可
