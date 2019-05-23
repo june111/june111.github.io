@@ -38,12 +38,10 @@ open .bash_profile
 ```
 
 添加临时镜像
-```html
+```bash
 export PUB_HOSTED_URL=https://pub.flutter-io.cn
 export FLUTTER_STORAGE_BASE_URL=https://storage.flutter-io.cn
-```
-将flutter命令写进环境变量
-```html
+# 将flutter命令写进环境变量
 export FLUTTER_HOME=/你的flutter安装目录/flutter
 export PATH=$PATH:$FLUTTER_HOME/bin:
 ```
@@ -67,7 +65,7 @@ flutter create myapp
 ```
 进入项目
 ```bash
-cd myap
+cd myapp
 ```
 
 ## 平台设置
