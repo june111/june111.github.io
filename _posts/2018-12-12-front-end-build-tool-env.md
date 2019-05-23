@@ -37,8 +37,8 @@ touch .bash_profile
 open .bash_profile
 ```
 
-添加临时镜像
 ```bash
+# 添加临时镜像
 export PUB_HOSTED_URL=https://pub.flutter-io.cn
 export FLUTTER_STORAGE_BASE_URL=https://storage.flutter-io.cn
 # 将flutter命令写进环境变量
