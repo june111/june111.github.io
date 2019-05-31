@@ -32,7 +32,7 @@
 [Tencent CDC](https://cdc.tencent.com/)
 [Vue技术内幕](http://hcysun.me/vue-design/)
 [阿里巴巴国际UED团队博客](http://www.aliued.com/)
-
+[devpost(The home for hackathons)](https://devpost.com/)
 
 ## 小工具
 
@@ -109,7 +109,6 @@
 [CSS集合](https://github.com/awesome-css-group/awesome-css)
 [GOOGLE 出品的 material](https://material.io/develop/web/ )
 [GOOGLE 出品的 materializecss](https://materializecss.com/)
-[uikit](https://getuikit.com/ )
 [semantic-ui](https://semantic-ui.com/ )
 [ydui touch](http://vue.ydui.org/)
 

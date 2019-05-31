@@ -36,6 +36,25 @@ https://github.com/Solido/awesome-flutter
 
 后面的参考之前的文章[用 Flutter 开发APP（开发环境篇）](https://blog.junezhu.top/2018/12/12/front-end-build-tool-env)
 
+https://github.com/CarGuo/GSYGithubAppFlutter
+
+https://github.com/Solido/awesome-flutter
+
+https://github.com/nisrulz/flutter-examples
+
+https://github.com/flutter/flutter/tree/master/examples/flutter_gallery
+
+https://github.com/alibaba/flutter-go
+
+https://github.com/flutter/samples/blob/master/INDEX.md
+
+https://flutter.dev/web
+
+https://flutter.dev/docs/get-started/install
+
+
+
+
 
 ---
 
