@@ -33,6 +33,12 @@
 [Vue技术内幕](http://hcysun.me/vue-design/)
 [阿里巴巴国际UED团队博客](http://www.aliued.com/)
 [devpost(The home for hackathons)](https://devpost.com/)
+[Google Chrome Labs](https://github.com/GoogleChromeLabs)
+
+### onion 
+[hidden wiki](http://hiddenwikitor.com/)
+[TorLinks](http://torlinkbgs6aabns.onion/)
+[Tor Search Engine](http://xmh57jrzrnw6insl.onion/)
 
 ## 小工具
 
@@ -63,6 +69,8 @@
 [just my socks](https://justmysocks1.net/members/index.php)
 
 [技术学习脑图密码dUpH](http://naotu.baidu.com/file/b49ccc722da46972dfe3a720cd414a11?token=397b0f1363515c97)
+
+[图片资源](https://www.freepik.com/)
 
 ## 外包
 [猪八戒](https://shenzhen.zbj.com/)
@@ -379,7 +387,7 @@ https://wiki.learnblockchain.cn/GLOSSARY.html
 [书格](https://shuge.org/)
 [](ebookstore.me)
 [Project Gutenberg](https://www.pdf-2-flashbook.com/)
-[]()
+[pdf 下载](https://www.pdfdrive.com/)
 []()
 []()
 []()
