@@ -53,6 +53,7 @@
 
 [画图，流程图](https://www.draw.io/)
 [canva](https://www.canva.cn)
+[做思维导图](https://coggle.it/)
 
 [制作svg动画](https://app.svgator.com/auth/login)
 
@@ -71,6 +72,9 @@
 [技术学习脑图密码dUpH](http://naotu.baidu.com/file/b49ccc722da46972dfe3a720cd414a11?token=397b0f1363515c97)
 
 [图片资源](https://www.freepik.com/)
+[盘搜](http://pansou.com/)
+
+[影视](https://www.olevod.com/)
 
 ## 外包
 [猪八戒](https://shenzhen.zbj.com/)
