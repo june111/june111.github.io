@@ -76,6 +76,9 @@
 
 [影视](https://www.olevod.com/)
 
+[邮箱服务 加密邮箱](https://mail.tutanota.com)
+[namecheap 买域名](https://www.namecheap.com)
+
 ## 外包
 [猪八戒](https://shenzhen.zbj.com/)
 [云沃客](https://www.clouderwork.com/)
@@ -85,6 +88,9 @@
 ## 前端开发
 
 [Roadmap to becoming a web developer in 2018](https://github.com/kamranahmedse/developer-roadmap)
+[滑块验证 插件](https://github.com/AshleyLv/vue-drag-verify)
+[无限加载 插件](https://github.com//PeachScript/vue-infinite-loading)
+[无限加载 插件](https://github.com/huangjincq/vue-better-scroll)
 
 ### 源码研究
 [biu 后台管理框架 后端使用Spring Boot](https://gitee.com/caibaohong/biu)
@@ -214,7 +220,9 @@
 [npm trends](https://www.npmtrends.com/)
 [awesome node.js](https://nodejs.libhunt.com/)
 
-
+### 练手项目
+[FIRST TIMERS ONLY](https://www.firsttimersonly.com/)
+[project euler](https://projecteuler.net/archives)
 
 ## 以太坊相关
 
@@ -251,6 +259,7 @@
 [区块链学院](https://www.ivanontech.com/)
 [dapp university](http://www.dappuniversity.com/)
 [bok](https://www.bokconsulting.com.au)
+[ethereum会议视频](https://slideslive.com/ethereum)
 
 ### 智能合约
 [KyberNetwork Contract](https://etherscan.io/address/0xdd974d5c2e2928dea5f71b9825b8b646686bd200#code)
