@@ -91,6 +91,7 @@
 [滑块验证 插件](https://github.com/AshleyLv/vue-drag-verify)
 [无限加载 插件](https://github.com//PeachScript/vue-infinite-loading)
 [无限加载 插件](https://github.com/huangjincq/vue-better-scroll)
+[vue.js无缝滚动 通知栏公告栏](https://github.com/chenxuan0000/vue-seamless-scroll)
 
 ### 源码研究
 [biu 后台管理框架 后端使用Spring Boot](https://gitee.com/caibaohong/biu)
