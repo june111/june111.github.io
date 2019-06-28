@@ -105,9 +105,11 @@
 [Dapp Example](https://github.com/mesirendon/DappExample)
 [jeecms 后台管理](http://www.jeecms.com/)
 
-[hyperledger/fabric](https://github.com/hyperledger/fabric)
 [Vue.js 教案](https://www.kancloud.cn/bizzbee/vue/466885)
-
+[Python 算法学习](https://github.com/TheAlgorithms/Python)
+[nuxt-ssr-demo](https://github.com/xuqiang521/nuxt-ssr-demo)
+[setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn)
+[paascloud-master 前后端分离模拟商城](https://github.com/paascloud/paascloud-master)
 
 ### js
 
@@ -276,6 +278,13 @@
 [cryptosanta/cryptosanta](https://github.com/cryptosanta/cryptosanta/blob/3b1ecb4c73592ce68353afa8d3a18fd2932eab2a/dream/RandomOraclizeProxy.sol)
 [oraclize/ethereum-examples](https://github.com/oraclize/ethereum-examples/blob/master/solidity/random-datasource/relaxed-commit/relaxedRandom.sol)
 [web3-providers](https://github.com/ethereum/web3.js/tree/1.0/packages/web3-providers/src/providers)
+[vue-ethereum-ipfs](https://github.com/redacademy/vue-ethereum-ipfs)
+[ipfs](https://github.com/ipfs/ipfs)
+[MultiSigWallet](https://github.com/gnosis/MultiSigWallet)
+[hyperledger/fabric](https://github.com/hyperledger/fabric)
+[js-eth-personal-sign-examples](https://github.com/danfinlay/js-eth-personal-sign-examples)
+[uniswap-frontend](https://github.com/Uniswap/uniswap-frontend)
+[trust-web3-provider](https://github.com/TrustWallet/trust-web3-provider)
 
 #### 智能合约源码
 [FoMo3Dlong](https://etherscan.io/address/0xa62142888aba8370742be823c1782d17a0389da1#code)
