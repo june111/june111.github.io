@@ -1,6 +1,10 @@
 
 # 网站集合
 
+## 涨知识
+
+[overcoming bias](http://www.overcomingbias.com/)
+
 ## 博客
 
 ### 个人博客
@@ -17,7 +21,7 @@
 [编程随想的博客](https://program-think.blogspot.com/)
 [撒网要见鱼](https://dailc.github.io/blog/archive.html)
 
-[](http://www.c945.com/)
+[没位道](http://www.c945.com/)
 
 ### 社区
 
@@ -191,6 +195,7 @@
 [轮子工厂](http://www.wheelsfactory.cn/#/)
 [动态星星粒子线条](https://github.com/creotip/vue-particles)
 [前端常用库](http://www.javascript.fun/)
+[the code player](http://thecodeplayer.com/)
 
 ### 微信
 [微信开发者工具](https://mp.weixin.qq.com/wiki )
@@ -342,17 +347,12 @@
 ### 项目
 [hyperledger](https://www.hyperledger.org/)
 [Remix](https://github.com/ethereum/remix-ide)
-[]()
-[]()
 
 ### Awesome Blockchain
 
 [Awesome Blockchain](https://github.com/chaozh/awesome-blockchain-cn)
 [Awesome Blockchains](https://github.com/openblockchains/awesome-blockchains)
 [Blockchain-stuff](https://github.com/Xel/Blockchain-stuff)
-[]()
-[]()
-[]()
 
 
 [区块链钱包开发 资源](https://medium.com/@robinwan/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%92%B1%E5%8C%85%E5%BC%80%E5%8F%91-b3ad79bb1c85)
@@ -411,10 +411,6 @@ https://wiki.learnblockchain.cn/GLOSSARY.html
 [](ebookstore.me)
 [Project Gutenberg](https://www.pdf-2-flashbook.com/)
 [pdf 下载](https://www.pdfdrive.com/)
-[]()
-[]()
-[]()
-[]()
 
 ## 项目管理
 
