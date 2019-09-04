@@ -10,15 +10,9 @@
 
 	* 前端工程化之规范化
 
-		* 流程规范
-
 		* 目录结构
 			* [项目目录结构规范](https://june111.github.io/2018/11/14/project-directory-structure)
-		
 
-		* 编码规范
-
-		* 接口规范
 		
 		* 性能优化
 			* [浏览器兼容性问题的解决参考方案](https://june111.github.io/2018/10/25/solve-browser-compatibility-issues)
@@ -29,22 +23,16 @@
 				* [开发规范！Git Fork 全流程记录](https://june111.github.io/2018/07/06/git-fork-process)
 				* [规范化 Git Commit message](https://june111.github.io/2018/11/06/use-commitizen)
 
-		* 协作工具
-
 	* 前端工程化之自动化
 
 		* 构建工具
 
 			* [前端构建工具](https://june111.github.io/2018/11/09/front-end-build-tool.html)
 
-		* 测试系统
-
 		* 监控系统
 
 			* [前端监控](https://june111.github.io/2018/12/10/front-end-monitoring)
 			* [web 异常监控(Sentry + VUE)](https://june111.github.io/2018/12/15/error-monitoring.html)
-
-		* 持续集成
 
 * 跨平台
 
@@ -59,9 +47,6 @@
 	* [VUE 单页面改造为多页面](https://june111.github.io/2019/02/22/spa-to-multiple-pages)
 	* [vue 根据窗口宽度改变UI组件](https://june111.github.io/2019/05/14/vue-window-resize.html)
 	
-	* Event Loop 原理
-	* 简说 Callback，Async/Await 和 Promise
-
 * 常见业务问题
 
 	* [解决HTML锚点定位偏移最有效快捷的方法](https://june111.github.io/2018/12/25/html-anchor)
