@@ -130,7 +130,9 @@ git commit --amend
 ```
 commit提交之后打标签
 ```bash
-git tag <版本号>
+git tag -a <版本号> -m '内容'
+# 提交
+git push --tags
 ```
 
 检查

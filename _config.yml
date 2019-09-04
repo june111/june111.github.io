@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: 'June的博客'
 description: 'June的日常驻留地'
-keyword: '技术;前端;思维导图;读书;健身'
+keyword: '技术;产品;思维导图;读书'
 # A Project Pages site for a personal account is available at 
 # http(s)://<username>.github.io/<projectname> 
 url: 'https://june111.github.io' # your host
@@ -25,7 +25,7 @@ footer:
 # Author 配置博主信息
 author: 'June'
 nickname: ''
-bio: '技术 | 读书 | 健身'
+bio: '产品 | 读书 | 生活'
 
 # Search
 search: true
@@ -54,7 +54,7 @@ postPatterns: 'circuitBoard'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  github: '//github.com/june111/june111.github.io'
+  github: '//github.com/june111'
   jianshu: '//www.jianshu.com/u/189f4e2f3a77'
 
 

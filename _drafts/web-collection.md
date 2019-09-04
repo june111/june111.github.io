@@ -4,6 +4,16 @@
 ## 涨知识
 
 [overcoming bias](http://www.overcomingbias.com/)
+[up journey](https://upjourney.com/)
+[trade shows & conferences](https://10times.com/)
+
+## 产品
+
+[cracking the pm interview](http://www.crackingthepminterview.com)
+
+## 乐趣
+
+[penpal world](https://www.penpalworld.com/)
 
 ## 博客
 
@@ -25,6 +35,8 @@
 
 ### 社区
 
+#### 技术
+
 [csdn](http://www.csdn.net/ )
 [Div.IO](https://div.io/q#/welcome)
 [乌云](https://wooyun.js.org/)
@@ -43,6 +55,7 @@
 [hidden wiki](http://hiddenwikitor.com/)
 [TorLinks](http://torlinkbgs6aabns.onion/)
 [Tor Search Engine](http://xmh57jrzrnw6insl.onion/)
+[zlibrary](http://zlibraryexau2g3p.onion/)
 
 ## 小工具
 
@@ -51,7 +64,7 @@
 
 [pdf转换](https://smallpdf.com/cn )
 [pdf转换](https://jpg2pdf.com/zh/)
-[图片 / pdf 压缩](https://squoosh.app/)
+[图片/pdf 压缩](https://squoosh.app/)
 [图片压缩](https://tinypng.com/)
 [图片文字提取OCR](https://www.onlineocr.net/)
 
@@ -82,6 +95,8 @@
 
 [邮箱服务 加密邮箱](https://mail.tutanota.com)
 [namecheap 买域名](https://www.namecheap.com)
+
+[flaticon](https://www.flaticon.com/)
 
 ## 外包
 [猪八戒](https://shenzhen.zbj.com/)
@@ -268,6 +283,7 @@
 [dapp university](http://www.dappuniversity.com/)
 [bok](https://www.bokconsulting.com.au)
 [ethereum会议视频](https://slideslive.com/ethereum)
+[Web3 Hub](https://wiki.web3.foundation/en/latest/)
 
 ### 智能合约
 [KyberNetwork Contract](https://etherscan.io/address/0xdd974d5c2e2928dea5f71b9825b8b646686bd200#code)
@@ -411,6 +427,7 @@ https://wiki.learnblockchain.cn/GLOSSARY.html
 [](ebookstore.me)
 [Project Gutenberg](https://www.pdf-2-flashbook.com/)
 [pdf 下载](https://www.pdfdrive.com/)
+[高清PDF电子书分享](https://hdpdf.blog/)
 
 ## 项目管理
 
