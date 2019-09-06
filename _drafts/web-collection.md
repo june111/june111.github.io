@@ -10,6 +10,9 @@
 ## 产品
 
 [cracking the pm interview](http://www.crackingthepminterview.com)
+[产品测试公司](http://www.creativegood.com/)
+[Nielsen Norman Group - World Leaders in Research-Based User Experience](https://www.nngroup.com/articles/)
+[product arts](http://www.product-arts.com/)
 
 ## 乐趣
 
