@@ -64,8 +64,3 @@ tags: 区块链
 ### 参考链接
 
 * [How can I securely generate a random number in my smart contract?](https://ethereum.stackexchange.com/questions/191/how-can-i-securely-generate-a-random-number-in-my-smart-contract)
-* []()
-* []()
-* []()
-* []()
-* []()

@@ -2,6 +2,13 @@
 
 文章前期追求广度，后期会加些探究深度的内容。
 
+## 产品管理
+
+
+## 项目管理
+
+[项目管理入门知识概括](https://june111.github.io/2018/12/11/getting-tarted-project-management)
+
 ## 技术
 
 ### 前端
@@ -73,6 +80,7 @@
 	* [入门dAPP，看这篇就够了](https://june111.github.io/2018/07/07/getting-started-dAPP-see-this-is-enough)
 	* [Dapp 浏览器一览](https://blog.junezhu.top/2019/01/20/dapp-browser-overview.html)
 	* [DApp 概述](https://blog.junezhu.top/2019/01/23/dapp-overview.html)
+	* [如何在合约中安全地生成一个随机数](https://blog.junezhu.top/2019/01/28/contract-generate-a-random-number)
 	* [智能合约中生成较安全的随机数(1)：以太坊智能合约随机数的生成方法](https://blog.junezhu.top/2019/01/28/eth-random-number-generation)
 	* [智能合约中生成较安全的随机数(2)：如何在智能合约中使用 Oraclize 调取外部接口](https://blog.junezhu.top/2019/01/29/how-to-use-oraclize-at-ethereum)
 	* [智能合约中生成较安全的随机数(3)：用 Oraclize 在智能合约中获得随机数](https://blog.junezhu.top/2019/01/30/how-to-get-random-form-oraclize)
@@ -116,16 +124,12 @@
 
 	* [Python 基础语法](https://june111.github.io/2019/05/16/python-basic)
 
-### 项目管理
-
-[项目管理入门知识概括](https://june111.github.io/2018/12/11/getting-tarted-project-management)
-
-### 语言学习
+## 语言学习
 
 [快速自测：你能够流利使用某语言吗？](https://blog.junezhu.top/2019/01/19/quick-self-test-can-you-use-a-language-fluently.html)
 
 
-### 其他
+## 其他
 
 [Mac 常用的命令](https://june111.github.io/2018/06/28/mac-command)
 
