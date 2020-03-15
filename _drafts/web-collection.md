@@ -100,6 +100,9 @@
 [namecheap 买域名](https://www.namecheap.com)
 
 [flaticon](https://www.flaticon.com/)
+[mp3cut](https://mp3cut.net/)
+[音乐转换](https://convertio.co/zh/mp3-m4a/)
+
 
 ## 外包
 [猪八戒](https://shenzhen.zbj.com/)
@@ -295,6 +298,8 @@
 [oraclize/ethereum-bridge](https://github.com/oraclize/ethereum-bridge)
 [oraclize/ethereum-api 讨论](https://gitter.im/oraclize/ethereum-api)
 [solidity 学习](https://segmentfault.com/blog/corwien)
+[以太坊智能合约 —— 最佳安全开发指南](https://github.com/ConsenSys/smart-contract-best-practices/blob/master/README-zh.md)
+[Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
 
 #### 源码研究
 [mmarinovic/eth-lottery-contract](https://github.com/mmarinovic/eth-lottery-contract/blob/a11f37682291b5caaa72dfd342a4cdabe9f2dd3e/src/lottery.sol)
