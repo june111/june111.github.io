@@ -3,6 +3,7 @@
 易懂
 易上手
 工具卡
+形象：戴眼镜的傲娇猫
 
 # 产品生命周期 product lifecycle
 如何判断产品处于生命周期的哪个阶段
@@ -12,6 +13,17 @@
 
 # 产品开发全过程 product development process
 	what 在每个产品开发阶段应该做什么
+
+# lean
+	用最少的资源去实现mvp
+
+# Agile
+	scrum	
+		sprint planning meeting - using tickets - standup meetings - retrospective meetings
+		如何用
+	kanban
+
+# waterfall
 
 # Getting to the real user needs
 	如何甄别真假需求？
@@ -31,7 +43,8 @@
 
 # 如何分析竞品
 	为什么要找
-	从哪些纬度分析
+	从哪些纬度分析 5 criteria
+	feature table
 	怎么找这些信息
 
 # 用户调研
@@ -42,6 +55,15 @@
 	4 type of customer interview
 	如何进行用户访谈
 	如何对访谈结果进行分析
+
+# 用户画像
+	如何做用户画像
+
+# MVP
+	mvp有什么用
+	如何做一个mvp
+
+# 如何做一个 mvp 实验
 
 # wire framing
 	如何画草图
@@ -61,8 +83,36 @@
 		initiative-releases-epics-stories&requestment-
 
 # 故事墙
-	
+	用用户故事user story的形式写需求 
 
+# 排期
+	如何评估开发时间
+
+# roadmapping
+	如何做一个roadmapping
+
+# 优先级
+	如何定优先级
+		假设测试 assumption testing
+		buck method
+		Moscow method
+
+
+# A-B testing
+
+# 沟通
+	开会
+		跟进
+	会议电话
+	邮件
+	非正式会议
+
+# 如何与程序员沟通
+
+# 如何与设计师沟通
+
+# 产品经理需要知道的技术
+	前端，后端，api
 
 
 
