@@ -3,7 +3,7 @@
 易懂
 易上手
 工具卡
-形象：戴眼镜的傲娇猫
+形象：戴眼镜的傲娇猫 / 戴帽子，帽子前面写着PM
 
 # 产品生命周期 product lifecycle
 如何判断产品处于生命周期的哪个阶段
@@ -64,16 +64,25 @@
 	如何做一个mvp
 
 # 如何做一个 mvp 实验
+	 MCS
 
-# wire framing
-	如何画草图
-
+# wire framing, mockup, prototype
+	wire framing 线框图，关注框架，axure，POP
+	mockup，设计师做，ps，sketch，ai，axure，uxpin
+	prototype，可用性，带交互，keynote，POP，axure
+	用什么工具画
+	如何画
 
 # 数据分析
 	如何制定需要分析的指标
 		有哪些指标
 		哪些指标是适合的
 	有哪些数据模型，应用场景是什么
+
+# HEART framework
+
+# AARRR framework
+
 
 # 数据分析的第三方工具
 	
