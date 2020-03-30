@@ -1,29 +1,27 @@
 一张图读懂xxx系列
 拿来就用的产品工具库
+最接地气的方法论
+看了就能涨工资
 易懂
 易上手
 工具卡
 形象：戴眼镜的傲娇猫 / 戴帽子，帽子前面写着PM
+内容来源：课程，书，文章
+任何需要长期坚持的东西都要依赖「系统」，「系统」未必是一段代码，系统的本质是服务于一定目标的闭环
+
+写作的最小闭环是什么？如下：
+1围绕某个主题开展持续写作
+2吸引一定量的读者（访问量目标：1000）
+3打通变现渠道
+4提升专业能和写作水平，输出更好的内容，吸引更多合适的读者，获得更多收入
+
+# 7步写出产品策略
 
 # 产品生命周期 product lifecycle
 如何判断产品处于生命周期的哪个阶段
   什么是产品生命周期
   Why 了解产品生命周期的目的
   How 如何判断产品处于生命周期的哪个阶段
-
-# 产品开发全过程 product development process
-	what 在每个产品开发阶段应该做什么
-
-# lean
-	用最少的资源去实现mvp
-
-# Agile
-	scrum	
-		sprint planning meeting - using tickets - standup meetings - retrospective meetings
-		如何用
-	kanban
-
-# waterfall
 
 # Getting to the real user needs
 	如何甄别真假需求？
@@ -34,7 +32,6 @@
 	市场规模
 	Google：industry report for ———— 
 	alexa.com
-	semrush.com
 	google adwords
 
 
@@ -47,9 +44,14 @@
 	feature table
 	怎么找这些信息
 
+# value proposition canvas
+价值主张画布
+
 # 用户调研
 	What is customer development?
 	如何运用customer development cycle分析
+
+# KANO
 
 # 用户访谈
 	4 type of customer interview
@@ -86,6 +88,23 @@
 
 # 数据分析的第三方工具
 	
+
+
+# 产品开发全过程 product development process
+	what 在每个产品开发阶段应该做什么
+
+# lean
+	用最少的资源去实现mvp
+
+# Agile
+	scrum	
+		sprint planning meeting - using tickets - standup meetings - retrospective meetings
+		如何用
+	kanban
+
+# waterfall
+
+
 
 # 产品管理
 	epics
