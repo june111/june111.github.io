@@ -4,6 +4,8 @@
 
 ## 产品管理
 
+* [产品分析术](https://june111.github.io/2020/03/31/preface-of-pm)
+
 
 ## 项目管理
 
