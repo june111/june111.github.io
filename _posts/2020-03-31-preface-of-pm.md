@@ -3,7 +3,7 @@ title: '产品分析术'
 subtitle: '发刊词'
 tags: 产品经理
 author: June
-<!-- cover: /assets/img/post/2020-03-31/preface-of-pm.png -->
+cover: /assets/img/post/2020-03-31/cover.png
 reward: 1
 layout: post
 date: 2020-03-31

@@ -47,6 +47,16 @@
 # value proposition canvas
 价值主张画布
 
+商业价值画布 business model canvas
+
+environment map
+
+Osterwalder的经典商业模式画布
+
+Ash Maurya 的精益创业画布
+
+Jeroen Kraaijenbrink 的战略示意图
+
 # 用户调研
 	What is customer development?
 	如何运用customer development cycle分析
