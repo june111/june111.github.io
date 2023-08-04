@@ -44,13 +44,13 @@ date: 2023-08-04
 | 2018.10.23 | 战略投资          | 未披露     |
 | 2022.4.7   | Binance.US 种子轮 | 2亿美元    |
 
-# 3 产品架构       
+## 3 产品架构       
 
 <a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2023-08-04/architecture.jpg">
 ![Product Architecture]({{site.baseurl}}/assets/img/post/2023-08-04/architecture.jpg)
 </a>
 
-# 4 运营体系        
+## 4 运营体系        
 
 币安历年运营总结：
 
@@ -79,9 +79,9 @@ date: 2023-08-04
   * 生态：推出Binance Pay 、NFT市场、加密礼品卡、Binance Fan Token平台
   * 投资：NFKings
 * 2022：合规性与透明度（BTC币价腰斩）
-  * 交易所：币安与世界各地的监管机构合作，截至2022年底，已经在14个司法管辖区获得注册和许可。
+  * 币安与世界各地的监管机构合作，截至2022年底，已经在14个司法管辖区获得注册和许可。
 
-# 5 商业模式        
+## 5 商业模式        
 
 六大盈利业务：
 
@@ -102,7 +102,7 @@ date: 2023-08-04
     1. 法币：根据渠道，费率 0-2%
     2. 加密货币：由区块链网络拥堵情况决定
 
-# 6 核心业务流程      
+## 6 核心业务流程      
 
 ### 6.1 产品端口
 
@@ -116,7 +116,7 @@ date: 2023-08-04
 ![Core Business * Spot Trading]({{site.baseurl}}/assets/img/post/2023-08-04/business-spots-trading.jpg)
 </a>
 
-# 7 特色功能
+## 7 特色功能
 
 Binance Coin（BNB），比起其他平台的平台币，例如OKB（OKEx）、HT（Huobi）、GT（Gate），BNB的影响力大，价格最高，生态相对完整，接下来从BNB的技术和应用场景两个维度进行分析。
 
@@ -136,7 +136,7 @@ Binance Coin（BNB），比起其他平台的平台币，例如OKB（OKEx）、H
 6. Binance Card 支付：用户将 BNB 存入 Binance Card，以购买商品和服务。例如在travala订酒店和机票。
 7. 支付应用：除了 Binance Card 外，BNB 还被一些商家接受为支付方式。
 
-# 8 对产品的思考
+## 8 对产品的思考
 
 1. 在全球范围内拥有多个交易平台，除了全球站币安，还包括泽西站、新加坡站、美国站、澳大利亚站和韩国站。覆盖了不同地区的市场需求。
 2. 曾经的币安交易所，已经成长为币安集团，覆盖了区块链行业的中游&下游，除了交易所的业务，还有慈善、投资、学院、研究院、播客、孵化器、Staking、流动性挖矿、Launchpad、矿池。
