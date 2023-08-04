@@ -5,6 +5,7 @@
 ## 产品拆解
 
 * [币安｜产品拆解（1/100）](https://june111.github.io/2023/08/04/binance-product-breakdown)
+* [Binance | Product Breakdown (1/100) ）](https://june111.github.io/2023/08/04/binance-product-breakdown-en)
 
 ## 产品管理
 
