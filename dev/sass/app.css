@@ -7,12 +7,12 @@
 /** Font **/
 @font-face {
   font-family: "Merriweather";
-  src: url("../fonts/Merriweather-Black.ttf");
+  src: url("../fonts/yahei.ttf");
 }
 
 @font-face {
   font-family: "Merriweather-Light";
-  src: url("../fonts/Merriweather-Light.ttf");
+  src: url("../fonts/yahei.ttf");
 }
 
 /*** Base ***/
@@ -899,7 +899,7 @@ a {
 }
 
 .markdown-body {
-  font-family: "Merriweather-Light", -apple-system, Verdana, "PingFang SC", "Helvetica Neue", "Arial", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+  font-family: "Merriweather-Light", -apple-system, Verdana, "PingFang SC", "Microsoft YaHei", "Helvetica Neue", "Arial", "Hiragino Sans GB",  "WenQuanYi Micro Hei", sans-serif;
   width: 720px;
   box-sizing: border-box;
   padding: 0 0 32px;
