@@ -9,7 +9,7 @@ layout: post
 date: 2023-08-04
 ---
 
-# Binance * Product Breakdown (1/100) 
+# Binance - Product Breakdown (1/100) 
 
 ## 1 Product Name
 
@@ -118,7 +118,7 @@ Desktop usage accounts for over 50% of total users, while mobile access represen
 </a>
 
 ## 7 Distinctive Features
-Binance Coin (BNB) stands out among other platform coins like OKB (OKEx), HT (Huobi), and GT (Gate) due to its extensive influence, higher prices, and relatively complete ecosystem. In this analysis, we will explore BNB from two perspectives: its technology and use cases.
+Binance Coin (BNB) stands out among other platform coins like OKB (OKX), HT (Huobi), and GT (Gate) due to its extensive influence, higher prices, and relatively complete ecosystem. In this analysis, we will explore BNB from two perspectives: its technology and use cases.
 
 ### 7.1 Technology
 Initially launched as an ERC-20 token on Ethereum, Binance Coin (BNB) conducted its initial coin offering (ICO) in 2017.
@@ -135,9 +135,11 @@ However, in April 2019, Binance launched its own blockchain called Binance Chain
 6. Binance Card Payments: Users can deposit BNB into the Binance Card and use it to purchase goods and services, such as booking hotels and flights on Travala.
 7. Payment Applications: Apart from Binance Card, BNB is accepted as a payment method by some merchants.
 
-## 8 Thoughts on the Product
+## 8 Summary and Insights
 
-1. Binance boasts multiple global trading platforms, including the flagship Binance platform, as well as Binance Jersey, Binance Singapore, Binance US, Binance Australia, and Binance Korea. This extensive presence caters to diverse market needs across different regions.
-2. The evolution of Binance from a mere exchange to the expansive Binance Group signifies its wide-ranging influence in the midstream and downstream sectors of the blockchain industry. Beyond exchange operations, the group engages in charity, investments, academia, research, podcast, labs, staking, liquid swap, launchpool, launchpad, and mining pools.
-3. The app version undergoes weekly updates, with minor versions receiving updates twice a week. This rapid iteration pace empowers Binance to promptly introduce new features, enhance user experience, and meet market demands, ultimately contributing to its remarkable ascent as the world's top trading platform in just five months since its inception.
+1. The evolution of Binance from a mere exchange to the expansive Binance Group signifies its wide-ranging influence in the midstream and downstream sectors of the blockchain industry. Beyond exchange operations, the group engages in charity, investments, academia, research, podcast, labs, staking, liquid swap, launchpool, launchpad, and mining pools. This diverse array of services has transformed Binance into a comprehensive blockchain service provider.
+2. Binance boasts multiple global trading platforms, including the flagship Binance platform, as well as Binance Jersey, Binance Singapore, Binance US, Binance Australia, and Binance Korea. This extensive presence caters to diverse market needs across different regions.
+3. Exchanges are well-established applications in the blockchain industry, with trading fees as their primary revenue source. Estimated at approximately $595 million in Q1 2023, Binance's trading fee revenue is projected to reach $2.4 billion for the entire year. Even smaller exchanges with a 1% market share can anticipate fee revenue of around $48 million, leading to significant profits.
+4. Binance hosts an array of dynamic operational activities both online and offline. Online events include trading tournament competitions, community vote, Ask-Me-Anything (AMA) sessions, and fee discounts. Offline activities consist of project roadshows, meetups, and hackathons. These activities not only boost user engagement but also enhance Binance's influence within the community.
+5. The app version undergoes weekly updates, with minor versions receiving updates twice a week. This rapid iteration pace empowers Binance to promptly introduce new features, enhance user experience, and meet market demands, ultimately contributing to its remarkable ascent as the world's top trading platform in just five months since its inception.
 
