@@ -1,5 +1,5 @@
 ---
-title: 'Binance | Product Breakdown (1/100) '
+title: 'Binance | Product Analysis (1/100) '
 subtitle: 'Binance, the leading centralized exchange with the widest business coverage, holds the top market share.'
 tags: PM
 author: June
@@ -9,7 +9,7 @@ layout: post
 date: 2023-08-04
 ---
 
-# Binance - Product Breakdown (1/100) 
+# Binance - Product Analysis (1/100) 
 
 ## 1 Product Name
 

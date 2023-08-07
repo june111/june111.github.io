@@ -55,7 +55,7 @@ postPatterns: 'circuitBoard'
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
   github: '//github.com/june111'
-  # linkedin: ''
+  linkedin: '//www.linkedin.com/in/junezhu8/'
   # jianshu: '//www.jianshu.com/u/189f4e2f3a77'
 
 
