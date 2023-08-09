@@ -30,7 +30,7 @@ Binance, the leading centralized exchange with the widest business coverage, hol
 * Spot Trading Volume (Q1 2023): 15.5 trillion
 * Futures Trading Volume (Q1 2023): 44 trillion
 * Spot Trading Volume: Futures Trading Volume  = 26% : 74%
-* Revenue (Q1 2023): 2.7 billion (20% of quarterly revenue used for BNB buyback and burn, 23rd BNB burn amounted to approximately $670 million)
+* Revenue (Q1 2023): 3.35 billion (20% of quarterly revenue used for BNB buyback and burn, 23rd BNB burn amounted to approximately $670 million)
 
 Data Source: TokenInsight
 
@@ -139,7 +139,7 @@ However, in April 2019, Binance launched its own blockchain called Binance Chain
 
 1. The evolution of Binance from a mere exchange to the expansive Binance Group signifies its wide-ranging influence in the midstream and downstream sectors of the blockchain industry. Beyond exchange operations, the group engages in charity, investments, academia, research, podcast, labs, staking, liquid swap, launchpool, launchpad, and mining pools. This diverse array of services has transformed Binance into a comprehensive blockchain service provider.
 2. Binance boasts multiple global trading platforms, including the flagship Binance platform, as well as Binance Jersey, Binance Singapore, Binance US, Binance Australia, and Binance Korea. This extensive presence caters to diverse market needs across different regions.
-3. Exchanges are well-established applications in the blockchain industry, with trading fees as their primary revenue source. Estimated at approximately &#36;2.7 billion in Q1 2023, Binance's revenue is projected to reach &#36;10.8 billion for the entire year. Even smaller exchanges with a 1% market share can anticipate revenue of around &#36;170 million, leading to significant profits.
+3. Exchanges are well-established applications in the blockchain industry, with trading fees as their primary revenue source. Estimated at approximately &#36;3.35 billion in Q1 2023, Binance's revenue is projected to reach &#36;13.4 billion for the entire year. Even smaller exchanges with a 1% market share can anticipate revenue of around &#36;210 million, leading to significant profits.
 4. Binance hosts an array of dynamic operational activities both online and offline. Online events include trading tournament competitions, community vote, Ask-Me-Anything (AMA) sessions, and fee discounts. Offline activities consist of project roadshows, meetups, and hackathons. These activities not only boost user engagement but also enhance Binance's influence within the community.
 5. The app version undergoes weekly updates, with minor versions receiving updates twice a week. This rapid iteration pace empowers Binance to promptly introduce new features, enhance user experience, and meet market demands, ultimately contributing to its remarkable ascent as the world's top trading platform in just five months since its inception.
 
