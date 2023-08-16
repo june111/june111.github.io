@@ -50,9 +50,7 @@ Data Source: TokenInsight
 ![Product Architecture]({{site.baseurl}}/assets/img/post/2023-08-04/architecture-en.jpg)
 </a>
 
-## 4 Operational System        
-
-Binance's Yearly Operational Summary:
+## 4 Binance Evolution       
 
 * 2017: Establishment
   * Launched BNB and introduced Binance exchange, achieving the position of the world's largest cryptocurrency trading platform by trading volume in December.
@@ -83,7 +81,7 @@ Binance's Yearly Operational Summary:
 
 ## 5 Business Model       
 
-Six major profit-making businesses：
+Seven major profit-making businesses：
 
 1. Spot Trading Fees:
     1. Regular users: 0.1%
@@ -91,14 +89,16 @@ Six major profit-making businesses：
 2. Futures Trading Fees:
     1. USDS-Margined Contracts: Regular users: Maker 0.02% / Taker 0.04%; Using BNB for fees: Maker 0.018% / Taker 0.036%
     2. COIN-Margined Contracts: Regular users: Maker 0.01% / Taker 0.05%
-3. Margin Borrowing Interest: 
-    1. BTC: 0.0046%, ETH: 0.006%, USDT: 0.014%
-4. Loans Interest
+3. Options‘ Trading Fees
+    1. Regular users: 0.02%
+4. Margin Borrowing Interest: 
+    1. Daily Interest Rates: BTC: 0.0046%, ETH: 0.006%, USDT: 0.014%
+5. Loans Interest
     1. Hourly Interest Rates: BTC: 0.000145%, ETH: 0.000194%, USDT: 0.000364%
-5. Deposit Fees:
+6. Deposit Fees:
     1. Fiat: Fee rates vary from 0% to 3.5% depending on the method
     2. Crypto: free
-6. Withdrawal Fees:
+7. Withdrawal Fees:
     1. Fiat: Fee rates vary from 0% to 2% depending on the method
     2. Crypto: determined by blockchain network congestion
 
