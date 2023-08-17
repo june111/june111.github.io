@@ -1,7 +1,7 @@
 ---
 title: '币安｜产品拆解（1/100）'
 subtitle: '市场占有率第一，业务覆盖面最广的中心化交易所'
-tags: 产品经理
+tags: 产品经理 产品拆解
 author: June
 cover: /assets/img/post/2023-08-04/cover.png
 reward: 1

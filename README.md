@@ -5,7 +5,13 @@
 ## 产品拆解
 
 * [币安｜产品拆解（1/100）](https://june111.github.io/2023/08/04/binance-product-analysis)
+* [欧易｜产品拆解（2/100）](https://june111.github.io/2023/08/16/okx-product-analysis)
+
+## Product Analysis
+
 * [Binance | Product Analysis (1/100)](https://june111.github.io/2023/08/04/binance-product-analysis-en)
+* [OKX｜Product Analysis (2/100)](https://june111.github.io/2023/08/16/okx-product-analysis-en)
+
 
 ## 产品管理
 
