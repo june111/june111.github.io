@@ -27,7 +27,7 @@ An innovative cryptocurrency exchange: pioneering features, global reach from Ch
 * Market Share: Market share decreased from 18% (January 1, 2022) to 14.7% (December 31, 2022)
 * Spot Trading Pairs: Futures Trading Pairs = 831 : 206
 * Spot Trading Volume: Futures Trading Volume = 14% : 86% 
-* Spot Trading Fee Revenue (2022.12.1 * 2023.2.28): $590 million (30% of quarterly spot trading fee revenue allocated for OKB buyback and burn, resulting in the destruction of OKB tokens worth approximately $177 million from December 1, 2022, to February 28, 2023)
+* Spot Trading Fee Revenue (2022.12.1 - 2023.2.28): $590 million (30% of quarterly spot trading fee revenue allocated for OKB buyback and burn, resulting in the destruction of OKB tokens worth approximately $177 million from December 1, 2022, to February 28, 2023)
 
 Data Source：TokenInsight
 
