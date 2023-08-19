@@ -27,7 +27,6 @@ An innovative cryptocurrency exchange: pioneering features, global reach from Ch
 * Market Share: Market share decreased from 18% (January 1, 2022) to 14.7% (December 31, 2022)
 * Spot Trading Pairs: Futures Trading Pairs = 831 : 206
 * Spot Trading Volume: Futures Trading Volume = 14% : 86% 
-* Spot Trading Fee Revenue (2022.12.1 - 2023.2.28): $590 million (30% of quarterly spot trading fee revenue allocated for OKB buyback and burn, resulting in the destruction of OKB tokens worth approximately $177 million from December 1, 2022, to February 28, 2023)
 
 Data Source：TokenInsight
 
@@ -41,13 +40,23 @@ Data Source：TokenInsight
 | 2014.3  | OKCoin concluded Series A round funding. | $10 million |
 | 2017.12 | OKEx closed Series B round funding.      | Undisclosed |
 
-## 3 Product Architecture       
+## 3 User Mind     
+
+OKX can be likened to the math class representative, possessing not only a solid knowledge foundation but also the ability to approach problems innovatively, offering fresh insights to their peers.
+
+User Profile of OKX:
+* Active traders: Engaged in derivatives trading, aiming to capitalize on market fluctuations.
+* Enthusiastic about novelty and trends: They are constantly monitoring the latest developments, trends, and potential investment opportunities in the cryptocurrency market. They continuously seek new knowledge and insights to maintain a competitive edge in the rapidly changing landscape.
+* Tech-savvy: Proficient in using various online platforms and trading interfaces, and may have experience with programming or algorithmic trading.
+
+
+## 4 Product Architecture       
 
 <a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2023-08-16/architecture-en.jpg">
 ![Product Architecture]({{site.baseurl}}/assets/img/post/2023-08-16/architecture-en.jpg)
 </a>
 
-## 4 Operational System         
+## 5 Operational System         
 
 * 2013-2016: OKCoin established, expanded within China.
 * 2017-2018: Emphasized derivatives, expanded internationally, launched OKEx, halted OKCoin operations.
@@ -121,7 +130,11 @@ Data Source：TokenInsight
     * OKX Wallet adds Gas Station feature; token market feature; integrates Ledger hardware wallet; simplifies crypto transfers between OKX Wallet and Exchange account; enables crypto purchases with credit cards.
     * Launches Cryptopedia
 
-## 5 Business Model          
+## 6 Business Model          
+
+Spot Trading Fee Revenue (2022.12.1 - 2023.2.28)
+
+$590 million (30% of quarterly spot trading fee revenue allocated for OKB buyback and burn, resulting in the destruction of OKB tokens worth approximately $177 million from December 1, 2022, to February 28, 2023)
 
 6 major profit-making businesses：
 
@@ -138,15 +151,15 @@ Data Source：TokenInsight
 6. Withdrawal Fees:
     * Crypto: determined by blockchain network congestion
 
-## 6 Distinctive Features
+## 7 Distinctive Features
 
-### 6.1 Account Evolution
+### 7.1 Account Evolution
 
 OKX pioneered the idea of a Unified Account. After a year of development, the Unified Account system entered public testing in December 2020. Over two years, it underwent thorough exploration and optimization, leading to the retirement of the Classic Account in January 2022. This marked the full adoption of the Unified Account system. This innovation garnered attention and motivated other exchanges to introduce similar Unified Account solutions. OKX's commitment to innovation has set an industry benchmark.
 
 In June 2022, Binance launched its Portfolio Margin Program, enabling traders to use multiple assets as collateral. This feature is applicable to trading in USDⓈ-M Futures, COIN-M Futures, and Cross Margin Wallets.
 
-#### 6.1.1 Classic Account System（2018）
+#### 7.1.1 Classic Account System（2018）
 
 <a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2023-08-16/classic-account-system-en.jpg">
 ![Classic Account System]({{site.baseurl}}/assets/img/post/2023-08-16/classic-account-system-en.jpg)
@@ -158,7 +171,7 @@ In the Classic Account System, accounts are grouped by business type to manage r
 * Futures Account / Index Account: For futures or index trading, users move cryptocurrencies from the Spot Account to the Futures or Index Account.
 * P2P Account: Acquired digital assets from fiat transactions are held in this account.
 
-#### 6.1.2 Unified Account System（2023）
+#### 7.1.2 Unified Account System（2023）
 
 <a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2023-08-16/unified-account-system-en.jpg">
 ![Unified Account System]({{site.baseurl}}/assets/img/post/2023-08-16/unified-account-system-en.jpg)
@@ -172,9 +185,9 @@ The funding account handles tasks like deposits, withdrawals, IEO participation 
 
 The introduction of the finance account further enhances the trading environment for users, facilitating their participation in diverse financial activities and elevating the overall platform experience.
 
-### 6.2 Goals of Account Structure Enhancement
+### 7.2 Goals of Account Structure Enhancement
 
-#### 6.2.1 Profit and Loss Offset
+#### 7.2.1 Profit and Loss Offset
 
 OKX's Unified Account System has four new account modes: Simple, Single-currency Margin, Multi-currency Margin, and Portfolio Margin. With this innovation, users can trade various digital asset derivatives in one account and share margins between different product lines.
 
@@ -190,7 +203,7 @@ Margin Calculation in Single Currency Margin Mode vs. Regular Mode (TokenInsight
 ![Margin Calculation]({{site.baseurl}}/assets/img/post/2023-08-16/margin-calculation-en.jpg)
 </a>
 
-#### 6.2.2 Enhancing User Experience
+#### 7.2.2 Enhancing User Experience
 
 In the Classic Account, spot trading involves two steps: first, buy cryptocurrencies using the Point-to-Point Account, then transfer to the Spot Account. For futures trading, funds need to be moved again to the Futures Account, making it three steps.
 
@@ -204,7 +217,7 @@ In contrast, the Unified Account streamlines this by enabling direct spot tradin
 ![okx account page]({{site.baseurl}}/assets/img/post/2023-08-16/okx2-en.png)
 </a>
 
-## 7 Summary and Insights 
+## 8 Summary and Insights 
 
 1. OKX was among the earliest trading platforms to introduce Bitcoin futures right from the start, establishing itself as a pioneer in the realm of futures trading. Through derivative trading, it rapidly expanded its business. In a competitive landscape with Binance, Huobi, and OKX as the major players, OKX stood out with its robust futures liquidity.
 2. OKX's innovative approach is also evident in its unique Unified Account. This initiative not only enhances efficient fund utilization and risk management for futures trading but also simplifies user participation, thereby enhancing the overall user experience. This innovation provides users with a more streamlined method of operation and sets a new industry benchmark.

@@ -30,7 +30,6 @@ Binance, the leading centralized exchange with the widest business coverage, hol
 * Spot Trading Volume (Q1 2023): 15.5 trillion
 * Futures Trading Volume (Q1 2023): 44 trillion
 * Spot Trading Volume: Futures Trading Volume  = 26% : 74%
-* Revenue (Q1 2023): 3.35 billion (20% of quarterly revenue used for BNB buyback and burn, 23rd BNB burn amounted to approximately $670 million)
 
 Data Source: TokenInsight
 
@@ -44,13 +43,23 @@ Data Source: TokenInsight
 | 2018.10.23 | Strategic Investment  | Undisclosed  |
 | 2022.4.7   | Binance.US Seed Round | $200 million |
 
-## 3 Product Architecture       
+## 3 User Mind     
+
+Binance resembles the class leader in school—proficient in self-promotion and presentation, well-liked by classmates, and garnering support from over half of the class. Simultaneously, it excels academically by consistently maintaining the top position, displaying expertise in nearly all subjects, and showcasing versatility.
+
+User Profile of Binance:
+
+* Conservative in nature, they tend to adhere to tradition and embrace a cautious approach towards risk. Upholding personal reputation is a priority.
+* Emphasis on security. They are extremely vigilant about the potential risks posed by exchanges, especially the threat of exit scams. They opt for reputable and secure platforms to ensure comprehensive fund protection.
+* Prioritizing convenience, they seek an all-in-one platform to meet diverse needs. Binance, as a comprehensive exchange, offers trading, asset management, and more, catering to their convenience-oriented mindset.
+
+## 4 Product Architecture       
 
 <a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2023-08-04/architecture-en.jpg">
 ![Product Architecture]({{site.baseurl}}/assets/img/post/2023-08-04/architecture-en.jpg)
 </a>
 
-## 4 Binance Evolution       
+## 5 Binance Evolution       
 
 * 2017: Establishment
   * Launched BNB and introduced Binance exchange, achieving the position of the world's largest cryptocurrency trading platform by trading volume in December.
@@ -79,7 +88,9 @@ Data Source: TokenInsight
 * 2022: Compliance and Transparency (BTC's Price Halving)
   * By working collaboratively with regulators worldwide, Binance has secured registrations and licenses in 14 jurisdictions as of the end of 2022.
 
-## 5 Business Model       
+## 6 Business Model       
+
+Revenue (Q1 2023): 3.35 billion (20% of quarterly revenue used for BNB buyback and burn, 23rd BNB burn amounted to approximately $670 million)
 
 Seven major profit-making businesses：
 
@@ -103,29 +114,29 @@ Seven major profit-making businesses：
     2. Crypto: determined by blockchain network congestion
 
 
-## 6 Core Business Processes   
+## 7 Core Business Processes   
 
-### 6.1 Product Interfaces
+### 7.1 Product Interfaces
 
 Six client interfaces: iOS, Android, MacOS, Windows, Linux, and API. 
 
 Desktop usage accounts for over 50% of total users, while mobile access represents 21%.
 
-### 6.2 Core Business - Spot Trading
+### 7.2 Core Business - Spot Trading
 
 <a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2023-08-04/business-spots-trading-en.jpg">
 ![Core Business * Spot Trading]({{site.baseurl}}/assets/img/post/2023-08-04/business-spots-trading-en.jpg)
 </a>
 
-## 7 Distinctive Features
+## 8 Distinctive Features
 Binance Coin (BNB) stands out among other platform coins like OKB (OKX), HT (Huobi), and GT (Gate) due to its extensive influence, higher prices, and relatively complete ecosystem. In this analysis, we will explore BNB from two perspectives: its technology and use cases.
 
-### 7.1 Technology
+### 8.1 Technology
 Initially launched as an ERC-20 token on Ethereum, Binance Coin (BNB) conducted its initial coin offering (ICO) in 2017.
 
 However, in April 2019, Binance launched its own blockchain called Binance Chain and conducted a token swap from the ERC-20 BNB tokens to the native BNB tokens on the Binance Chain. The migration from the Ethereum network to Binance Chain was done to provide more scalability, faster transactions, and greater control over the token's features and functionality.
 
-### 7.2 Use Cases
+### 8.2 Use Cases
 
 1. Trading Fee Discounts: Using BNB on the Binance platform offers trading fee discounts (25% off for spot trading with BNB as fees, and 10% off for BNB-based fees on USDT-M Futures). This reduces users' trading costs.
 2. Participating in Liquid Swap: By providing liquidity for trading pairs, users can engage in liquidity mining to earn rewards. For instance, providing liquidity for BNB/BTC pair earns BNB rewards with an annualized yield of 0.6%.
@@ -135,7 +146,7 @@ However, in April 2019, Binance launched its own blockchain called Binance Chain
 6. Binance Card Payments: Users can deposit BNB into the Binance Card and use it to purchase goods and services, such as booking hotels and flights on Travala.
 7. Payment Applications: Apart from Binance Card, BNB is accepted as a payment method by some merchants.
 
-## 8 Summary and Insights
+## 9 Summary and Insights
 
 1. The evolution of Binance from a mere exchange to the expansive Binance Group signifies its wide-ranging influence in the midstream and downstream sectors of the blockchain industry. Beyond exchange operations, the group engages in charity, investments, academia, research, podcast, labs, staking, liquid swap, launchpool, launchpad, and mining pools. This diverse array of services has transformed Binance into a comprehensive blockchain service provider.
 2. Binance boasts multiple global trading platforms, including the flagship Binance platform, as well as Binance Jersey, Binance Singapore, Binance US, Binance Australia, and Binance Korea. This extensive presence caters to diverse market needs across different regions.
