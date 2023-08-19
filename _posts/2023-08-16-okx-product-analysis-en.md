@@ -11,6 +11,10 @@ date: 2023-08-16
 
 # OKX｜Product Analysis (2/100) 
 
+<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2023-08-16/logo-en.jpg">
+![Logo]({{site.baseurl}}/assets/img/post/2023-08-16/logo-en.jpg)
+</a>
+
 ## 1 Product Name
 
 OKX
@@ -40,7 +44,7 @@ Data Source：TokenInsight
 | 2014.3  | OKCoin concluded Series A round funding. | $10 million |
 | 2017.12 | OKEx closed Series B round funding.      | Undisclosed |
 
-## 3 User Mind     
+## 3 User Minds     
 
 OKX can be likened to the math class representative, possessing not only a solid knowledge foundation but also the ability to approach problems innovatively, offering fresh insights to their peers.
 

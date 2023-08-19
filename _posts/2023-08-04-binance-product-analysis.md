@@ -11,6 +11,10 @@ date: 2023-08-04
 
 # 币安｜产品拆解（1/100）
 
+<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2023-08-04/logo.jpg">
+![Logo]({{site.baseurl}}/assets/img/post/2023-08-04/logo.jpg)
+</a>
+
 ## 1 产品名称
 
 币安（Binance）

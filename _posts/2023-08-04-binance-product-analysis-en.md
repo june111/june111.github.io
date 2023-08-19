@@ -11,6 +11,10 @@ date: 2023-08-04
 
 # Binance - Product Analysis (1/100) 
 
+<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2023-08-04/logo-en.jpg">
+![Logo]({{site.baseurl}}/assets/img/post/2023-08-04/logo-en.jpg)
+</a>
+
 ## 1 Product Name
 
 Binance
@@ -43,7 +47,7 @@ Data Source: TokenInsight
 | 2018.10.23 | Strategic Investment  | Undisclosed  |
 | 2022.4.7   | Binance.US Seed Round | $200 million |
 
-## 3 User Mind     
+## 3 User Minds    
 
 Binance resembles the class leader in school—proficient in self-promotion and presentation, well-liked by classmates, and garnering support from over half of the class. Simultaneously, it excels academically by consistently maintaining the top position, displaying expertise in nearly all subjects, and showcasing versatility.
 

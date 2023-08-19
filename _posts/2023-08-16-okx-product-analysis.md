@@ -11,6 +11,10 @@ date: 2023-08-16
 
 # 欧易｜产品拆解（2/100）
 
+<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2023-08-16/logo.jpg">
+![Logo]({{site.baseurl}}/assets/img/post/2023-08-16/logo.jpg)
+</a>
+
 ## 1 产品名称
 
 欧易（OKX）
