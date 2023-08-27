@@ -46,7 +46,7 @@ Data Source：TokenInsight
 
 ## 3 User Minds     
 
-OKX can be likened to the math class representative, possessing not only a solid knowledge foundation but also the ability to approach problems innovatively, offering fresh insights to their peers.
+OKX can be likened to the math class representative, possessing not only a solid knowledge foundation but also the ability to approach problems innovatively, offering fresh insights to peers.
 
 User Profile of OKX:
 * Active traders: Engaged in derivatives trading, aiming to capitalize on market fluctuations.
