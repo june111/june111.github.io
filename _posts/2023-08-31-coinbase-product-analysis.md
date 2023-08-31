@@ -3,7 +3,7 @@ title: 'Coinbase｜产品拆解（3/100）'
 subtitle: ''
 tags: 产品经理 产品拆解
 author: June
-cover: /assets/img/post/2023-08-31/cover.png
+cover: /assets/img/post/2023-08-31/cover.jpg
 reward: 1
 layout: post
 date: 2023-08-31

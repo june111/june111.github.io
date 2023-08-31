@@ -3,7 +3,7 @@ title: 'Coinbase｜Product Analysis (3/100) '
 subtitle: ''
 tags: PM
 author: June
-cover: /assets/img/post/2023-08-31/cover.png
+cover: /assets/img/post/2023-08-31/cover.jpg
 reward: 1
 layout: post
 date: 2023-08-31
