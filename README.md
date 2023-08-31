@@ -6,15 +6,19 @@
 
 * [币安｜产品拆解（1/100）](https://june111.github.io/2023/08/04/binance-product-analysis)
 * [欧易｜产品拆解（2/100）](https://june111.github.io/2023/08/16/okx-product-analysis)
+* [Coinbase｜产品拆解（3/100）](https://june111.github.io/2023/08/31/coinbase-product-analysis)
+
 
 ## Product Analysis
 
 * [Binance | Product Analysis (1/100)](https://june111.github.io/2023/08/04/binance-product-analysis-en)
 * [OKX｜Product Analysis (2/100)](https://june111.github.io/2023/08/16/okx-product-analysis-en)
+* [Coinbase｜Product Analysis (3/100)](https://june111.github.io/2023/08/31/coinbase-product-analysis-en)
 
 
 ## 产品管理
 
+* [产品 | 滚石矿工竞品分析](https://june111.github.io/2020/08/27/2020-08-27-product-analysis-miner-shop)
 * [产品分析术](https://june111.github.io/2020/03/31/preface-of-pm)
 
 
