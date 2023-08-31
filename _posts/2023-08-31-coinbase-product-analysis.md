@@ -1,6 +1,6 @@
 ---
 title: 'Coinbase｜产品拆解（3/100）'
-subtitle: ''
+subtitle: '注重合规与安全，第一家在纳斯达克上市的加密货币交易所。'
 tags: 产品经理 产品拆解
 author: June
 cover: /assets/img/post/2023-08-31/cover.jpg
@@ -116,8 +116,8 @@ Coinbase 的用户画像：
 
 此外，Coinbase的稳定币业务也在不断增长。USDC 稳定币是与主权货币挂钩的代币，通常由现金和政府债券支持。随着美联储加息，国债收益率上升，Coinbase从中获得了更多的利息收入，这有助于抵消USDC市值的下降对公司利息收入的影响。
 
-<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2023-08-31/paradigm-shift.jpg">
-![订阅服务]({{site.baseurl}}/assets/img/post/2023-08-31/paradigm-shift.jpg)
+<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2023-08-31/paradigm-shift.png">
+![订阅服务]({{site.baseurl}}/assets/img/post/2023-08-31/paradigm-shift.png)
 </a>
 
 数据来源：Shareholder Letter
@@ -139,7 +139,7 @@ Coinbase的交易费用较币安和欧易要高。
 
 对于交易金额在200美元以下的订单，收取固定的交易费，范围从0.99美元到2.99美元。
 
-| 购买金额 (美元) | 交易费用（费率） |
+| 购买金额 (美元) | 交易费用 (费率) |
 |-----------------|------------------|
 | （0,10]         | $0.99            |
 | （10,25]        | $1.49            |

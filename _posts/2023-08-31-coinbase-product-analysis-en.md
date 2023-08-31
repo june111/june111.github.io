@@ -1,6 +1,6 @@
 ---
 title: 'Coinbase｜Product Analysis (3/100) '
-subtitle: ''
+subtitle: 'Prioritizing compliance and security, the first cryptocurrency exchange to be listed on Nasdaq.'
 tags: PM
 author: June
 cover: /assets/img/post/2023-08-31/cover.jpg
@@ -116,8 +116,8 @@ Income mainly from interest. Coinbase earns interest by storing customer funds i
 
 Moreover, Coinbase's stablecoin business is experiencing steady growth. USDC tokens are pegged to the price of a sovereign currency and are typically backed by cash and government notes. As the Federal Reserve raises interest rates, the increase in yields from government bonds allows Coinbase to generate more interest income. This helps mitigate the impact of the declining USDC market value on the company's interest earnings.
 
-<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2023-08-31/paradigm-shift-en.jpg">
-![Paradigm Shift]({{site.baseurl}}/assets/img/post/2023-08-31/paradigm-shift-en.jpg)
+<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2023-08-31/paradigm-shift-en.png">
+![Paradigm Shift]({{site.baseurl}}/assets/img/post/2023-08-31/paradigm-shift-en.png)
 </a>
 
 Data Source：Shareholder Letter
