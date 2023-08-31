@@ -178,6 +178,7 @@ To cut trading costs on Coinbase, consider using Coinbase Advanced, which doesnâ
 | $75m - $250m  | 0.12%                     | 0.03%                    |
 | $250m - $400m | 0.08%                     | 0.00%                    |
 | $400m+        | 0.05%                     | 0.00%                    |
+
 For instance, buying $1000 of BTC via a US bank account incurs a $14.9 fee in the standard version. However, with professional trading and a limit order, the fee drops to just $4 â€“ a notable 3.7 times difference!
 
 Although Coinbase Advanced is the most cost-effective way to trade, newcomers often prefer simple trade. For such users, Coinbase One subscription can save on fees.
