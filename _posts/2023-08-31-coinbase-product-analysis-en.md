@@ -259,3 +259,6 @@ Coinbase One members can generate IRS Form 8949 with pre-filled details, streaml
 ## 8 Summary and Insights 
 1. Strong Compliance: The registration process rigorously verifies IP region, phone number, identity, and social security details. These strict checks ensure successful registration only for users meeting these criteria, enhancing security and regulatory compliance.
 2. Innovative Business Model: Coinbase ingeniously combines subscriptions and trading, providing users a unique way to reduce costs. With Coinbase One, a membership service, users can avoid trading fees and gain up to $1 million in account insurance. This strategy boosts revenue diversification for Coinbase.
+3. Coinbase conducts weekly updates to consistently improve user experience, focusing on performance enhancements and security fixes. Version numbers change more frequently than the update dates. Following an agile development approach, the team introduces incremental improvements and fixes, ensuring rapid response to market needs and competitiveness.
+
+
