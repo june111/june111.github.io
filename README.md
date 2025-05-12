@@ -2,6 +2,12 @@
 
 文章前期追求广度，后期会加些深度。
 
+## 产品经验分享
+
+* [Web3产品设计：以钱包为例（上](https://june111.github.io/2025/04/29/web3-product-design-A)
+* [Web3产品设计：以钱包为例（下](https://june111.github.io/2025/05/12/web3-product-design-B)
+
+
 ## 产品拆解
 
 * [币安｜产品拆解（1/100）](https://june111.github.io/2023/08/04/binance-product-analysis)
