@@ -2,27 +2,43 @@
 
 文章前期追求广度，后期会加些深度。
 
-## 产品经验分享
+如果遇到链接打不开就刷新一下，可能重定向失败了。
 
-* [Web3产品设计：以钱包为例（上](https://june111.github.io/2025/04/29/web3-product-design-A)
-* [Web3产品设计：以钱包为例（下](https://june111.github.io/2025/05/12/web3-product-design-B)
+## Web3产品战略
 
 
-## 产品拆解
+
+## Web3求职
+
+* [Web3求职｜新手如何选Web3赛道](https://june111.github.io/2025/05/23/how-to-choose-your-career-path)
+* [Web3求职｜带你破解JD潜台词](https://june111.github.io/2025/05/24/how-to-breakout-JD)
+* [Web3求职｜如何写出直通面试的简历](https://june111.github.io/2025/05/25/how-to-write-cv)
+* [Web3求职｜如何准备面试（附问题清单和回答）](https://june111.github.io/2025/05/26/how-to-cover-interview)
+* [Web3求职｜成为Web3产品经理的7个关键切入点](https://june111.github.io/7Key-Entry-Points-for-Success)
+
+## 产品
+
+### 产品经验分享
+
+* [Web3产品设计：以钱包为例（上）](https://june111.github.io/2025/04/29/web3-product-design-A)
+* [Web3产品设计：以钱包为例（下）](https://june111.github.io/2025/05/12/web3-product-design-B)
+
+
+### 产品拆解
 
 * [币安｜产品拆解（1/100）](https://june111.github.io/2023/08/04/binance-product-analysis)
 * [欧易｜产品拆解（2/100）](https://june111.github.io/2023/08/16/okx-product-analysis)
 * [Coinbase｜产品拆解（3/100）](https://june111.github.io/2023/08/31/coinbase-product-analysis)
 
 
-## Product Analysis
+### Product Analysis
 
 * [Binance | Product Analysis (1/100)](https://june111.github.io/2023/08/04/binance-product-analysis-en)
 * [OKX｜Product Analysis (2/100)](https://june111.github.io/2023/08/16/okx-product-analysis-en)
 * [Coinbase｜Product Analysis (3/100)](https://june111.github.io/2023/08/31/coinbase-product-analysis-en)
 
 
-## 产品管理
+### 产品管理
 
 * [产品 | 滚石矿工竞品分析](https://june111.github.io/2020/08/27/2020-08-27-product-analysis-miner-shop)
 * [产品分析术](https://june111.github.io/2020/03/31/preface-of-pm)
