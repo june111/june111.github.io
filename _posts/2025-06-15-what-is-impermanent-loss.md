@@ -1,6 +1,6 @@
 ---
 title: '高年化背后的真相！LP血亏的产品逻辑'
-subtitle: '你盯着他的利息，他盯着你的本金'
+subtitle: '小心！你盯着他的利息，他盯着你的本金'
 tags: 产品经理
 author: June
 cover: /assets/img/post/2025-06-15/cover.png
@@ -15,13 +15,13 @@ date: 2025-06-15
 5月底那阵子，大家都在热议各种 LP（流动性提供）项目，说什么**年化2000%、3000%，看着像印钞机一样**。很多人被这类“高收益”吸引冲了进去，结果今天 Koge 和 ZKJ 闪崩了：**ZKJ 跌了 85%，KOGE 跌了 60%**，一夜回到解放前。
 
 <a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2025-06-15/coin.jpg">
-![用户场景]({{site.baseurl}}/assets/img/post/2025-06-15/coin.jpg)
+![币价]({{site.baseurl}}/assets/img/post/2025-06-15/coin.jpg)
 </a>
 
 其实那时候我就发过内容，明确提醒过：**LP不能随便碰**。
 
 <a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2025-06-15/twitter.jpg">
-![用户场景]({{site.baseurl}}/assets/img/post/2025-06-15/twitter.jpg)
+![推特]({{site.baseurl}}/assets/img/post/2025-06-15/twitter.jpg)
 </a>
 
 尤其是看不懂机制，只是看到高收益或者被一些软文煽动的人，**风险极高**。甚至还有人开课教“如何组LP”，现在看来，简直是教人做炮灰。
