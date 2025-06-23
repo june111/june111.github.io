@@ -6,7 +6,7 @@
 
 ## Web3产品战略
 
-
+* [公链之争｜稳定币部署策略大公开](https://june111.github.io/2025/06/23/how-to-choose-a-chain)
 
 ## Web3求职
 
@@ -22,6 +22,7 @@
 
 * [Web3产品设计：以钱包为例（上）](https://june111.github.io/2025/04/29/web3-product-design-A)
 * [Web3产品设计：以钱包为例（下）](https://june111.github.io/2025/05/12/web3-product-design-B)
+* [数据分析｜链上基础知识](https://june111.github.io/2025/06/18/how-to-start-withs-on-chain-data)
 
 
 ### 产品拆解
@@ -29,7 +30,8 @@
 * [币安｜产品拆解（1/100）](https://june111.github.io/2023/08/04/binance-product-analysis)
 * [欧易｜产品拆解（2/100）](https://june111.github.io/2023/08/16/okx-product-analysis)
 * [Coinbase｜产品拆解（3/100）](https://june111.github.io/2023/08/31/coinbase-product-analysis)
-
+* [Swap之王|UniSwap如何一步步做到3.7亿TVL](https://june111.github.io/2025/06/09/uniswap)
+* [高年化背后的真相！LP血亏的产品逻辑](https://june111.github.io/2025/06/15/what-is-impermanent-loss)
 
 ### Product Analysis
 
