@@ -179,5 +179,16 @@
 [用 Github Pages && Jekyll 搭建博客](https://june111.github.io/2018/12/17/building-blog-with-Jekyll.html)
 
 
+---
 
+## License
+
+This repository is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+
+For non-commercial use, redistribution is allowed with attribution and no modification.
+
+Commercial use requires prior written permission.  
+Copyright © 2025 June.
+
+Read the full license here: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
