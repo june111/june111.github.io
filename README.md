@@ -22,8 +22,10 @@
 
 * [Web3产品设计：以钱包为例（上）](https://june111.github.io/2025/04/29/web3-product-design-A)
 * [Web3产品设计：以钱包为例（下）](https://june111.github.io/2025/05/12/web3-product-design-B)
-* [数据分析｜链上基础知识](https://june111.github.io/2025/06/18/how-to-start-withs-on-chain-data)
 
+### 数据分析
+* [数据分析｜链上基础知识](https://june111.github.io/2025/06/18/how-to-start-withs-on-chain-data)
+* [Web3 市场打法｜如何用链上数据做精准增长](https://june111.github.io/2025/06/28/how-to-use-on-chain-data-for-marketing)
 
 ### 产品拆解
 
