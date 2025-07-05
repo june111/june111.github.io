@@ -1,0 +1,136 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram name="Page-1" id="s3JTDgsFL5jB2meH7k_M">
+    <mxGraphModel dx="1179" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1bgvdCTu02qLNfFNPXuh-2" value="检查域名是否可用" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="211" y="271" width="177" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="1bgvdCTu02qLNfFNPXuh-3" value="计算注册费用和租金" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="326.5" y="421" width="240" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1bgvdCTu02qLNfFNPXuh-4" value="提示域名已被注册" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1334" width="240" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1bgvdCTu02qLNfFNPXuh-5" value="用户支付注册费和租金SOL" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="326.5" y="537" width="240" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1bgvdCTu02qLNfFNPXuh-6" value="生成对应的域名账户（PDA账户）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="326.5" y="636" width="240" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1bgvdCTu02qLNfFNPXuh-7" value="将SOL中的rent金额存入域名账户" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="326.5" y="752" width="240" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1bgvdCTu02qLNfFNPXuh-8" value="写入域名元数据&#xa;（如名称、拥有者、解析地址）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="326.5" y="868" width="240" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1bgvdCTu02qLNfFNPXuh-9" value="是否需要设置解析地址？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="334" y="970" width="225" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1bgvdCTu02qLNfFNPXuh-10" value="用户填写解析地址并提交" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="252" y="1114" width="240" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1bgvdCTu02qLNfFNPXuh-11" value="更新域名账户信息" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="252" y="1217" width="240" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1bgvdCTu02qLNfFNPXuh-12" value="完成注册，用户获得域名" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="328" y="1334" width="240" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1bgvdCTu02qLNfFNPXuh-15" value="结束" style="whiteSpace=wrap;strokeWidth=2;rounded=1;arcSize=47;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="247" y="1443" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1bgvdCTu02qLNfFNPXuh-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1bgvdCTu02qLNfFNPXuh-36" target="1bgvdCTu02qLNfFNPXuh-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="299" y="86" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1bgvdCTu02qLNfFNPXuh-17" value="可用" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.92;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1bgvdCTu02qLNfFNPXuh-2" target="1bgvdCTu02qLNfFNPXuh-3">
+          <mxGeometry x="-0.0896" y="-17" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="446" y="349" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1bgvdCTu02qLNfFNPXuh-18" value="不可用" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.9;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="1bgvdCTu02qLNfFNPXuh-2" target="1bgvdCTu02qLNfFNPXuh-4">
+          <mxGeometry x="-0.9376" y="38" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="146" y="349" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1bgvdCTu02qLNfFNPXuh-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1bgvdCTu02qLNfFNPXuh-3" target="1bgvdCTu02qLNfFNPXuh-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1bgvdCTu02qLNfFNPXuh-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1bgvdCTu02qLNfFNPXuh-5" target="1bgvdCTu02qLNfFNPXuh-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1bgvdCTu02qLNfFNPXuh-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1bgvdCTu02qLNfFNPXuh-6" target="1bgvdCTu02qLNfFNPXuh-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1bgvdCTu02qLNfFNPXuh-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1bgvdCTu02qLNfFNPXuh-7" target="1bgvdCTu02qLNfFNPXuh-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1bgvdCTu02qLNfFNPXuh-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1bgvdCTu02qLNfFNPXuh-8" target="1bgvdCTu02qLNfFNPXuh-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1bgvdCTu02qLNfFNPXuh-24" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="1bgvdCTu02qLNfFNPXuh-9" target="1bgvdCTu02qLNfFNPXuh-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1bgvdCTu02qLNfFNPXuh-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="1bgvdCTu02qLNfFNPXuh-10" target="1bgvdCTu02qLNfFNPXuh-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1bgvdCTu02qLNfFNPXuh-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.34;entryY=0;rounded=0;" edge="1" parent="1" source="1bgvdCTu02qLNfFNPXuh-11" target="1bgvdCTu02qLNfFNPXuh-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="1300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1bgvdCTu02qLNfFNPXuh-27" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.66;entryY=0;rounded=0;" edge="1" parent="1" source="1bgvdCTu02qLNfFNPXuh-9" target="1bgvdCTu02qLNfFNPXuh-12">
+          <mxGeometry x="-0.0534" y="-24" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="1220" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1bgvdCTu02qLNfFNPXuh-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.25;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1bgvdCTu02qLNfFNPXuh-4" target="1bgvdCTu02qLNfFNPXuh-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="1440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1bgvdCTu02qLNfFNPXuh-31" value="" style="curved=1;startArrow=none;endArrow=block;entryX=1;entryY=0.25;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1bgvdCTu02qLNfFNPXuh-12" target="1bgvdCTu02qLNfFNPXuh-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="1420" />
+            </Array>
+            <mxPoint x="448" y="1584" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1bgvdCTu02qLNfFNPXuh-36" value="开始&#xa;用户发起购买域名请求" style="whiteSpace=wrap;strokeWidth=2;rounded=1;arcSize=47;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="179.5" y="171" width="240" height="49" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
