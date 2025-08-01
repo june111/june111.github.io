@@ -4,22 +4,6 @@
 
 如果遇到链接打不开就刷新一下，可能重定向失败了。
 
-## 热点分析
-* [链上美股的“资产所有权”到底是谁的？](https://june111.github.io/2025/07/23/who-control-asset)
-* [链上美股 24/7 的交易真相](https://june111.github.io/2025/07/24/onchain-stock)
-
-## Web3产品战略
-
-* [公链之争｜稳定币部署策略大公开](https://june111.github.io/2025/06/23/how-to-choose-a-chain)
-
-## Web3求职
-
-* [Web3求职｜新手如何选Web3赛道](https://june111.github.io/2025/05/23/how-to-choose-your-career-path)
-* [Web3求职｜带你破解JD潜台词](https://june111.github.io/2025/05/24/how-to-breakout-JD)
-* [Web3求职｜如何写出直通面试的简历](https://june111.github.io/2025/05/25/how-to-write-cv)
-* [Web3求职｜如何准备面试（附问题清单和回答）](https://june111.github.io/2025/05/26/how-to-cover-interview)
-* [Web3求职｜成为Web3产品经理的7个关键切入点](https://june111.github.io/7Key-Entry-Points-for-Success)
-
 ## 产品
 
 ### 产品经验分享
@@ -39,6 +23,8 @@
 * [Swap之王|UniSwap如何一步步做到3.7亿TVL](https://june111.github.io/2025/06/09/uniswap)
 * [高年化背后的真相！LP血亏的产品逻辑](https://june111.github.io/2025/06/15/what-is-impermanent-loss)
 * [SNS｜产品拆解（5/100）](https://june111.github.io/2025/07/05/sns-product-analysis)
+* [GiveRep｜产品拆解（6/100）](https://june111.github.io/2025/07/31/giverep-product-analysis)
+* [Neutral Trade｜产品拆解（7/100）](https://june111.github.io/2025/08/01/neutral-trade-product-analysis)
 
 ### Product Analysis
 
@@ -52,6 +38,21 @@
 * [产品 | 滚石矿工竞品分析](https://june111.github.io/2020/08/27/2020-08-27-product-analysis-miner-shop)
 * [产品分析术](https://june111.github.io/2020/03/31/preface-of-pm)
 
+## 热点分析
+* [链上美股的“资产所有权”到底是谁的？](https://june111.github.io/2025/07/23/who-control-asset)
+* [链上美股 24/7 的交易真相](https://june111.github.io/2025/07/24/onchain-stock)
+
+## Web3产品战略
+
+* [公链之争｜稳定币部署策略大公开](https://june111.github.io/2025/06/23/how-to-choose-a-chain)
+
+## Web3求职
+
+* [Web3求职｜新手如何选Web3赛道](https://june111.github.io/2025/05/23/how-to-choose-your-career-path)
+* [Web3求职｜带你破解JD潜台词](https://june111.github.io/2025/05/24/how-to-breakout-JD)
+* [Web3求职｜如何写出直通面试的简历](https://june111.github.io/2025/05/25/how-to-write-cv)
+* [Web3求职｜如何准备面试（附问题清单和回答）](https://june111.github.io/2025/05/26/how-to-cover-interview)
+* [Web3求职｜成为Web3产品经理的7个关键切入点](https://june111.github.io/7Key-Entry-Points-for-Success)
 
 ## 项目管理
 

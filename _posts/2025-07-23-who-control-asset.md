@@ -3,7 +3,7 @@ title: '链上美股的“资产所有权”到底是谁的？'
 subtitle: '“链上 = 去中心化”是最常见的误解'
 tags: 产品经理
 author: June
-cover: /assets/img/post/2025-07-23/cover.jpg
+cover: /assets/img/post/2025-07-23/cover.png
 reward: 1
 layout: post
 date: 2025-07-23

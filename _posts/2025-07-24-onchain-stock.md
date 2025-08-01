@@ -3,7 +3,7 @@ title: '链上美股 24/7 的交易真相'
 subtitle: '为啥链上美股可以做到 24/7 全天候交易？一文带你看懂真实运作'
 tags: 产品经理
 author: June
-cover: /assets/img/post/2025-07-24/cover.jpg
+cover: /assets/img/post/2025-07-24/cover.png
 reward: 1
 layout: post
 date: 2025-07-24
