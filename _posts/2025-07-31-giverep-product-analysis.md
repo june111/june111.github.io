@@ -141,9 +141,13 @@ GiveRep 的产品本质是一个 “**社区驱动的去中心化广告营销平
 ## 4 产品架构
 
 GiveRep 的功能体系由四个关键模块构成：
+
 **声誉系统**（Reputation）
+
 **项目任务**（Loyalty Programs）
+
 **项目聚合**（Project Aggregator）
+
 **钱包与身份**（Wallet & Identity）
 
 <a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2025-07-31/product.png">
@@ -225,6 +229,10 @@ GiveRep 的功能体系由四个关键模块构成：
 - **强化用户参与动机**，变“内容输出 → 可量化收益”；
 - 项目方通过 GiveRep **获取精准曝光和真实用户**；
 - 用户多次参与同一项目可积累“**项目影响力**”。
+
+<a data-fancybox="gallery" href="{{site.baseurl}}/assets/img/post/2025-07-31/metrics.jpg">
+![specific metrics]({{site.baseurl}}/assets/img/post/2025-07-31/metrics.jpg)
+</a>
 
 ---
 
