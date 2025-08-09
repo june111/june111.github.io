@@ -31,6 +31,7 @@
 * [Binance | Product Analysis (1/100)](https://june111.github.io/2023/08/04/binance-product-analysis-en)
 * [OKX｜Product Analysis (2/100)](https://june111.github.io/2023/08/16/okx-product-analysis-en)
 * [Coinbase｜Product Analysis (3/100)](https://june111.github.io/2023/08/31/coinbase-product-analysis-en)
+* [GiveRep｜Product Analysis (6/100) ](https://june111.github.io/2025/08/09/giverep-product-analysis-en)
 
 
 ### 产品管理

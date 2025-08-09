@@ -1,6 +1,6 @@
 ---
 title: 'GiveRep｜Product Analysis (6/100) '
-subtitle: '如何用 Web3 的方式重构社交影响力，不再局限于传统的点赞、粉丝数、浏览量...'
+subtitle: 'How to Reconstruct Social Influence with Web3'
 tags: 产品经理
 author: June
 cover: /assets/img/post/2025-08-09/cover.png
