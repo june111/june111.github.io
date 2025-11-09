@@ -3,10 +3,10 @@ title: '认知迭代杂记（2）'
 subtitle: '币圈一天，人间一年。不追光，只筑塔，每周复盘，登高一步。'
 tags: 产品经理
 author: June
-cover: /assets/img/post/2025-11-01/cover.png
+cover: /assets/img/post/2025-11-02/cover.png
 reward: 1
 layout: post
-date: 2025-11-01
+date: 2025-11-02
 ---
 
 # 认知迭代杂记（2）
