@@ -1,6 +1,6 @@
 ---
 title: '判断项目是否能长久的核心'
-subtitle: '币圈一天，人间一年。不追光，只筑塔，每周复盘，登高一步。'
+subtitle: '币圈一天，人间一年。不追光，只筑塔，每周复盘，登高一步。（8）'
 tags: 产品经理
 author: June
 cover: /assets/img/post/2025-12-14/cover.png

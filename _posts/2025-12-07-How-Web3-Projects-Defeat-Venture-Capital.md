@@ -1,6 +1,6 @@
 ---
 title: 'VC被反杀，Web3 充满草根逆袭的故事'
-subtitle: '币圈一天，人间一年。不追光，只筑塔，每周复盘，登高一步。'
+subtitle: '币圈一天，人间一年。不追光，只筑塔，每周复盘，登高一步。（7）'
 tags: 产品经理
 author: June
 cover: /assets/img/post/2025-12-07/cover.png

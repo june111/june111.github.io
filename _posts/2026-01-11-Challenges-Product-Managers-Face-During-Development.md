@@ -1,6 +1,6 @@
 ---
 title: '那些真正厉害的产品经理，都在死磕什么'
-subtitle: '币圈一天，人间一年。不追光，只筑塔，每周复盘，登高一步。'
+subtitle: '币圈一天，人间一年。不追光，只筑塔，每周复盘，登高一步。（12）'
 tags: 产品经理
 author: June
 cover: /assets/img/post/2026-01-11/cover.png
