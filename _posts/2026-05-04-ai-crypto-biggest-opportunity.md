@@ -1,6 +1,6 @@
 ---
 title: 'AI + Web3 的最大机会'
-subtitle: '币圈一天，人间一年。不追光，只筑塔，每周复盘，登高一步。（26）'
+subtitle: '币圈一天，人间一年。不追光，只筑塔，每周复盘，登高一步。（25）'
 tags: 产品经理
 author: June
 cover: /assets/img/post/2026-05-04/cover.png
